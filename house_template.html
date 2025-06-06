@@ -250,7 +250,18 @@
                 Deze waarde wordt gebruikt voor het berekenen van de onroerendezaakbelasting (OZB).
             </p>
         </div>
-        <div class="info-item"></div>
+        <div class="info-item" style="background:#e8f4f8;padding:15px;border-radius:8px;">
+            <h3 style="margin:0 0 10px 0;color:#285AA0;">Immigratie Index</h3>
+            {% if immigration_info %}
+                <div style="margin:0;font-size:16px;">{{ immigration_info | safe }}</div>
+            {% else %}
+                <p style="margin:0;color:#666;">Geen immigratie informatie beschikbaar</p>
+            {% endif %}
+            <p style="margin:10px 0 0 0;font-size:12px;color:#666;">
+                De immigratie index toont het percentage allochtonen in de buurt. 
+                Dit kan helpen bij het begrijpen van de culturele diversiteit in de wijk.
+            </p>
+        </div>
         <div class="info-item"></div>
     </div>
     <div class="main-content">
