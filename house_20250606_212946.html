@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riouwstraat 77</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #f5f5f5;
+        }
+        .header {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            position: relative;
+        }
+        .title {
+            font-size: 28px;
+            color: #2c3e50;
+            margin: 0 0 15px 0;
+        }
+        .price {
+            font-size: 24px;
+            color: #e74c3c;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        .address {
+            font-size: 18px;
+            color: #7f8c8d;
+            margin-bottom: 15px;
+        }
+        .important-info {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 20px;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+        }
+        .info-item {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .info-label {
+            color: #7f8c8d;
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+        .info-value {
+            color: #2c3e50;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .makelaar-card {
+            position: absolute;
+            top: 30px;
+            right: 30px;
+            background: #e8f4f8;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(44,62,80,0.07);
+            padding: 18px 28px;
+            min-width: 220px;
+            z-index: 10;
+        }
+        .makelaar-card h3 {
+            margin: 0 0 8px 0;
+            font-size: 18px;
+            color: #285AA0;
+        }
+        .makelaar-card p {
+            margin: 0;
+            color: #2c3e50;
+            font-size: 16px;
+        }
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .info-section {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .gallery {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .gallery img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+        th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        tr:hover {
+            background-color: #f8f9fa;
+        }
+        .section-title {
+            color: #2c3e50;
+            font-size: 20px;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #3498db;
+        }
+        .station-info {
+            background-color: #e8f4f8;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+        .agent-info {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1 class="title">Riouwstraat 77</h1>
+        <div class="price">€ 519.000 k.k.</div>
+        <div class="address">3531CW Utrecht</div>
+        <div class="makelaar-card">
+            <h3>Verkopend makelaar</h3>
+            
+                <p><b>Blauwe Eik Makelaardij</b></p>
+                
+                    <p><a href="tel:030-8893330">030-8893330</a></p>
+                
+                
+                    <p><a href="mailto:info@blauweeik.nl">info@blauweeik.nl</a></p>
+                
+            
+        </div>
+        <div class="important-info" style="grid-template-columns: 1fr 1fr 1fr;">
+            <!-- 左侧：重要参数 -->
+            <div class="info-item">
+                
+                <div class="info-label">Woonoppervlakte</div>
+                <div class="info-value">89 m²</div>
+                
+                
+                <div class="info-label">Inhoud</div>
+                <div class="info-value">306 m³</div>
+                
+                
+                <div class="info-label">Bouwjaar</div>
+                <div class="info-value">1915</div>
+                
+                
+                <div class="info-label">Aantal kamers</div>
+                <div class="info-value">4 kamers (waarvan 3 slaapkamers)</div>
+                
+                
+                <div class="info-label">Aantal badkamers</div>
+                <div class="info-value">1 badkamer en 1 apart toilet</div>
+                
+                
+                <div class="info-label">Aantal slaapkamers</div>
+                <div class="info-value">3</div>
+                
+                
+                <div class="info-label">Energielabel</div>
+                <div class="info-value">D</div>
+                
+            </div>
+            <!-- 中间：预留 -->
+            <div class="info-item">
+                <!-- 预留空白，后续可添加内容 -->
+            </div>
+            <!-- 右侧：Google Maps 车站与通勤信息 -->
+            <div class="info-item" style="padding:0;background:none;">
+                <table style="width:100%;background:#e8f4f8;padding:10px;border-radius:8px;">
+                    <tr>
+                        <td style="color:#888;">Dichtstbijzijnde station</td>
+                        <td><b>Utrecht Centraal</b> (Netherlands)</td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888;">Lopen naar station</td>
+                        <td><b>10 min (0,7 km)</b></td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888;">Reistijd naar Amsterdam Science Park</td>
+                        <td>
+                            
+                                <b>52 min (38,1 km)</b>
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888;">Reistijd naar Eindhoven Flux gebouw</td>
+                        <td>
+                            
+                                <b>1 uur 20 min. (82,2 km)</b>
+                            
+                        </td>
+                    </tr>
+                </table>
+                <div style="font-size:12px;color:#888;margin-top:8px;">* Reistijden gebaseerd op Google Maps, vertrek volgende dinsdag om 9:00 uur</div>
+            </div>
+        </div>
+    </div>
+    <!-- 新增：顶部下方的三列空白模块 -->
+    <div class="top-extra-info" style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;margin-bottom:20px;">
+        <div class="info-item" style="color:#888;">
+            wozwaardeloket：查看房子的官方估值，一般都是每年年初，根据上一年度同等类型房屋成交价格形成的估值，有很大的参考价值，但是有延迟性。因为现在的估值是根据上一年的成交价。
+        </div>
+        <div class="info-item"></div>
+        <div class="info-item"></div>
+    </div>
+    <div class="main-content">
+        <div class="info-section">
+            <h2 class="section-title">Gedetailleerde kenmerken</h2>
+            
+                
+                <h3>Overdracht</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Vraagprijs</td>
+                        <td>€ 519.000 k.k.</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Status</td>
+                        <td>Beschikbaar</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Aanvaarding</td>
+                        <td>In overleg</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Bouw</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Soort woonhuis</td>
+                        <td>Eengezinswoning, Tussenwoning</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Bouwjaar</td>
+                        <td>1915</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Soort bouw</td>
+                        <td>Bestaande bouw</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Soort dak</td>
+                        <td>Zadeldak bedekt met pannen</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Kadastrale gegevens</td>
+                        <td>Volle eigendom, gemeente Catharijne, sectie C, nummer 2130 , perceeloppervlakte: 55 m2</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Bijzonderheden</td>
+                        <td>Gedeeltelijk gestoffeerd</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Oppervlakte en inhoud</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Woonoppervlakte</td>
+                        <td>89 m²</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Perceeloppervlakte</td>
+                        <td>55 m²</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Inhoud</td>
+                        <td>306 m³</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Indeling</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Aantal kamers</td>
+                        <td>4 kamers (waarvan 3 slaapkamers)</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Aantal badkamers</td>
+                        <td>1 badkamer en 1 apart toilet</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Voorzieningen</td>
+                        <td>Mechanische ventilatie, TV kabel, Dakraam, Glasvezel kabel, Natuurlijke ventilatie</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Energie</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Isolatie</td>
+                        <td>Vloerisolatie, Dubbel glas, HR-glas</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Verwarming</td>
+                        <td>Cv-ketel</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Warm water</td>
+                        <td>Cv-ketel, Elektrische boiler eigendom</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Cv-ketel</td>
+                        <td>Remeha Tzerra cw4 uit 2020, Eigendom</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Energielabel</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Energieklasse</td>
+                        <td>D</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Buitenruimte</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Ligging</td>
+                        <td>Aan rustige weg, In woonwijk</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Tuin</td>
+                        <td>Achtertuin</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Achtertuin</td>
+                        <td>7 m² (2,23m diep en 3,21m breed)</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Ligging tuin</td>
+                        <td>Gelegen op het zuiden, westen, zuidwesten</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Parkeergelegenheid</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Soort parkeergelegenheid</td>
+                        <td>Betaald parkeren, Parkeervergunningen</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+            
+        </div>
+        <div class="gallery">
+            <h2 class="section-title">Foto's</h2>
+            
+            <img src="https://media.nvm.nl/8c8ca3c4-d1ff-4b36-bc15-ab1c2d201369" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/560e3dba-107c-4141-b632-5fb7c338f8a3" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/53ac0ef6-b373-4e71-bf14-e85c75380e5d" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/9fb7af9c-0093-457a-a82e-b7e4d30ee866" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/e8998823-5097-43e1-8be8-0122cc973930" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/b07eeda8-7562-4f31-ae9d-f01034998de0" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/eb4e76f7-83f9-47f0-80ca-c78635c85094" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/677addb1-a347-4ae6-8c3b-41e311d90a2e" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/81857e0d-d0c0-4519-9dbf-576d9051de66" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/d0ad7db6-04e6-478c-8888-2a7e88d2d6f3" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/94c13581-fac3-41cb-a8c1-fb7166b96d8c" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/296a7390-4fe7-4467-83e0-a905470c6e19" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/8c14d407-4454-45d9-ac30-4872744b7613" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/281a41fe-f91b-4331-ade0-40dc20ba8604" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/1260cffa-08a3-4b68-bcfe-6e387ddbfb48" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/bea309d3-6759-4e30-a460-b31de6c09c7b" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/c5aa03af-873e-4bbf-9fc3-a7c78cca4b46" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/21f8e0ec-3bdd-44e7-b1cb-ad1e2b640f56" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/dcd6de9f-dfee-4597-bbb9-663540dd9140" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/c9b49df1-92cf-40b8-bffc-cc5b9914db08" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/456e4c8f-cbf5-44ba-833a-d005665eaf21" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/3b856a77-a026-4ee3-a025-b422c20b7e7c" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/61b37191-abc4-4b1d-b9b0-9aa8b88fa527" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/94d33bf6-07a5-412f-a38d-6efdb241dc94" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/5b772e17-b4c7-4eae-93b7-ed649bf13a2e" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/72d71e3a-18e9-4d94-922f-cdb8277e620f" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/75b7f881-95eb-4366-a0cf-e60f7c5c5d84" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/b9326091-268e-4873-ad57-e9538d1c1149" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/a8232a80-4af0-4fdc-9913-927220cb4a6f" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/3fa1a446-832a-480b-9542-14c213292146" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/4b5572dc-3d25-444a-9765-df2f04efbd26" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/19144da3-36a6-4479-8324-3e8feef8b2a6" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/88552c04-2a3d-4dca-8594-ff22eac266c0" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/91710ff3-0ff4-4858-9b6d-39009b9a31a4" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/35f98c59-0c70-4f75-8b79-424555a17a38" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/96e7f59d-9d35-44f6-835c-dd13566af1fe" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/d8a7c37e-5667-45cc-a4d6-540b1acee74b" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/f15c087d-e943-4f8a-9856-6e704be025eb" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/7e3d6323-2330-409c-8669-fbe6751f5721" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/3f9a9c9a-87ec-4d3c-995f-b5eda86076ec" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/71bd0c5e-653b-4608-83b1-dc264d6c339b" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/77f82e70-7674-464a-a3a2-86bebe8bba47" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/780cd0d7-6388-4501-8822-be8a623ccd5d" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/9bea2e92-4c81-44b7-a375-59d928aaad8d" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/0020eb9c-6d3a-4518-8c13-f81ff189a7fb" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/5cd555ef-6d5e-45b2-a3f3-afb52a78a12b" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/43d31cad-e156-4127-a490-ba0fa9cc60d2" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/2449a9c7-caeb-4fa5-872e-9e8ff02ed874" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/aa2dfa18-b207-4da0-8999-eea470fcd049" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/31a4aa48-b34a-4557-8048-869a570759bd" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/3e8ee441-e037-4aa4-aff7-446fdf2ffddd" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/c47446b1-d9a7-4254-8756-5ebda0cd5738" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/280623e4-5c0c-4425-972a-400302c3381e" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/0d22cabe-2778-4418-aa92-ff43b3c03d3c" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/7e942c59-64e2-4e23-a746-9ec2992ebb62" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/bf2b832a-e0c6-4992-ab70-5f3739912d42" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/5c0cde9b-ac56-4b54-8df7-7c9b4bdd9153" alt="Woning foto">
+            
+        </div>
+    </div>
+</body>
+</html> 
