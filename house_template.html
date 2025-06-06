@@ -170,27 +170,29 @@
 
     <div class="main-content">
         <div class="info-section">
-            <h2 class="section-title">Overige informatie</h2>
-            {% for section, content in other_info.items() %}
-            <h3>{{ section }}</h3>
-            <table>
-                <tr>
-                    <th>Details</th>
-                </tr>
-                {% for item in content %}
-                <tr>
-                    <td>{{ item }}</td>
-                </tr>
+            <h2 class="section-title">详细参数</h2>
+            {% if details_sections %}
+                {% for section, group in details_sections.items() %}
+                <h3>{{ section }}</h3>
+                <table>
+                    <tbody>
+                    {% for key, value in group.items() %}
+                    <tr>
+                        <td style="width:40%;color:#888;">{{ key }}</td>
+                        <td>{{ value }}</td>
+                    </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
                 {% endfor %}
-            </table>
-            {% endfor %}
-            
+            {% else %}
+                <p>暂无结构化参数信息。</p>
+            {% endif %}
             <div class="agent-info">
                 <h3>Makelaar</h3>
                 <p>{{ agent }}</p>
             </div>
         </div>
-
         <div class="gallery">
             <h2 class="section-title">Foto's</h2>
             {% for image in images %}
