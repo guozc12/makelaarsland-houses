@@ -164,74 +164,52 @@
                 <p>{{ agent }}</p>
             {% endif %}
         </div>
-        <div class="important-info" style="grid-template-columns: 1fr 1fr 1fr;">
-            <!-- 左侧：重要参数 -->
-            <div class="info-item">
-                {% if important_info.get('Woonoppervlakte') %}
-                <div class="info-label">Woonoppervlakte</div>
-                <div class="info-value">{{ important_info['Woonoppervlakte'] }}</div>
-                {% endif %}
-                {% if important_info.get('Inhoud') %}
-                <div class="info-label">Inhoud</div>
-                <div class="info-value">{{ important_info['Inhoud'] }}</div>
-                {% endif %}
-                {% if important_info.get('Bouwjaar') %}
-                <div class="info-label">Bouwjaar</div>
-                <div class="info-value">{{ important_info['Bouwjaar'] }}</div>
-                {% endif %}
-                {% if important_info.get('Aantal kamers') %}
-                <div class="info-label">Aantal kamers</div>
-                <div class="info-value">{{ important_info['Aantal kamers'] }}</div>
-                {% endif %}
-                {% if important_info.get('Aantal badkamers') %}
-                <div class="info-label">Aantal badkamers</div>
-                <div class="info-value">{{ important_info['Aantal badkamers'] }}</div>
-                {% endif %}
-                {% if important_info.get('Aantal slaapkamers') %}
-                <div class="info-label">Aantal slaapkamers</div>
-                <div class="info-value">{{ important_info['Aantal slaapkamers'] }}</div>
-                {% endif %}
-                {% if important_info.get('Energielabel') %}
-                <div class="info-label">Energielabel</div>
-                <div class="info-value">{{ important_info['Energielabel'] }}</div>
-                {% endif %}
+        <div class="important-info" style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;margin-bottom:20px;">
+            <div class="info-item" style="background:#e8f4f8;padding:15px;border-radius:8px;">
+                <h3 style="margin:0 0 10px 0;color:#285AA0;">Belangrijke informatie</h3>
+                <div style="margin:0;font-size:16px;">
+                    {% if important_info %}
+                        <table style="width:100%;border-collapse:collapse;">
+                            {% for key, value in important_info.items() %}
+                                {% if value %}
+                                <tr>
+                                    <td style="padding:4px 0;">{{ key }}:</td>
+                                    <td style="padding:4px 0;">{{ value }}</td>
+                                </tr>
+                                {% endif %}
+                            {% endfor %}
+                        </table>
+                    {% else %}
+                        <p style="margin:0;color:#666;">Geen belangrijke informatie beschikbaar</p>
+                    {% endif %}
+                </div>
             </div>
-            <!-- 中间：预留 -->
-            <div class="info-item">
-                <!-- 预留空白，后续可添加内容 -->
+            <div class="info-item" style="background:#e8f4f8;padding:15px;border-radius:8px;">
+                <h3 style="margin:0 0 10px 0;color:#285AA0;">Huispedia</h3>
+                {% if huispedia_url %}
+                <div style="margin:0;text-align:center;">
+                    <a href="{{ huispedia_url }}" target="_blank" style="display:inline-block;background:#285AA0;color:white;padding:8px 16px;border-radius:4px;text-decoration:none;font-size:14px;">
+                        Bekijk op Huispedia
+                    </a>
+                </div>
+                {% else %}
+                <p style="margin:0;color:#666;">Geen Huispedia informatie beschikbaar</p>
+                {% endif %}
+                <p style="margin:10px 0 0 0;font-size:12px;color:#666;">
+                    Huispedia biedt gedetailleerde informatie over de woning, 
+                    inclusief historische gegevens en buurtinformatie.
+                </p>
             </div>
-            <!-- 右侧：Google Maps 车站与通勤信息 -->
-            <div class="info-item" style="padding:0;background:none;">
-                <table style="width:100%;background:#e8f4f8;padding:10px;border-radius:8px;">
-                    <tr>
-                        <td style="color:#888;">Dichtstbijzijnde station</td>
-                        <td><b>{{ nearest_station.station_name }}</b> {% if nearest_station.station_addr %}({{ nearest_station.station_addr }}){% endif %}</td>
-                    </tr>
-                    <tr>
-                        <td style="color:#888;">Lopen naar station</td>
-                        <td><b>{{ nearest_station.walking_time }} {% if nearest_station.walking_distance %}({{ nearest_station.walking_distance }}){% endif %}</b></td>
-                    </tr>
-                    <tr>
-                        <td style="color:#888;">Reistijd naar Amsterdam Science Park</td>
-                        <td>
-                            {% if nearest_station.to_science_park %}
-                                <b>{{ nearest_station.to_science_park.duration }} ({{ nearest_station.to_science_park.distance }})</b>
-                            {% else %}
-                                -
-                            {% endif %}
-                        </td>
-                    </tr>
-                    <tr>
-                        <td style="color:#888;">Reistijd naar Eindhoven Flux gebouw</td>
-                        <td>
-                            {% if nearest_station.to_flux %}
-                                <b>{{ nearest_station.to_flux.duration }} ({{ nearest_station.to_flux.distance }})</b>
-                            {% else %}
-                                -
-                            {% endif %}
-                        </td>
-                    </tr>
-                </table>
+            <div class="info-item" style="background:#e8f4f8;padding:15px;border-radius:8px;">
+                <h3 style="margin:0 0 10px 0;color:#285AA0;">Reistijden</h3>
+                {% if nearest_station %}
+                    <div style="margin:0;font-size:16px;">
+                        <p style="margin:0 0 8px 0;">Dichtstbijzijnde station: {{ nearest_station.name }}</p>
+                        <p style="margin:0;">Afstand: {{ nearest_station.distance }} km</p>
+                    </div>
+                {% else %}
+                    <p style="margin:0;color:#666;">Geen reistijd informatie beschikbaar</p>
+                {% endif %}
                 <div style="font-size:12px;color:#888;margin-top:8px;">* Reistijden gebaseerd op Google Maps, vertrek volgende dinsdag om 9:00 uur</div>
             </div>
         </div>
@@ -261,13 +239,6 @@
                 De immigratie index toont het percentage allochtonen in de buurt. 
                 Dit kan helpen bij het begrijpen van de culturele diversiteit in de wijk.
             </p>
-            {% if huispedia_url %}
-            <div style="margin-top:10px;text-align:center;">
-                <a href="{{ huispedia_url }}" target="_blank" style="display:inline-block;background:#285AA0;color:white;padding:8px 16px;border-radius:4px;text-decoration:none;font-size:14px;">
-                    Bekijk op Huispedia
-                </a>
-            </div>
-            {% endif %}
         </div>
         <div class="info-item"></div>
     </div>
