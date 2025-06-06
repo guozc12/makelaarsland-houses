@@ -155,10 +155,10 @@
             {% if agent_info and agent_info.name %}
                 <p><b>{{ agent_info.name }}</b></p>
                 {% if agent_info.phone %}
-                    <p><img src="/Images/Icons/phone.png" style="height:16px;vertical-align:middle;"> <a href="tel:{{ agent_info.phone }}">{{ agent_info.phone }}</a></p>
+                    <p><a href="tel:{{ agent_info.phone }}">{{ agent_info.phone }}</a></p>
                 {% endif %}
                 {% if agent_info.email %}
-                    <p><img src="/Images/Icons/email.png" style="height:16px;vertical-align:middle;"> <a href="mailto:{{ agent_info.email }}">{{ agent_info.email }}</a></p>
+                    <p><a href="mailto:{{ agent_info.email }}">{{ agent_info.email }}</a></p>
                 {% endif %}
             {% else %}
                 <p>{{ agent }}</p>
