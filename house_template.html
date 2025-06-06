@@ -261,6 +261,13 @@
                 De immigratie index toont het percentage allochtonen in de buurt. 
                 Dit kan helpen bij het begrijpen van de culturele diversiteit in de wijk.
             </p>
+            {% if huispedia_url %}
+            <div style="margin-top:10px;text-align:center;">
+                <a href="{{ huispedia_url }}" target="_blank" style="display:inline-block;background:#285AA0;color:white;padding:8px 16px;border-radius:4px;text-decoration:none;font-size:14px;">
+                    Bekijk op Huispedia
+                </a>
+            </div>
+            {% endif %}
         </div>
         <div class="info-item"></div>
     </div>
