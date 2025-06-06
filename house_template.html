@@ -241,7 +241,7 @@
         <div class="info-item" style="background:#e8f4f8;padding:15px;border-radius:8px;">
             <h3 style="margin:0 0 10px 0;color:#285AA0;">WOZ Waarde</h3>
             {% if woz_info %}
-                <p style="margin:0;font-size:16px;">{{ woz_info }}</p>
+                <div style="margin:0;font-size:16px;">{{ woz_info | safe }}</div>
             {% else %}
                 <p style="margin:0;color:#666;">Geen WOZ informatie beschikbaar</p>
             {% endif %}
