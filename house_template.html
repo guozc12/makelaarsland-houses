@@ -159,10 +159,39 @@
             {% endif %}
             
             {% if nearest_station %}
-            <div class="info-item">
-                <div class="info-label">Dichtstbijzijnde station</div>
-                <div class="info-value">{{ nearest_station.station_name }}</div>
-                <div class="info-value">{{ nearest_station.walking_time }} ({{ nearest_station.distance }})</div>
+            <div class="station-info">
+                <h2>Dichtstbijzijnde station &amp; 通勤信息</h2>
+                <table>
+                    <tr>
+                        <td style="color:#888;">最近火车站</td>
+                        <td>{{ nearest_station.station_name }} {% if nearest_station.station_addr %}({{ nearest_station.station_addr }}){% endif %}</td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888;">步行到车站</td>
+                        <td>{{ nearest_station.walking_time }} {% if nearest_station.walking_distance %}({{ nearest_station.walking_distance }}){% endif %}</td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888;">通勤到 Amsterdam Science Park</td>
+                        <td>
+                            {% if nearest_station.to_science_park %}
+                                {{ nearest_station.to_science_park.duration }} ({{ nearest_station.to_science_park.distance }})
+                            {% else %}
+                                -
+                            {% endif %}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888;">通勤到 Eindhoven Flux building</td>
+                        <td>
+                            {% if nearest_station.to_flux %}
+                                {{ nearest_station.to_flux.duration }} ({{ nearest_station.to_flux.distance }})
+                            {% else %}
+                                -
+                            {% endif %}
+                        </td>
+                    </tr>
+                </table>
+                <div style="font-size:12px;color:#888;margin-top:8px;">* 通勤时间基于下周二早上9点的Google Maps查询</div>
             </div>
             {% endif %}
         </div>
