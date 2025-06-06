@@ -171,9 +171,21 @@
                 <div class="info-label">Woonoppervlakte</div>
                 <div class="info-value">{{ important_info['Woonoppervlakte'] }}</div>
                 {% endif %}
+                {% if important_info.get('Inhoud') %}
+                <div class="info-label">Inhoud</div>
+                <div class="info-value">{{ important_info['Inhoud'] }}</div>
+                {% endif %}
+                {% if important_info.get('Bouwjaar') %}
+                <div class="info-label">Bouwjaar</div>
+                <div class="info-value">{{ important_info['Bouwjaar'] }}</div>
+                {% endif %}
                 {% if important_info.get('Aantal kamers') %}
                 <div class="info-label">Aantal kamers</div>
                 <div class="info-value">{{ important_info['Aantal kamers'] }}</div>
+                {% endif %}
+                {% if important_info.get('Aantal badkamers') %}
+                <div class="info-label">Aantal badkamers</div>
+                <div class="info-value">{{ important_info['Aantal badkamers'] }}</div>
                 {% endif %}
                 {% if important_info.get('Aantal slaapkamers') %}
                 <div class="info-label">Aantal slaapkamers</div>
