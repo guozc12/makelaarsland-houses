@@ -20,6 +20,7 @@
             border-radius: 10px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             margin-bottom: 20px;
+            position: relative;
         }
         .title {
             font-size: 28px;
@@ -59,6 +60,27 @@
             color: #2c3e50;
             font-size: 16px;
             font-weight: bold;
+        }
+        .makelaar-card {
+            position: absolute;
+            top: 30px;
+            right: 30px;
+            background: #e8f4f8;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(44,62,80,0.07);
+            padding: 18px 28px;
+            min-width: 220px;
+            z-index: 10;
+        }
+        .makelaar-card h3 {
+            margin: 0 0 8px 0;
+            font-size: 18px;
+            color: #285AA0;
+        }
+        .makelaar-card p {
+            margin: 0;
+            color: #2c3e50;
+            font-size: 16px;
         }
         .main-content {
             display: grid;
@@ -128,54 +150,35 @@
         <h1 class="title">Benny Goodmanstraat 24</h1>
         <div class="price">€ 515.000 k.k.</div>
         <div class="address">1311PX Almere</div>
-        
+        <div class="makelaar-card">
+            <h3>Verkopend makelaar</h3>
+            
+                <p><b>Kersten Vastgoed & makelaardij</b></p>
+                
+                    <p><img src="/Images/Icons/phone.png" style="height:16px;vertical-align:middle;"> <a href="tel:(+31) 33 285 42 23">(+31) 33 285 42 23</a></p>
+                
+                
+                    <p><img src="/Images/Icons/email.png" style="height:16px;vertical-align:middle;"> <a href="mailto:info@kerstenvm.nl">info@kerstenvm.nl</a></p>
+                
+            
+        </div>
         <div class="important-info">
             
             
             
             
             
-            
-            
-            
-            
-            <div class="station-info">
-                <h2>Dichtstbijzijnde station &amp; 通勤信息</h2>
-                <table>
-                    <tr>
-                        <td style="color:#888;">最近火车站</td>
-                        <td>Muziekwijk (Netherlands)</td>
-                    </tr>
-                    <tr>
-                        <td style="color:#888;">步行到车站</td>
-                        <td>7 min (0,5 km)</td>
-                    </tr>
-                    <tr>
-                        <td style="color:#888;">通勤到 amsterdam science park station</td>
-                        <td>
-                            
-                                49 min (22,9 km)
-                            
-                        </td>
-                    </tr>
-                    <tr>
-                        <td style="color:#888;">通勤到 Eindhoven Station</td>
-                        <td>
-                            
-                                2 uur 5 min. (125 km)
-                            
-                        </td>
-                    </tr>
-                </table>
-                <div style="font-size:12px;color:#888;margin-top:8px;">* 通勤时间基于下周二早上9点的Google Maps查询</div>
+            <div class="info-item">
+                <div class="info-label">Dichtstbijzijnde station</div>
+                <div class="info-value">Muziekwijk</div>
+                <div class="info-value">7 min (0,5 km)</div>
             </div>
             
         </div>
     </div>
-
     <div class="main-content">
         <div class="info-section">
-            <h2 class="section-title">Gedetailleerde parameters</h2>
+            <h2 class="section-title">Gedetailleerde kenmerken</h2>
             
                 
                 <h3>Overdracht</h3>
@@ -382,123 +385,151 @@
                 </table>
                 
             
-            <div class="agent-info">
-                <h3>Makelaar</h3>
-                <p></p>
-            </div>
         </div>
         <div class="gallery">
             <h2 class="section-title">Foto's</h2>
             
-            <img src="https://media.nvm.nl/81b0f590-42cd-4134-ab86-00bb25dd93ca" alt="House image">
+            <img src="https://media.nvm.nl/81b0f590-42cd-4134-ab86-00bb25dd93ca" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/8a714f59-6dbf-4d69-8a1c-b1e6cfb1c2cb" alt="House image">
+            <img src="https://media.nvm.nl/8a714f59-6dbf-4d69-8a1c-b1e6cfb1c2cb" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/ce403304-8251-4bfc-9c34-3dc3ee678302" alt="House image">
+            <img src="https://media.nvm.nl/ce403304-8251-4bfc-9c34-3dc3ee678302" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/32763f86-d731-4bd5-b19e-471a8538cb3b" alt="House image">
+            <img src="https://media.nvm.nl/32763f86-d731-4bd5-b19e-471a8538cb3b" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/b11f81d9-0596-4bf1-95c5-696d5683a9d5" alt="House image">
+            <img src="https://media.nvm.nl/b11f81d9-0596-4bf1-95c5-696d5683a9d5" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/4acc3f23-d2f0-411f-9d96-f0ddfbd17812" alt="House image">
+            <img src="https://media.nvm.nl/4acc3f23-d2f0-411f-9d96-f0ddfbd17812" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/a22243cf-d9e4-4f2c-b461-a8848fa5f48c" alt="House image">
+            <img src="https://media.nvm.nl/a22243cf-d9e4-4f2c-b461-a8848fa5f48c" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/d6d6dade-8bab-43de-b51f-d1e35a7c9ad8" alt="House image">
+            <img src="https://media.nvm.nl/d6d6dade-8bab-43de-b51f-d1e35a7c9ad8" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/d02cc45f-9f74-4d42-a473-9a47d07fbbd6" alt="House image">
+            <img src="https://media.nvm.nl/d02cc45f-9f74-4d42-a473-9a47d07fbbd6" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/f51c2175-4173-4d64-8437-8a35e09b9cb0" alt="House image">
+            <img src="https://media.nvm.nl/f51c2175-4173-4d64-8437-8a35e09b9cb0" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/38246c89-51c6-4245-abdb-a1ea5cc428b0" alt="House image">
+            <img src="https://media.nvm.nl/38246c89-51c6-4245-abdb-a1ea5cc428b0" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/7fb5c386-6261-4b7b-9cce-14f3ab5a7764" alt="House image">
+            <img src="https://media.nvm.nl/7fb5c386-6261-4b7b-9cce-14f3ab5a7764" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/4afed50b-4248-4d0c-a63f-679515cd7237" alt="House image">
+            <img src="https://media.nvm.nl/4afed50b-4248-4d0c-a63f-679515cd7237" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/f3d2d5a6-eab9-49d6-bd22-f6315d3248be" alt="House image">
+            <img src="https://media.nvm.nl/f3d2d5a6-eab9-49d6-bd22-f6315d3248be" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/dac63377-0b43-4915-8fc3-9465a2a84e50" alt="House image">
+            <img src="https://media.nvm.nl/dac63377-0b43-4915-8fc3-9465a2a84e50" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/4315ecc1-bcd2-4e50-8a53-98d41dbad45c" alt="House image">
+            <img src="https://media.nvm.nl/4315ecc1-bcd2-4e50-8a53-98d41dbad45c" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/9c895384-80d0-43b5-a242-130dc10ec4e8" alt="House image">
+            <img src="https://media.nvm.nl/9c895384-80d0-43b5-a242-130dc10ec4e8" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/c6d17226-ffe8-4670-988a-f1d486a195f8" alt="House image">
+            <img src="https://media.nvm.nl/c6d17226-ffe8-4670-988a-f1d486a195f8" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/3d3ec5d8-4f14-4472-9098-7da40ff5868b" alt="House image">
+            <img src="https://media.nvm.nl/3d3ec5d8-4f14-4472-9098-7da40ff5868b" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/449226c8-b4a0-411d-8fb5-ab87c2a68cd0" alt="House image">
+            <img src="https://media.nvm.nl/449226c8-b4a0-411d-8fb5-ab87c2a68cd0" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/f62b495b-e319-4822-8c62-c23c5531fd39" alt="House image">
+            <img src="https://media.nvm.nl/f62b495b-e319-4822-8c62-c23c5531fd39" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/2ae882fe-1096-4a40-862b-0df05d6a1c19" alt="House image">
+            <img src="https://media.nvm.nl/2ae882fe-1096-4a40-862b-0df05d6a1c19" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/9fe8d326-8d50-42d6-b124-c13dac0d328c" alt="House image">
+            <img src="https://media.nvm.nl/9fe8d326-8d50-42d6-b124-c13dac0d328c" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/1ee7e37d-12c7-4c9f-84e6-9b63ba827cdf" alt="House image">
+            <img src="https://media.nvm.nl/1ee7e37d-12c7-4c9f-84e6-9b63ba827cdf" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/8569f24e-e7d7-48b9-abd3-9b2c1a4f6b6b" alt="House image">
+            <img src="https://media.nvm.nl/8569f24e-e7d7-48b9-abd3-9b2c1a4f6b6b" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/1eaa5918-2df7-485d-a348-49fe8572b6dc" alt="House image">
+            <img src="https://media.nvm.nl/1eaa5918-2df7-485d-a348-49fe8572b6dc" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/ec4d0787-4008-49d5-949d-ef2ac6fd8ac7" alt="House image">
+            <img src="https://media.nvm.nl/ec4d0787-4008-49d5-949d-ef2ac6fd8ac7" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/8868fbc8-e5d2-4dea-bf5a-d880cd2651d0" alt="House image">
+            <img src="https://media.nvm.nl/8868fbc8-e5d2-4dea-bf5a-d880cd2651d0" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/865b3704-f919-415d-af67-a23e6ebc5ba7" alt="House image">
+            <img src="https://media.nvm.nl/865b3704-f919-415d-af67-a23e6ebc5ba7" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/1d39c911-d974-477a-97f6-9b0da56d6e74" alt="House image">
+            <img src="https://media.nvm.nl/1d39c911-d974-477a-97f6-9b0da56d6e74" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/378c3b99-f88d-484c-9e8f-f1689215af1c" alt="House image">
+            <img src="https://media.nvm.nl/378c3b99-f88d-484c-9e8f-f1689215af1c" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/924f1834-b004-4f8f-8462-5a445e56ed53" alt="House image">
+            <img src="https://media.nvm.nl/924f1834-b004-4f8f-8462-5a445e56ed53" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/d586031d-bb91-4e87-8313-1577dc81dab8" alt="House image">
+            <img src="https://media.nvm.nl/d586031d-bb91-4e87-8313-1577dc81dab8" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/f61f68f0-5453-4774-84f1-a4838d7b40d7" alt="House image">
+            <img src="https://media.nvm.nl/f61f68f0-5453-4774-84f1-a4838d7b40d7" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/f2746899-c742-4b29-afc5-4d38a4d2e875" alt="House image">
+            <img src="https://media.nvm.nl/f2746899-c742-4b29-afc5-4d38a4d2e875" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/8d5e69c7-0d77-4512-be49-3868445b3f8f" alt="House image">
+            <img src="https://media.nvm.nl/8d5e69c7-0d77-4512-be49-3868445b3f8f" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/f0b0c57e-39d1-42bb-ad82-ffc2e5486bd7" alt="House image">
+            <img src="https://media.nvm.nl/f0b0c57e-39d1-42bb-ad82-ffc2e5486bd7" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/cd10db6b-ead0-4574-b432-6aeb482cf762" alt="House image">
+            <img src="https://media.nvm.nl/cd10db6b-ead0-4574-b432-6aeb482cf762" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/6f9a82f6-e687-4bbf-8b30-1dcd528dc40b" alt="House image">
+            <img src="https://media.nvm.nl/6f9a82f6-e687-4bbf-8b30-1dcd528dc40b" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/662dc868-9246-4a69-afeb-54a88d38842b" alt="House image">
+            <img src="https://media.nvm.nl/662dc868-9246-4a69-afeb-54a88d38842b" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/3c473a5d-5752-478c-9f47-2cb526bf7984" alt="House image">
+            <img src="https://media.nvm.nl/3c473a5d-5752-478c-9f47-2cb526bf7984" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/7b04c5e9-387f-4f77-843d-5e6504d979f7" alt="House image">
+            <img src="https://media.nvm.nl/7b04c5e9-387f-4f77-843d-5e6504d979f7" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/d8db53ec-d840-498a-8dcd-c47a7062cea5" alt="House image">
+            <img src="https://media.nvm.nl/d8db53ec-d840-498a-8dcd-c47a7062cea5" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/22ef8ef9-232f-465c-9d8e-24afbc3999b3" alt="House image">
+            <img src="https://media.nvm.nl/22ef8ef9-232f-465c-9d8e-24afbc3999b3" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/58f1372a-fc28-40ff-8f8b-72cca3289335" alt="House image">
+            <img src="https://media.nvm.nl/58f1372a-fc28-40ff-8f8b-72cca3289335" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/33e6c06d-a0f6-48c6-9b12-e166a29c3cdc" alt="House image">
+            <img src="https://media.nvm.nl/33e6c06d-a0f6-48c6-9b12-e166a29c3cdc" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/c60904f4-ffbb-4556-b265-b574a7fe0c82" alt="House image">
+            <img src="https://media.nvm.nl/c60904f4-ffbb-4556-b265-b574a7fe0c82" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/1e1bb43c-580d-46d6-8b95-d5f243338395" alt="House image">
+            <img src="https://media.nvm.nl/1e1bb43c-580d-46d6-8b95-d5f243338395" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/5f2cde3a-307d-4959-bf9d-9a5c3989f134" alt="House image">
+            <img src="https://media.nvm.nl/5f2cde3a-307d-4959-bf9d-9a5c3989f134" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/8fae8581-6b8f-4039-9187-de4d2e6ced34" alt="House image">
+            <img src="https://media.nvm.nl/8fae8581-6b8f-4039-9187-de4d2e6ced34" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/1d0a2aeb-c101-4f2e-b1d4-9829b1365d74" alt="House image">
+            <img src="https://media.nvm.nl/1d0a2aeb-c101-4f2e-b1d4-9829b1365d74" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/1b36a5df-75ef-47e4-a43b-5aca108959ad" alt="House image">
+            <img src="https://media.nvm.nl/1b36a5df-75ef-47e4-a43b-5aca108959ad" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/58ac5c37-de17-45c1-a8a8-b240bf771868" alt="House image">
+            <img src="https://media.nvm.nl/58ac5c37-de17-45c1-a8a8-b240bf771868" alt="Woning foto">
             
-            <img src="https://media.nvm.nl/78abbbb1-d6e0-445e-85f4-57fbf1516a5c" alt="House image">
+            <img src="https://media.nvm.nl/78abbbb1-d6e0-445e-85f4-57fbf1516a5c" alt="Woning foto">
             
         </div>
     </div>
+    
+    <div class="station-info">
+        <h2>Dichtstbijzijnde station &amp; Reistijden</h2>
+        <table>
+            <tr>
+                <td style="color:#888;">Dichtstbijzijnde station</td>
+                <td>Muziekwijk (Netherlands)</td>
+            </tr>
+            <tr>
+                <td style="color:#888;">Lopen naar station</td>
+                <td>7 min (0,5 km)</td>
+            </tr>
+            <tr>
+                <td style="color:#888;">Reistijd naar Amsterdam Science Park</td>
+                <td>
+                    
+                        49 min (22,9 km)
+                    
+                </td>
+            </tr>
+            <tr>
+                <td style="color:#888;">Reistijd naar Eindhoven Flux gebouw</td>
+                <td>
+                    
+                        2 uur 5 min. (125 km)
+                    
+                </td>
+            </tr>
+        </table>
+        <div style="font-size:12px;color:#888;margin-top:8px;">* Reistijden gebaseerd op Google Maps, vertrek volgende dinsdag om 9:00 uur</div>
+    </div>
+    
 </body>
 </html> 
