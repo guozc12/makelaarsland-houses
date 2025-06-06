@@ -190,10 +190,38 @@
             </div>
             {% endif %}
             {% if nearest_station %}
-            <div class="info-item">
-                <div class="info-label">Dichtstbijzijnde station</div>
-                <div class="info-value">{{ nearest_station.station_name }}</div>
-                <div class="info-value">{{ nearest_station.walking_time }} {% if nearest_station.walking_distance %}({{ nearest_station.walking_distance }}){% endif %}</div>
+            <div class="info-item" style="padding:0;background:none;">
+                <table style="width:100%;background:#e8f4f8;padding:10px;border-radius:8px;">
+                    <tr>
+                        <td style="color:#888;">Dichtstbijzijnde station</td>
+                        <td><b>{{ nearest_station.station_name }}</b> {% if nearest_station.station_addr %}({{ nearest_station.station_addr }}){% endif %}</td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888;">Lopen naar station</td>
+                        <td><b>{{ nearest_station.walking_time }} {% if nearest_station.walking_distance %}({{ nearest_station.walking_distance }}){% endif %}</b></td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888;">Reistijd naar Amsterdam Science Park</td>
+                        <td>
+                            {% if nearest_station.to_science_park %}
+                                <b>{{ nearest_station.to_science_park.duration }} ({{ nearest_station.to_science_park.distance }})</b>
+                            {% else %}
+                                -
+                            {% endif %}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888;">Reistijd naar Eindhoven Flux gebouw</td>
+                        <td>
+                            {% if nearest_station.to_flux %}
+                                <b>{{ nearest_station.to_flux.duration }} ({{ nearest_station.to_flux.distance }})</b>
+                            {% else %}
+                                -
+                            {% endif %}
+                        </td>
+                    </tr>
+                </table>
+                <div style="font-size:12px;color:#888;margin-top:8px;">* Reistijden gebaseerd op Google Maps, vertrek volgende dinsdag om 9:00 uur</div>
             </div>
             {% endif %}
         </div>
@@ -226,41 +254,5 @@
             {% endfor %}
         </div>
     </div>
-    {% if nearest_station %}
-    <div class="station-info">
-        <h2>Dichtstbijzijnde station &amp; Reistijden</h2>
-        <table>
-            <tr>
-                <td style="color:#888;">Dichtstbijzijnde station</td>
-                <td>{{ nearest_station.station_name }} {% if nearest_station.station_addr %}({{ nearest_station.station_addr }}){% endif %}</td>
-            </tr>
-            <tr>
-                <td style="color:#888;">Lopen naar station</td>
-                <td>{{ nearest_station.walking_time }} {% if nearest_station.walking_distance %}({{ nearest_station.walking_distance }}){% endif %}</td>
-            </tr>
-            <tr>
-                <td style="color:#888;">Reistijd naar Amsterdam Science Park</td>
-                <td>
-                    {% if nearest_station.to_science_park %}
-                        {{ nearest_station.to_science_park.duration }} ({{ nearest_station.to_science_park.distance }})
-                    {% else %}
-                        -
-                    {% endif %}
-                </td>
-            </tr>
-            <tr>
-                <td style="color:#888;">Reistijd naar Eindhoven Flux gebouw</td>
-                <td>
-                    {% if nearest_station.to_flux %}
-                        {{ nearest_station.to_flux.duration }} ({{ nearest_station.to_flux.distance }})
-                    {% else %}
-                        -
-                    {% endif %}
-                </td>
-            </tr>
-        </table>
-        <div style="font-size:12px;color:#888;margin-top:8px;">* Reistijden gebaseerd op Google Maps, vertrek volgende dinsdag om 9:00 uur</div>
-    </div>
-    {% endif %}
 </body>
 </html> 

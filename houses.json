@@ -1,5 +1,144 @@
 [
   {
+    "title": "Riouwstraat 77",
+    "address": "3531CW Utrecht",
+    "price": "€ 519.000 k.k.",
+    "size_rooms": "89 m² • 55 m² • 4 kamers",
+    "agent": "Blauwe Eik Makelaardij",
+    "images": [
+      "https://media.nvm.nl/8c8ca3c4-d1ff-4b36-bc15-ab1c2d201369",
+      "https://media.nvm.nl/560e3dba-107c-4141-b632-5fb7c338f8a3",
+      "https://media.nvm.nl/53ac0ef6-b373-4e71-bf14-e85c75380e5d",
+      "https://media.nvm.nl/9fb7af9c-0093-457a-a82e-b7e4d30ee866",
+      "https://media.nvm.nl/e8998823-5097-43e1-8be8-0122cc973930",
+      "https://media.nvm.nl/b07eeda8-7562-4f31-ae9d-f01034998de0",
+      "https://media.nvm.nl/eb4e76f7-83f9-47f0-80ca-c78635c85094",
+      "https://media.nvm.nl/677addb1-a347-4ae6-8c3b-41e311d90a2e",
+      "https://media.nvm.nl/81857e0d-d0c0-4519-9dbf-576d9051de66",
+      "https://media.nvm.nl/d0ad7db6-04e6-478c-8888-2a7e88d2d6f3",
+      "https://media.nvm.nl/94c13581-fac3-41cb-a8c1-fb7166b96d8c",
+      "https://media.nvm.nl/296a7390-4fe7-4467-83e0-a905470c6e19",
+      "https://media.nvm.nl/8c14d407-4454-45d9-ac30-4872744b7613",
+      "https://media.nvm.nl/281a41fe-f91b-4331-ade0-40dc20ba8604",
+      "https://media.nvm.nl/1260cffa-08a3-4b68-bcfe-6e387ddbfb48",
+      "https://media.nvm.nl/bea309d3-6759-4e30-a460-b31de6c09c7b",
+      "https://media.nvm.nl/c5aa03af-873e-4bbf-9fc3-a7c78cca4b46",
+      "https://media.nvm.nl/21f8e0ec-3bdd-44e7-b1cb-ad1e2b640f56",
+      "https://media.nvm.nl/dcd6de9f-dfee-4597-bbb9-663540dd9140",
+      "https://media.nvm.nl/c9b49df1-92cf-40b8-bffc-cc5b9914db08",
+      "https://media.nvm.nl/456e4c8f-cbf5-44ba-833a-d005665eaf21",
+      "https://media.nvm.nl/3b856a77-a026-4ee3-a025-b422c20b7e7c",
+      "https://media.nvm.nl/61b37191-abc4-4b1d-b9b0-9aa8b88fa527",
+      "https://media.nvm.nl/94d33bf6-07a5-412f-a38d-6efdb241dc94",
+      "https://media.nvm.nl/5b772e17-b4c7-4eae-93b7-ed649bf13a2e",
+      "https://media.nvm.nl/72d71e3a-18e9-4d94-922f-cdb8277e620f",
+      "https://media.nvm.nl/75b7f881-95eb-4366-a0cf-e60f7c5c5d84",
+      "https://media.nvm.nl/b9326091-268e-4873-ad57-e9538d1c1149",
+      "https://media.nvm.nl/a8232a80-4af0-4fdc-9913-927220cb4a6f",
+      "https://media.nvm.nl/3fa1a446-832a-480b-9542-14c213292146",
+      "https://media.nvm.nl/4b5572dc-3d25-444a-9765-df2f04efbd26",
+      "https://media.nvm.nl/19144da3-36a6-4479-8324-3e8feef8b2a6",
+      "https://media.nvm.nl/88552c04-2a3d-4dca-8594-ff22eac266c0",
+      "https://media.nvm.nl/91710ff3-0ff4-4858-9b6d-39009b9a31a4",
+      "https://media.nvm.nl/35f98c59-0c70-4f75-8b79-424555a17a38",
+      "https://media.nvm.nl/96e7f59d-9d35-44f6-835c-dd13566af1fe",
+      "https://media.nvm.nl/d8a7c37e-5667-45cc-a4d6-540b1acee74b",
+      "https://media.nvm.nl/f15c087d-e943-4f8a-9856-6e704be025eb",
+      "https://media.nvm.nl/7e3d6323-2330-409c-8669-fbe6751f5721",
+      "https://media.nvm.nl/3f9a9c9a-87ec-4d3c-995f-b5eda86076ec",
+      "https://media.nvm.nl/71bd0c5e-653b-4608-83b1-dc264d6c339b",
+      "https://media.nvm.nl/77f82e70-7674-464a-a3a2-86bebe8bba47",
+      "https://media.nvm.nl/780cd0d7-6388-4501-8822-be8a623ccd5d",
+      "https://media.nvm.nl/9bea2e92-4c81-44b7-a375-59d928aaad8d",
+      "https://media.nvm.nl/0020eb9c-6d3a-4518-8c13-f81ff189a7fb",
+      "https://media.nvm.nl/5cd555ef-6d5e-45b2-a3f3-afb52a78a12b",
+      "https://media.nvm.nl/43d31cad-e156-4127-a490-ba0fa9cc60d2",
+      "https://media.nvm.nl/2449a9c7-caeb-4fa5-872e-9e8ff02ed874",
+      "https://media.nvm.nl/aa2dfa18-b207-4da0-8999-eea470fcd049",
+      "https://media.nvm.nl/31a4aa48-b34a-4557-8048-869a570759bd",
+      "https://media.nvm.nl/3e8ee441-e037-4aa4-aff7-446fdf2ffddd",
+      "https://media.nvm.nl/c47446b1-d9a7-4254-8756-5ebda0cd5738",
+      "https://media.nvm.nl/280623e4-5c0c-4425-972a-400302c3381e",
+      "https://media.nvm.nl/0d22cabe-2778-4418-aa92-ff43b3c03d3c",
+      "https://media.nvm.nl/7e942c59-64e2-4e23-a746-9ec2992ebb62",
+      "https://media.nvm.nl/bf2b832a-e0c6-4992-ab70-5f3739912d42",
+      "https://media.nvm.nl/5c0cde9b-ac56-4b54-8df7-7c9b4bdd9153"
+    ],
+    "url": "https://mijn.makelaarsland.nl/zoekopdracht/woningdetails/3765883",
+    "details": "Mijn huis\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nWoningaanbod\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nRiouwstraat 77\n3531 CW Utrecht\n€ 519.000 k.k.\nBewaren\nBekijk alle\n57\nfoto's\nOmschrijving\nBekijk ook onze exclusieve woonvideo voor een goede impressie van deze speelse 4-kamer woning op een toplocatie in Lombok!\nDeze sfeervolle 4-kamer woning (ca. 89 m2 woonoppervlakte / bouwjaar 1915), voorzien van originele, authentieke details, is gelegen in het populaire Lombok in een rustige, gezellige zijstraat van de bruisende Kanaalstraat.\nKenmerkend voor deze woning zijn de prachtige originele details, zoals het statige hoge plafond in de woonkamer, het authentieke glas-in-loodwerk bij de entree, de sfeervolle openhaard in de woonkamer en de knusse stadstuin op het zuidwesten, waar heerlijk genoten kan worden van de namiddagzon.\nOp steenworp afstand bevinden zich alle wenselijke voorzieningen zoals: diverse lokale winkels, supermarkten, gezellige horecagelegenheden, terrassen, diverse openbaar vervoer aansluitingen, het Centraal Station en natuurlijk het gezellige stadscentrum van Utrecht op loopafstand.\nHier koop je je groente en fruit bij één van de gezellige winkels in de Kanaalstraat, lunch je met een Lahmacun, haal je groente en fruit bij ‘de Pers’, geniet je van lekkere koffie van ‘Koffie & ik’ en kom je tot rust bij ‘Molen de Ster’ onder het genot van een lekker verfrissend drankje. Teveel om op te noemen.\nBenieuwd naar deze parel in hartje Lombok? Kom dan gezellig een kijkje nemen! De koffie staat klaar!\nIndeling:\nBegane grond:\nEntree met garderobe, meterkast, toiletruimte met staand toilet en fontein, trap naar de eerste verdieping en toegang tot de lichte woonkamer.\nWat direct opvalt in deze woonkamer is het hoge plafond (ca. 2.96 m), wat zorgt voor een zeer ruimtelijk effect.\nAan de voorzijde van de woning is de ruime eethoek gesitueerd, waar in de ochtend heerlijk genoten kan worden van een kop koffie in de zon.\nAan de achterkant bevindt zich de ruime zithoek met de originele openhaard als sfeervolle blikvanger. De handige opbergruimte onder de trap biedt extra mogelijkheden voor het opbergen van spullen. Door de raampartijen aan zowel de voor-als achterzijde van de woonkamer, is er gedurende de hele dag veel lichtinval. De houten raamkozijnen zijn voorzien van dubbel glas.\nIn de aangrenzende uitbouw is de keuken gerealiseerd. De keuken, geplaatst in een L-opstelling, is voorzien van een 4-pits gasfornuis met afzuigkap, losse koel-vriescombinatie en inbouwvaatwasser. Daarnaast bevinden zich in de keuken de aansluitingen voor de wasmachine en droger.\nVanuit de keuken betreed je, middels de kunststof tuindeur v.v. dubbel glas, de knusse stadstuin. De achtertuin is gelegen op het zonnige zuidwesten, wat inhoudt dat je gedurende de middag- en namiddaguren heerlijk kunt genieten van de zon.\nDe gehele begane grond is voorzien van een mooie laminaatvloer, met uitzondering van de keuken welke voorzien is van plavuizen in een lichte kleurstelling. De strakke wand- en plafondafwerking geven het geheel een lekker frisse uitstraling.\nEerste verdieping:\nOverloop, toegang tot de twee multifunctionele (slaap)kamers, de badkamer en de trap naar de tweede verdieping. Bij de trap is een handige opbergmogelijkheid gecreëerd voor het opruimen van spullen.\nDe ruime slaapkamer aan de achterzijde van de woning (ca. 4.11 x 2.46 m) is voorzien van een laminaatvloer, een dakkapel met houten kozijnen en dubbel glas. Deze slaapkamer is op dit moment in gebruik als studeerkamer.\nDe “masterbedroom” is gesitueerd aan de voorzijde van de woning. Deze slaapkamer is van een heerlijk formaat (ca. 3.91 x 2.98 m), voorzien van een laminaatvloer en grote ramen, waardoor er sprake is van veel natuurlijk daglichtinval. De houten kozijnen zijn voorzien van dubbel glas.\nDe eenvoudig uitgevoerde badkamer is voorzien van een douche, wastafel en mechanische ventilatie.\nDe gehele eerste verdieping is deels voorzien van een tapijt-/ en laminaatvloer en beschikt over gladde wand-/ en plafondafwerking.\nTweede verdieping\nDe ruime zolderverdieping is te bereiken via een vaste, steile trap en een grote meerwaarde voor deze woning. De originele houten vloer maakt het geheel tot een sfeervolle ruimte.\nDoor de grote dakkapel aan de voorzijde en twee Velux-ramen aan de achterzijde is er een volwaardige extra woonlaag gecreëerd en baadt deze ruimte in het licht. Alle kozijnen op deze etage zijn uitgevoerd in kunststof en voorzien van dubbel glas.\nOp deze verdieping is voldoende ruimte voor een extra slaap-en/of werkplek. Daarnaast bevindt zich op deze etage de CV-installatie, welke netjes is weggewerkt in een inbouwkast.\nBijzonderheden:\n- Woonoppervlakte: ca. 89 m2;\n- Inhoud: ca. 306 m3;\n- Bouwjaar: 1915;\n- Unieke 3-laags woning op een waanzinnige locatie in Lombok;\n- Dubbel glas en voorzien van dakisolatie;\n- Mechanische ventilatie;\n- Energielabel: D;\n- Verwarming- en warmwatervoorziening middels een CV-installatie (merk: Remeha Tzerra CW4, Bouwjaar: 2020);\n- Buitenschilderwerk uitgevoerd medio november 2023;\n- Ouderdomsclausule zal worden opgenomen in de koopovereenkomst;\n- Asbestclausule zal worden opgenomen in de koopovereenkomst;\n- Oplevering in overleg.\nInteresse in deze woning? Neem je NVM-Aankoopmakelaar mee!\nKenmerken\nOverdracht\nVraagprijs\n€ 519.000 k.k.\nStatus\nBeschikbaar\nAanvaarding\nIn overleg\nBouw\nSoort woonhuis\nEengezinswoning, Tussenwoning\nBouwjaar\n1915\nSoort bouw\nBestaande bouw\nSoort dak\nZadeldak bedekt met pannen\nKadastrale gegevens\nVolle eigendom, gemeente Catharijne, sectie C, nummer 2130 , perceeloppervlakte: 55 m2\nBijzonderheden\nGedeeltelijk gestoffeerd\nOppervlakte en inhoud\nWoonoppervlakte\n89 m²\nPerceeloppervlakte\n55 m²\nInhoud\n306 m³\nIndeling\nAantal kamers\n4 kamers (waarvan 3 slaapkamers)\nAantal badkamers\n1 badkamer en 1 apart toilet\nVoorzieningen\nMechanische ventilatie, TV kabel, Dakraam, Glasvezel kabel, Natuurlijke ventilatie\nEnergie\nIsolatie\nVloerisolatie, Dubbel glas, HR-glas\nVerwarming\nCv-ketel\nWarm water\nCv-ketel, Elektrische boiler eigendom\nCv-ketel\nRemeha Tzerra cw4 uit 2020, Eigendom\nEnergielabel\nEnergieklasse\nD\nBuitenruimte\nLigging\nAan rustige weg, In woonwijk\nTuin\nAchtertuin\nAchtertuin\n7 m² (2,23m diep en 3,21m breed)\nLigging tuin\nGelegen op het zuiden, westen, zuidwesten\nParkeergelegenheid\nSoort parkeergelegenheid\nBetaald parkeren, Parkeervergunningen\nAankoophulp inschakelen\nWat is dit huis waard? Wat moet ik bieden? Kies voor onze aankoophulp en koop zorgeloos jouw nieuwe woning.\nMeer informatie\nBreng een bod uit\nVerkopend makelaar\nBlauwe Eik Makelaardij\n030-8893330\ninfo@blauweeik.nl\nVraag bezichtiging aan\nContact\nAlgemene voorwaarden\nPrivacy verklaring\nVeelgestelde vragen\nContact",
+    "nearest_station": {
+      "station_name": "Utrecht Centraal",
+      "station_addr": "Netherlands",
+      "walking_time": "10 min",
+      "walking_distance": "0,7 km",
+      "to_science_park": {
+        "duration": "52 min",
+        "distance": "38,1 km",
+        "start_address": "3531 CW Utrecht, Nederland",
+        "end_address": "Science Park 904, 1098 XH Amsterdam, Nederland",
+        "summary": "",
+        "mode": "transit"
+      },
+      "to_flux": {
+        "duration": "1 uur 20 min.",
+        "distance": "82,2 km",
+        "start_address": "3531 CW Utrecht, Nederland",
+        "end_address": "De Groene Loper 19, 5612 AP Eindhoven, Nederland",
+        "summary": "",
+        "mode": "transit"
+      }
+    },
+    "details_sections": {
+      "Overdracht": {
+        "Vraagprijs": "€ 519.000 k.k.",
+        "Status": "Beschikbaar",
+        "Aanvaarding": "In overleg"
+      },
+      "Bouw": {
+        "Soort woonhuis": "Eengezinswoning, Tussenwoning",
+        "Bouwjaar": "1915",
+        "Soort bouw": "Bestaande bouw",
+        "Soort dak": "Zadeldak bedekt met pannen",
+        "Kadastrale gegevens": "Volle eigendom, gemeente Catharijne, sectie C, nummer 2130 , perceeloppervlakte: 55 m2",
+        "Bijzonderheden": "Gedeeltelijk gestoffeerd"
+      },
+      "Oppervlakte en inhoud": {
+        "Woonoppervlakte": "89 m²",
+        "Perceeloppervlakte": "55 m²",
+        "Inhoud": "306 m³"
+      },
+      "Indeling": {
+        "Aantal kamers": "4 kamers (waarvan 3 slaapkamers)",
+        "Aantal badkamers": "1 badkamer en 1 apart toilet",
+        "Voorzieningen": "Mechanische ventilatie, TV kabel, Dakraam, Glasvezel kabel, Natuurlijke ventilatie"
+      },
+      "Energie": {
+        "Isolatie": "Vloerisolatie, Dubbel glas, HR-glas",
+        "Verwarming": "Cv-ketel",
+        "Warm water": "Cv-ketel, Elektrische boiler eigendom",
+        "Cv-ketel": "Remeha Tzerra cw4 uit 2020, Eigendom"
+      },
+      "Energielabel": {
+        "Energieklasse": "D"
+      },
+      "Buitenruimte": {
+        "Ligging": "Aan rustige weg, In woonwijk",
+        "Tuin": "Achtertuin",
+        "Achtertuin": "7 m² (2,23m diep en 3,21m breed)",
+        "Ligging tuin": "Gelegen op het zuiden, westen, zuidwesten"
+      },
+      "Parkeergelegenheid": {
+        "Soort parkeergelegenheid": "Betaald parkeren, Parkeervergunningen"
+      }
+    },
+    "agent_info": {
+      "name": "Blauwe Eik Makelaardij",
+      "phone": "030-8893330",
+      "email": "info@blauweeik.nl"
+    },
+    "filename": "house_20250606_145232.html"
+  },
+  {
     "title": "Benny Goodmanstraat 24",
     "address": "1311PX Almere",
     "price": "€ 515.000 k.k.",
