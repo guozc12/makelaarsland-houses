@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basilicumweg 317</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #f5f5f5;
+        }
+        .header {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            position: relative;
+        }
+        .title {
+            font-size: 28px;
+            color: #2c3e50;
+            margin: 0 0 15px 0;
+        }
+        .price {
+            font-size: 24px;
+            color: #e74c3c;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        .address {
+            font-size: 18px;
+            color: #7f8c8d;
+            margin-bottom: 15px;
+        }
+        .important-info {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 20px;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+        }
+        .info-item {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .info-label {
+            color: #7f8c8d;
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+        .info-value {
+            color: #2c3e50;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .makelaar-card {
+            position: absolute;
+            top: 30px;
+            right: 30px;
+            background: #e8f4f8;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(44,62,80,0.07);
+            padding: 18px 28px;
+            min-width: 220px;
+            z-index: 10;
+        }
+        .makelaar-card h3 {
+            margin: 0 0 8px 0;
+            font-size: 18px;
+            color: #285AA0;
+        }
+        .makelaar-card p {
+            margin: 0;
+            color: #2c3e50;
+            font-size: 16px;
+        }
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .info-section {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .gallery {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .gallery img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+        th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        tr:hover {
+            background-color: #f8f9fa;
+        }
+        .section-title {
+            color: #2c3e50;
+            font-size: 20px;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #3498db;
+        }
+        .station-info {
+            background-color: #e8f4f8;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+        .agent-info {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1 class="title">Basilicumweg 317</h1>
+        <div class="price">€ 435.000 k.k.</div>
+        <div class="address">Basilicumweg 317, 1313EE Almere</div>
+        <div class="makelaar-card">
+            <h3>Verkopend makelaar</h3>
+            
+                <p><b>IMMO Arie van der Lee B.V.</b></p>
+                
+                    <p><a href="tel:036-5330035">036-5330035</a></p>
+                
+                
+                    <p><a href="mailto:info@immo.nl">info@immo.nl</a></p>
+                
+            
+        </div>
+        <div class="important-info" style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;margin-bottom:20px;">
+            <div class="info-item" style="background:#e8f4f8;padding:15px;border-radius:8px;">
+                <h3 style="margin:0 0 10px 0;color:#285AA0;">Belangrijke informatie</h3>
+                <div style="margin:0;font-size:16px;">
+                    
+                        <table style="width:100%;border-collapse:collapse;">
+                            
+                                
+                                <tr>
+                                    <td style="padding:4px 0;">Woonoppervlakte:</td>
+                                    <td style="padding:4px 0;">114 m²</td>
+                                </tr>
+                                
+                            
+                                
+                                <tr>
+                                    <td style="padding:4px 0;">Inhoud:</td>
+                                    <td style="padding:4px 0;">404 m³</td>
+                                </tr>
+                                
+                            
+                                
+                                <tr>
+                                    <td style="padding:4px 0;">Bouwjaar:</td>
+                                    <td style="padding:4px 0;">1986</td>
+                                </tr>
+                                
+                            
+                                
+                                <tr>
+                                    <td style="padding:4px 0;">Aantal kamers:</td>
+                                    <td style="padding:4px 0;">5 kamers (waarvan 4 slaapkamers)</td>
+                                </tr>
+                                
+                            
+                                
+                                <tr>
+                                    <td style="padding:4px 0;">Aantal badkamers:</td>
+                                    <td style="padding:4px 0;">1 badkamer en 1 apart toilet</td>
+                                </tr>
+                                
+                            
+                                
+                                <tr>
+                                    <td style="padding:4px 0;">Aantal slaapkamers:</td>
+                                    <td style="padding:4px 0;">4</td>
+                                </tr>
+                                
+                            
+                                
+                                <tr>
+                                    <td style="padding:4px 0;">Energielabel:</td>
+                                    <td style="padding:4px 0;">C</td>
+                                </tr>
+                                
+                            
+                        </table>
+                    
+                </div>
+            </div>
+            <div class="info-item" style="background:#e8f4f8;padding:15px;border-radius:8px;">
+                <h3 style="margin:0 0 10px 0;color:#285AA0;">Huispedia</h3>
+                
+                <div style="margin:0;text-align:center;">
+                    <a href="https://huispedia.nl/almere/1313ee/basilicumweg/317" target="_blank" style="display:inline-block;background:#285AA0;color:white;padding:8px 16px;border-radius:4px;text-decoration:none;font-size:14px;">
+                        Bekijk op Huispedia
+                    </a>
+                </div>
+                
+                <p style="margin:10px 0 0 0;font-size:12px;color:#666;">
+                    Huispedia biedt gedetailleerde informatie over de woning, 
+                    inclusief historische gegevens en buurtinformatie.
+                </p>
+            </div>
+            <div class="info-item" style="background:#e8f4f8;padding:15px;border-radius:8px;">
+                <h3 style="margin:0 0 10px 0;color:#285AA0;">Reistijden</h3>
+                <table style="width:100%;background:#e8f4f8;padding:10px;border-radius:8px;">
+                    <tr>
+                        <td style="color:#888;">Dichtstbijzijnde station</td>
+                        <td><b>Almere Centrum</b> (Netherlands)</td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888;">Lopen naar station</td>
+                        <td><b>30 min (2,2 km)</b></td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888;">Reistijd naar Amsterdam Science Park</td>
+                        <td>
+                            
+                                <b>57 min (26,6 km)</b>
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888;">Reistijd naar Eindhoven Flux gebouw</td>
+                        <td>
+                            
+                                <b>2 uur 15 min. (128 km)</b>
+                            
+                        </td>
+                    </tr>
+                </table>
+                <div style="font-size:12px;color:#888;margin-top:8px;">* Reistijden gebaseerd op Google Maps, vertrek volgende dinsdag om 9:00 uur</div>
+            </div>
+        </div>
+    </div>
+    <!-- 新增：顶部下方的三列空白模块 -->
+    <div class="top-extra-info" style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;margin-bottom:20px;">
+        <div class="info-item" style="background:#e8f4f8;padding:15px;border-radius:8px;">
+            <h3 style="margin:0 0 10px 0;color:#285AA0;">WOZ Waarde</h3>
+            
+                <p style="margin:0;color:#666;">Geen WOZ informatie beschikbaar</p>
+            
+            <p style="margin:10px 0 0 0;font-size:12px;color:#666;">
+                WOZ-waarde is de officiële waarde van een woning, vastgesteld door de gemeente. 
+                Deze waarde wordt gebruikt voor het berekenen van de onroerendezaakbelasting (OZB).
+            </p>
+        </div>
+        <div class="info-item" style="background:#e8f4f8;padding:15px;border-radius:8px;">
+            <h3 style="margin:0 0 10px 0;color:#285AA0;">Immigratie Index</h3>
+            
+                <div style="margin:0;font-size:16px;"><table style='width:100%;border-collapse:collapse;'><tr><td>Postcodegebied1313in de gemeenteAlmere:</td></tr><tr><td>Totaal aantal inwoners:</td><td>4725</td></tr><tr><td>Totaal allochtonen:</td><td>1265</td><td>26.8 %</td></tr><tr><td>Westerse allochtonen:</td><td>500</td><td>10.6 %</td></tr><tr><td>Niet-westerse allochtonen:</td><td>765</td><td>16.2 %</td></tr></table></div>
+            
+            <p style="margin:10px 0 0 0;font-size:12px;color:#666;">
+                De immigratie index toont het percentage allochtonen in de buurt. 
+                Dit kan helpen bij het begrijpen van de culturele diversiteit in de wijk.
+            </p>
+        </div>
+        <div class="info-item"></div>
+    </div>
+    <div class="main-content">
+        <div class="info-section">
+            <h2 class="section-title">Gedetailleerde kenmerken</h2>
+            
+                
+                <h3>Overdracht</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Vraagprijs</td>
+                        <td>€ 435.000 k.k.</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Status</td>
+                        <td>Beschikbaar</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Aanvaarding</td>
+                        <td>In overleg</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Bouw</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Soort woonhuis</td>
+                        <td>Eengezinswoning, Hoekwoning</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Bouwjaar</td>
+                        <td>1986</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Soort bouw</td>
+                        <td>Bestaande bouw</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Soort dak</td>
+                        <td>Zadeldak bedekt met pannen</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Kadastrale gegevens</td>
+                        <td>Volle eigendom, gemeente Almere, sectie O, nummer 3325 , perceeloppervlakte: 127 m2Volle eigendom, gemeente Almere, sectie O, nummer 7530 , perceeloppervlakte: 14 m2</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Oppervlakte en inhoud</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Woonoppervlakte</td>
+                        <td>114 m²</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Externe bergruimte</td>
+                        <td>9 m²</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Perceeloppervlakte</td>
+                        <td>141 m²</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Inhoud</td>
+                        <td>404 m³</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Indeling</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Aantal kamers</td>
+                        <td>5 kamers (waarvan 4 slaapkamers)</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Aantal badkamers</td>
+                        <td>1 badkamer en 1 apart toilet</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Badkamer voorzieningen</td>
+                        <td>Toilet</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Voorzieningen</td>
+                        <td>Mechanische ventilatie, TV kabel, Dakraam, Glasvezel kabel</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Energie</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Isolatie</td>
+                        <td>Volledig geïsoleerd</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Verwarming</td>
+                        <td>Stadsverwarming</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Warm water</td>
+                        <td>Stadsverwarming</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Energielabel</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Energieklasse</td>
+                        <td>C</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Buitenruimte</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Ligging</td>
+                        <td>Aan rustige weg, In woonwijk</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Tuin</td>
+                        <td>Achtertuin, Voortuin</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Achtertuin</td>
+                        <td>68 m² (10,5m diep en 6,5m breed)</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Ligging tuin</td>
+                        <td>Gelegen op het oosten, zuiden, zuidoosten</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Bergruimte</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Schuur/berging</td>
+                        <td>Aangebouwd steen</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <h3>Parkeergelegenheid</h3>
+                <table>
+                    <tbody>
+                    
+                    <tr>
+                        <td style="width:40%;color:#888;">Soort parkeergelegenheid</td>
+                        <td>Openbaar parkeren</td>
+                    </tr>
+                    
+                    </tbody>
+                </table>
+                
+            
+        </div>
+        <div class="gallery">
+            <h2 class="section-title">Foto's</h2>
+            
+            <img src="https://media.nvm.nl/9c5af905-9447-44ef-b05a-339f54c6c5fd" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/c54a56d6-5327-46cd-9f7e-82deb0f23233" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/89de7d56-0b97-41fd-8800-ba8606907c5a" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/689990fe-45ba-40be-b129-51396f201467" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/7aca5798-f9d8-4351-9b1d-5b4a308119a8" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/5b469f46-f1b8-420d-b702-dc7a8b14aacf" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/6f05844f-a572-4e69-8020-8eae81389b13" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/fdd31b02-ebe8-4a48-89eb-28b7e8459038" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/8cdbca07-71ab-41d4-8f8a-6b011c1a7299" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/75e6a622-110a-4b87-b4c0-bdb8efb3f9ad" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/01d017f2-f462-4907-b133-617eb4da0c6c" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/9ce5520f-a9bb-43b1-b213-d1c1e4435b0c" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/dc7eb0d3-237c-405f-a603-5637733e624d" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/a2c59d63-3522-4d22-ba05-ca3431c7ec12" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/2851f94f-a0e0-4287-8e0f-3e1c83d8f767" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/c16faadb-99c7-431e-b00e-8872573d6093" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/af1f2cad-2f98-4d23-a764-04afdc0d8501" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/a52fbc83-1a39-425c-8a60-7c36d63f8ef8" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/23c87bfd-aba9-4bd8-9940-10687066354f" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/35c6aa7b-0c47-45aa-b79f-b502c4b52b85" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/7038c149-72f2-462b-8486-ed31db43b012" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/73d77c88-5f37-468d-964f-00423e388692" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/38d31b6a-2c30-48be-bbcb-ca1d31636b98" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/6854c655-8035-49df-9f2e-787ed6beff69" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/bc1e7673-ae92-4eec-8bcc-2c2ee2d312c3" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/10651683-d6da-467d-ae46-7047f091f065" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/5b5dbe7a-2c3f-441c-96d9-c5cb6e028a2a" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/fb1949b3-921f-49a1-b167-52814e68f882" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/645d8362-03fd-4c5f-8677-ad1230a23c72" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/7db102ab-9880-41c2-9951-b7e08f85b919" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/adb607ba-5414-471a-b5a4-85c0c5e523a6" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/61d98434-4f00-47ad-b17c-76dc225fc99b" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/3ba80749-4e9f-4be7-9091-d4fbbc2a658e" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/5edd334c-9809-4864-9529-f2dc507cb1da" alt="Woning foto">
+            
+            <img src="https://media.nvm.nl/d2c2fdc2-9017-4a60-9916-5a729d84c906" alt="Woning foto">
+            
+        </div>
+    </div>
+</body>
+</html> 
