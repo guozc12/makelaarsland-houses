@@ -1,5 +1,52 @@
 [
   {
+    "title": "Rijnlaan 234",
+    "address": "Rijnlaan 234, 3522BZ Utrecht",
+    "price": "€ 600.000 k.k.",
+    "size_rooms": "120 m² • 105 m² • 6 kamers",
+    "agent": "",
+    "images": [],
+    "url": "https://mijn.makelaarsland.nl/zoekopdracht/woningdetails/3774076",
+    "details": "",
+    "nearest_station": {
+      "station_name": "Utrecht Centraal",
+      "station_addr": "Netherlands",
+      "walking_time": "36 min",
+      "walking_distance": "2,6 km",
+      "to_science_park": {
+        "duration": "1 uur 11 min.",
+        "distance": "40,3 km",
+        "start_address": "Rijnlaan 234, 3522 BZ Utrecht, Nederland",
+        "end_address": "Science Park 904, 1098 XH Amsterdam, Nederland",
+        "summary": "",
+        "mode": "transit"
+      },
+      "to_flux": {
+        "duration": "1 uur 38 min.",
+        "distance": "84,4 km",
+        "start_address": "Rijnlaan 234, 3522 BZ Utrecht, Nederland",
+        "end_address": "De Groene Loper 19, 5612 AP Eindhoven, Nederland",
+        "summary": "",
+        "mode": "transit"
+      }
+    },
+    "details_sections": {},
+    "agent_info": {},
+    "important_info": {
+      "Woonoppervlakte": "",
+      "Inhoud": "",
+      "Bouwjaar": "",
+      "Aantal kamers": "",
+      "Aantal badkamers": "",
+      "Aantal slaapkamers": "",
+      "Energielabel": ""
+    },
+    "woz_info": null,
+    "immigration_info": "<table style='width:100%;border-collapse:collapse;'><tr><td>Postcodegebied3522in de gemeenteUtrecht:</td></tr><tr><td>Totaal aantal inwoners:</td><td>8605</td></tr><tr><td>Totaal allochtonen:</td><td>2300</td><td>26.7 %</td></tr><tr><td>Westerse allochtonen:</td><td>815</td><td>9.5 %</td></tr><tr><td>Niet-westerse allochtonen:</td><td>1485</td><td>17.3 %</td></tr></table>",
+    "huispedia_url": "https://huispedia.nl/utrecht/3522bz/rijnlaan/234",
+    "filename": "house_20250609_135547.html"
+  },
+  {
     "title": "Beukstraat 63",
     "address": "Beukstraat 63, 3581XE Utrecht",
     "price": "€ 500.000 k.k.",
