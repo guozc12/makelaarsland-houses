@@ -1,5 +1,159 @@
 [
   {
+    "title": "Boelijn 14",
+    "address": "Boelijn 14, 1319CP Almere",
+    "price": "€ 599.950 k.k.",
+    "size_rooms": "169 m² • 203 m² • 6 kamers",
+    "agent": " kamersVan Dort Makelaardij",
+    "images": [
+      "https://media.nvm.nl/4a2234d2-83b7-4fef-b3d1-a5dfe204bb98",
+      "https://media.nvm.nl/e8244637-d1ce-4a9c-b0fb-6f3b3ab44e9b",
+      "https://media.nvm.nl/8af92118-6eb5-4613-8e08-cd7ef7fb95ae",
+      "https://media.nvm.nl/e5898378-a66d-4c74-aacb-7a9d50a69174",
+      "https://media.nvm.nl/2ae5f8e6-ea34-4090-86ab-a757b9fd7a52",
+      "https://media.nvm.nl/39e01c63-9b1b-40bc-9f1b-c33243c1a8e7",
+      "https://media.nvm.nl/d6f31c75-b9ee-41de-aa0f-43c83825c246",
+      "https://media.nvm.nl/b25b5cee-119b-4583-8ab6-53a65bb5afa0",
+      "https://media.nvm.nl/f0293975-4eb5-4942-a63e-54ba3faa86d8",
+      "https://media.nvm.nl/7672e56d-dd5c-43dd-a3d9-2e17e975855d",
+      "https://media.nvm.nl/d5fe55ac-dbdd-4b69-8deb-f583617debd7",
+      "https://media.nvm.nl/c23f02dd-24d1-476c-b515-aeee2382f6fa",
+      "https://media.nvm.nl/e5ee4bb3-39be-42b1-a327-b898ce6074b0",
+      "https://media.nvm.nl/d14a2b8a-d4c4-4d3a-9d2a-ab5e2458c044",
+      "https://media.nvm.nl/a50b8c80-acba-4ac1-b100-87ff43d2cdc5",
+      "https://media.nvm.nl/756b354e-e04d-40d3-a8b7-efaaa5e6cfe1",
+      "https://media.nvm.nl/f27fea36-3ef0-4221-9dff-4d7af15f9d1b",
+      "https://media.nvm.nl/5ea112e9-b503-4a41-a471-7b35c07fb335",
+      "https://media.nvm.nl/abd288ee-528e-4311-a3aa-0facde2736ba",
+      "https://media.nvm.nl/562869b2-2b76-4066-9884-9bc481eda9e2",
+      "https://media.nvm.nl/2c6303f6-ca3f-4fe5-b32a-6e7e3cb2c712",
+      "https://media.nvm.nl/69b2a550-071b-4323-ae1f-980ceb91b2d7",
+      "https://media.nvm.nl/75eea691-2d05-402b-8f5c-fdb5e956b6e3",
+      "https://media.nvm.nl/0595c94b-af3f-4f6b-9c83-c9ae44aea1a3",
+      "https://media.nvm.nl/fa898c9b-41af-47e6-9f90-b7a6f66c3fd6",
+      "https://media.nvm.nl/1e8cc250-6e55-4eae-bb28-251102be2c5d",
+      "https://media.nvm.nl/228246da-2a45-4189-9cd3-8e971f6da8fa",
+      "https://media.nvm.nl/603f6d62-44d6-470c-aa09-67aaad4b0bc2",
+      "https://media.nvm.nl/e4c6990e-92ce-4bf0-a635-23293e683846",
+      "https://media.nvm.nl/ad3e1e26-33d7-439f-ac1c-226f5c250754",
+      "https://media.nvm.nl/56b776a3-727c-40cb-a31a-3eb7e1031214",
+      "https://media.nvm.nl/01d557fb-5b5b-480a-b610-aeae4cc04ada",
+      "https://media.nvm.nl/fd0eb5b5-d739-46ee-8141-60262837bc9e",
+      "https://media.nvm.nl/f788bfd7-2582-4f1c-8321-403b105baa76",
+      "https://media.nvm.nl/b152bd81-74db-4a17-bcdd-5bc5c689cb95",
+      "https://media.nvm.nl/853604b4-a78b-47e7-9451-4b62ccce081d",
+      "https://media.nvm.nl/9a51e672-20f5-451a-b07b-756088948de6",
+      "https://media.nvm.nl/34b76281-9349-496c-b6d9-a7c5d3416d51",
+      "https://media.nvm.nl/fc91cd92-1b2f-4aba-b6c3-b2b2e3ea5997",
+      "https://media.nvm.nl/d2551992-403a-41d8-842d-cd6d18f0d832",
+      "https://media.nvm.nl/72d7b243-b034-4b7d-916a-65aa72365109",
+      "https://media.nvm.nl/82ccbb9c-b3b5-48b4-be4b-8a681ae9a193",
+      "https://media.nvm.nl/30f59b58-d2c9-4c7f-9e92-840cbe9e2dbc",
+      "https://media.nvm.nl/6c36373c-b78c-47be-b668-b3938bf0bd2d",
+      "https://media.nvm.nl/351e7d0c-ce04-4227-bf5a-d5de61fae087",
+      "https://media.nvm.nl/2343e47c-9280-4022-bec8-abeba3f8b5e4",
+      "https://media.nvm.nl/e55a16af-b986-4446-8d51-459435bef227",
+      "https://media.nvm.nl/576d7792-96ab-4b51-8bfe-91199c37e516",
+      "https://media.nvm.nl/aba7a295-cbb3-405b-aef9-61c965878ae9",
+      "https://media.nvm.nl/a1aa83b4-ccc9-4f11-86bf-b47257cbc309",
+      "https://media.nvm.nl/b0f685ca-960f-43fb-885c-d4b5d281a9b8",
+      "https://media.nvm.nl/d01c2b42-0557-4764-a58f-561054114d3d",
+      "https://media.nvm.nl/74bb1074-a6a8-48cb-be38-98b9704d5e98",
+      "https://media.nvm.nl/98ffa786-90d4-4548-ade3-ae2216e3a656"
+    ],
+    "url": "https://mijn.makelaarsland.nl/zoekopdracht/woningdetails/3775306",
+    "details": "Mijn huis\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nWoningaanbod\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nBoelijn 14\n1319 CP Almere\n€ 599.950 k.k.\nBewaren\nBekijk alle\n54\nfoto's\nOmschrijving\n- De bewoners aan het woord:\nBoelijn 14 – Wonen met ruimte, licht en vrijheid in Almere Noorderplassen\nBieden vanaf €599.950,- k.k. – unieke kans op een royale, instapklare woning in een van de populairste woonwijken van Almere.\nWelkom op Boelijn 14: een bijzonder ruime gezinswoning (169 m²) met vier slaapkamers (optie tot vijf), een royale serre, twee dakterrassen, een heerlijke zonnige tuin, losse berging, én een A++ energielabel met zonnepanelen. Gelegen in de geliefde wijk Noorderplassen West-Zuid, waar rust, natuur en voorzieningen samenkomen.\nIndeling – doordacht en veelzijdig\nBegane grond\nBij binnenkomst ervaar je direct de ruimte: de lichte hal met toilet en meterkast leidt naar de open woonkamer met sfeervolle divider inclusief haard. De zithoek grenst aan de serre — een fijne overgang naar de tuin — en de eethoek sluit aan op de moderne, L-vormige open keuken aan de voorzijde, compleet met inbouwapparatuur zoals inductiekookplaat, oven, vaatwasser en veel opbergruimte.\n1e verdieping\nTwee slaapkamers, waarvan één met een aangrenzende kamer: ideaal als thuiswerkplek, inloopkast of extra kinderslaapkamer. De master bedroom heeft vaste kastruimte én toegang tot een zonnig balkon. De ruime badkamer beschikt over een douche en wastafelmeubel; het toilet is apart op de overloop.\n2e verdieping\nNog twee ruime, lichte kamers – perfect voor kinderen, gasten of als kantoor. Daarnaast vind je hier een nette wasruimte met toegang tot het tweede dakterras.\nBuitenleven op z’n best\nDe serre vormt een mooie overgang van binnen naar buiten en biedt het hele jaar door een fijne plek om te zitten. De diepe, zonnige tuin biedt privacy, groen en volop ruimte voor lange avonden met vrienden en familie. Achterin staat een ruime, vrijstaande stenen berging, ideaal voor fietsen of tuinmeubilair.\nBovenop heb je twee dakterrassen: perfecte plekken voor je ochtendkoffie of zonsondergang.\nLigging – Noorderplassen West-Zuid\nEen rustige, kindvriendelijke wijk met volop groen, water en speelruimte. Binnen 15 minuten fietsen ben je in het centrum van Almere. Scholen, supermarkten, sportclubs en OV zijn in de buurt. Via de A6 en A27 zit je zó in Amsterdam, Hilversum of Lelystad.\nHighlights\nBieden vanaf €599.950,- k.k.\n169 m² woonoppervlak\n4 slaapkamers + kantoor/inloopkast optie\nSerre met schuifpui\n2 zonnige dakterrassen\nZonnige achtertuin met privacy en berging\nEnergielabel A++ (zonnepanelen via huur)\nModerne open keuken\n2 toiletten, 1 badkamer\nGelegen in rustige, gewilde wijk nabij voorzieningen\nOpenbaar parkeren in directe omgeving\n?? Kom kijken – dit huis verrast je\nDeze woning is klaar voor nieuwe bewoners. Dankzij de scherpe vanafprijs is dit hét moment om te bezichtigen. Maak snel een afspraak — want huizen zoals deze, op een plek als deze, zijn zelden lang beschikbaar.\n?? Bel Van Dort Makelaardij of plan direct een bezichtiging via Funda.\nKenmerken\nOverdracht\nVraagprijs\n€ 599.950 k.k.\nStatus\nBeschikbaar\nAanvaarding\nIn overleg\nBouw\nSoort woonhuis\nEengezinswoning, Tussenwoning\nBouwjaar\n2004\nSoort bouw\nBestaande bouw\nSoort dak\nPlat dak bedekt met bitumineuze dakbedekking\nKeurmerken\nEnergie prestatie advies\nKadastrale gegevens\nVolle eigendom, gemeente Almere, sectie E, nummer 78 , perceeloppervlakte: 203 m2\nBijzonderheden\nGedeeltelijk gestoffeerd\nOppervlakte en inhoud\nWoonoppervlakte\n169 m²\nGebouwgebonden buitenruimte\n43 m²\nExterne bergruimte\n11 m²\nPerceeloppervlakte\n203 m²\nInhoud\n600 m³\nIndeling\nAantal kamers\n6 kamers (waarvan 4 slaapkamers)\nAantal badkamers\n1 badkamer en 2 aparte toiletten\nBadkamer voorzieningen\nDouche\nVoorzieningen\nMechanische ventilatie, TV kabel, Frans balkon, Glasvezel kabel, Zonnepanelen\nEnergie\nIsolatie\nVolledig geïsoleerd\nVerwarming\nStadsverwarming\nWarm water\nStadsverwarming\nEnergielabel\nEnergieklasse\nA++\nBuitenruimte\nLigging\nAan rustige weg, In woonwijk, In bosrijke omgeving\nTuin\nAchtertuin, Zonneterras\nBalkon/dakterras\nDakterras aanwezig, frans balkon aanwezig\nBergruimte\nSchuur/berging\nVrijstaand steen\nVoorzieningen\nVoorzien van elektra\nParkeergelegenheid\nSoort parkeergelegenheid\nOpenbaar parkeren\nAankoophulp inschakelen\nWat is dit huis waard? Wat moet ik bieden? Kies voor onze aankoophulp en koop zorgeloos jouw nieuwe woning.\nMeer informatie\nBreng een bod uit\nVerkopend makelaar\nVan Dort Makelaardij & Woningbemiddeling\n(+31) 36 797 90 00\ninfo@vandortmakelaardij.nl\nVraag bezichtiging aan\nContact\nAlgemene voorwaarden\nPrivacy verklaring\nVeelgestelde vragen\nContact",
+    "nearest_station": {
+      "station_name": "Muziekwijk",
+      "station_addr": "Netherlands",
+      "walking_time": "37 min",
+      "walking_distance": "2,7 km",
+      "to_science_park": {
+        "duration": "1 uur 1 min.",
+        "distance": "28,6 km",
+        "start_address": "Boelijn 14, 1319 CP Almere, Nederland",
+        "end_address": "Science Park 904, 1098 XH Amsterdam, Nederland",
+        "summary": "",
+        "mode": "transit"
+      },
+      "to_flux": {
+        "duration": "2 uur 17 min.",
+        "distance": "130 km",
+        "start_address": "Boelijn 14, 1319 CP Almere, Nederland",
+        "end_address": "De Groene Loper 19, 5612 AP Eindhoven, Nederland",
+        "summary": "",
+        "mode": "transit"
+      }
+    },
+    "details_sections": {
+      "Overdracht": {
+        "Vraagprijs": "€ 599.950 k.k.",
+        "Status": "Beschikbaar",
+        "Aanvaarding": "In overleg"
+      },
+      "Bouw": {
+        "Soort woonhuis": "Eengezinswoning, Tussenwoning",
+        "Bouwjaar": "2004",
+        "Soort bouw": "Bestaande bouw",
+        "Soort dak": "Plat dak bedekt met bitumineuze dakbedekking",
+        "Keurmerken": "Energie prestatie advies",
+        "Kadastrale gegevens": "Volle eigendom, gemeente Almere, sectie E, nummer 78 , perceeloppervlakte: 203 m2",
+        "Bijzonderheden": "Gedeeltelijk gestoffeerd"
+      },
+      "Oppervlakte en inhoud": {
+        "Woonoppervlakte": "169 m²",
+        "Gebouwgebonden buitenruimte": "43 m²",
+        "Externe bergruimte": "11 m²",
+        "Perceeloppervlakte": "203 m²",
+        "Inhoud": "600 m³"
+      },
+      "Indeling": {
+        "Aantal kamers": "6 kamers (waarvan 4 slaapkamers)",
+        "Aantal badkamers": "1 badkamer en 2 aparte toiletten",
+        "Badkamer voorzieningen": "Douche",
+        "Voorzieningen": "Mechanische ventilatie, TV kabel, Frans balkon, Glasvezel kabel, Zonnepanelen"
+      },
+      "Energie": {
+        "Isolatie": "Volledig geïsoleerd",
+        "Verwarming": "Stadsverwarming",
+        "Warm water": "Stadsverwarming"
+      },
+      "Energielabel": {
+        "Energieklasse": "A++"
+      },
+      "Buitenruimte": {
+        "Ligging": "Aan rustige weg, In woonwijk, In bosrijke omgeving",
+        "Tuin": "Achtertuin, Zonneterras",
+        "Balkon/dakterras": "Dakterras aanwezig, frans balkon aanwezig"
+      },
+      "Bergruimte": {
+        "Schuur/berging": "Vrijstaand steen",
+        "Voorzieningen": "Voorzien van elektra"
+      },
+      "Parkeergelegenheid": {
+        "Soort parkeergelegenheid": "Openbaar parkeren"
+      }
+    },
+    "agent_info": {
+      "name": "Van Dort Makelaardij & Woningbemiddeling",
+      "phone": "(+31) 36 797 90 00",
+      "email": "info@vandortmakelaardij.nl"
+    },
+    "important_info": {
+      "Woonoppervlakte": "169 m²",
+      "Inhoud": "600 m³",
+      "Bouwjaar": "2004",
+      "Aantal kamers": "6 kamers (waarvan 4 slaapkamers)",
+      "Aantal badkamers": "1 badkamer en 2 aparte toiletten",
+      "Aantal slaapkamers": "4",
+      "Energielabel": "A++"
+    },
+    "woz_info": "<ul class='woz-data'><li>WOZ 2024: € 531.000 (3,1%)</li><li>WOZ 2023: € 515.000 (25,9%)</li><li>WOZ 2022: € 409.000 (6,5%)</li><li>WOZ 2021: € 384.000 (12,9%)</li><li>WOZ 2020: € 340.000 (13,3%)</li><li>WOZ 2019: € 300.000 (9,9%)</li><li>WOZ 2018: € 273.000 (1,1%)</li><li>WOZ 2017: € 270.000 (2,9%)</li><li>WOZ 2016: € 278.000 (1,1%)</li></ul>",
+    "immigration_info": "<table style='width:100%;border-collapse:collapse;'><tr><td>Postcodegebied1319in de gemeenteAlmere:</td></tr><tr><td>Totaal aantal inwoners:</td><td>2280</td></tr><tr><td>Totaal allochtonen:</td><td>770</td><td>33.8 %</td></tr><tr><td>Westerse allochtonen:</td><td>180</td><td>7.9 %</td></tr><tr><td>Niet-westerse allochtonen:</td><td>590</td><td>25.9 %</td></tr></table>",
+    "huispedia_url": "https://huispedia.nl/almere/1319cp/boelijn/14",
+    "filename": "house_20250610_174635.html"
+  },
+  {
     "title": "Looydijk 93",
     "address": "Looydijk 93, 3732VD De Bilt",
     "price": "€ 495.000 k.k.",
