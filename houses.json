@@ -1,5 +1,156 @@
 [
   {
+    "title": "Rijnlaan 234",
+    "address": "Rijnlaan 234, 3522BZ Utrecht",
+    "price": "€ 600.000 k.k.",
+    "size_rooms": "120 m² • 105 m² • 6 kamers",
+    "agent": "",
+    "images": [
+      "https://media.nvm.nl/e764798c-379c-420d-9b0c-72d0b5f13848",
+      "https://media.nvm.nl/6f7d347c-f146-488f-82cb-b913907d111f",
+      "https://media.nvm.nl/7bd33960-296c-480f-a6ee-9bc50e95a210",
+      "https://media.nvm.nl/1c72a66c-b0eb-4b4f-8a50-b0d2a0a1ca0d",
+      "https://media.nvm.nl/94b8a079-4da5-4040-a6ae-ca055b647ce8",
+      "https://media.nvm.nl/d07e33ed-c97d-4c6e-84c8-c61d74e816e6",
+      "https://media.nvm.nl/3aae5f0c-52fa-4ed7-acc6-fdaec3b92434",
+      "https://media.nvm.nl/38848edb-aad3-43e7-9d2d-f35c590df97f",
+      "https://media.nvm.nl/632748c0-6ee8-4134-af6e-b783dc347e5e",
+      "https://media.nvm.nl/12d7cecd-fccf-43d1-9d68-bfc41635d87f",
+      "https://media.nvm.nl/260c819e-a6a8-423b-9d55-bc3bf0ef4c4e",
+      "https://media.nvm.nl/bc493c12-2d76-4eec-8124-ab682700ffa7",
+      "https://media.nvm.nl/029b4ba2-84f3-488b-9907-318f8134d5ed",
+      "https://media.nvm.nl/a9b0987e-a25a-4e84-85c3-8c413385829f",
+      "https://media.nvm.nl/aec8dde3-a27c-4702-86c9-586cb23aeeca",
+      "https://media.nvm.nl/fd25bcf0-f507-4cc7-9ae0-6e270c3a2d93",
+      "https://media.nvm.nl/c1b7e377-bf6c-4d40-8369-748dc1965c74",
+      "https://media.nvm.nl/1f9e9f5d-99f0-4c0d-ae6d-9f6f0ad922c5",
+      "https://media.nvm.nl/c7f7b763-1329-4f2f-83a8-ac0620e873a2",
+      "https://media.nvm.nl/9375f06d-4af2-460d-9d73-7846ef08d6f7",
+      "https://media.nvm.nl/3a87e7b5-7434-4ce4-983a-430dd2dfe7d8",
+      "https://media.nvm.nl/118d2c08-51ae-44d9-902b-87b14dfa823b",
+      "https://media.nvm.nl/44afbb2a-c365-41b5-919e-cf580450a33d",
+      "https://media.nvm.nl/4b84c27e-b011-495c-b6ed-b6eb106b6f06",
+      "https://media.nvm.nl/6bf8d354-1bdf-4eda-9197-73cc69f602a5",
+      "https://media.nvm.nl/ca7dddc8-bcfd-4a0b-ab35-122cb1f8c7ff",
+      "https://media.nvm.nl/baa41b02-0141-4347-82bd-1945e0d9a6fb",
+      "https://media.nvm.nl/e2a57e2b-7df4-4a0c-b38c-493fe732aeb9",
+      "https://media.nvm.nl/d2a10bb4-627d-49a9-880d-be3075841e4a",
+      "https://media.nvm.nl/0230ab64-34d8-4c24-9193-ac4514d59960",
+      "https://media.nvm.nl/9a443c8c-faea-4b68-b215-bbcd4866e6ac",
+      "https://media.nvm.nl/f0ead32c-9707-42b4-9f76-cc85fc2e1a5e",
+      "https://media.nvm.nl/cac7e881-a916-4d87-ae94-7eb2a98b22e3",
+      "https://media.nvm.nl/e06ed162-f417-416b-be71-78e6cb5eb150",
+      "https://media.nvm.nl/069d855a-b279-44e3-bea0-2b6077d05278",
+      "https://media.nvm.nl/61bdef3b-f2ab-4186-af92-443fad8f8030",
+      "https://media.nvm.nl/a9d8be35-e736-4835-b0bc-67373fe2adfb",
+      "https://media.nvm.nl/b98cb9bd-43bc-4275-9219-92c14a448bb7",
+      "https://media.nvm.nl/e4c77325-544d-42a7-911d-7bbfe5d059bb",
+      "https://media.nvm.nl/829c8dc6-4a4b-46dc-9888-c0834cf80d99",
+      "https://media.nvm.nl/000c5ef7-0d0f-4862-b511-48c1b63af534",
+      "https://media.nvm.nl/5acdb9be-4295-4477-bbca-c788eb238936",
+      "https://media.nvm.nl/097b164e-b580-445f-a5f9-50ed2953f80f",
+      "https://media.nvm.nl/b6e10c66-ec9c-4306-af73-21c1ddcb117b",
+      "https://media.nvm.nl/f0a1751a-fa3d-438e-b079-254ce28307ea",
+      "https://media.nvm.nl/a5b6b9f0-1428-4510-81e6-f9b02104805c",
+      "https://media.nvm.nl/3cea3fb2-5288-4e7d-91da-74a7fa543733",
+      "https://media.nvm.nl/0bd86edc-1705-4ef7-8ed3-01459a39ac2f",
+      "https://media.nvm.nl/e3bacf58-8200-4356-b2da-9623a677accf",
+      "https://media.nvm.nl/752bffda-9279-445e-97c6-aa54eb808239",
+      "https://media.nvm.nl/1092b2f7-9bff-44ad-9b42-f1a2ae27f526",
+      "https://media.nvm.nl/9ac916e6-0f16-499c-a305-4f213a7c6a42"
+    ],
+    "url": "https://mijn.makelaarsland.nl/zoekopdracht/woningdetails/3774076",
+    "details": "Mijn huis\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nWoningaanbod\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nRijnlaan 234\n3522 BZ Utrecht\n€ 600.000 k.k.\nBewaren\nBekijk alle\n52\nfoto's\nOmschrijving\nBEKIJK OOK DE EXCLUSIEVE WOONVIDEO VOOR EEN GOEDE EERSTE INDRUK VAN DEZE ROYALE SFEERVOLLE LICHTE EN UITGEBOUWDE 6-KAMER JAREN ’30 EENGEZINSWONING MET ZONNIGE ACHTERTUIN, VRIJSTAANDE SCHUUR EN AFGESLOTEN ACHTEROM.\nMet veel plezier bieden wij te koop aan deze royale (ca. 120 m²) en lichte 6-kamer jaren ’30 eengezinswoning met fraai aangelegde en zonnige achtertuin met vrijstaande houten berging en achterom. De woning beschikt o.a. over een riante woonkamer met een gezellige uitgebouwde open keuken. Op de eerste verdieping zijn er drie slaapkamers en een luxe en zeer complete badkamer met separaat toilet. Op de tweede verdieping zijn twee slaapkamers. De slaapkamer aan de voorzijde beschikt over een dakkapel. De slaapkamer aan de achterzijde is zeer ruim van opzet en beschikt over een grote dakopbouw.\nEen enkele keer bezoek je een woning en weet je direct, dit is de woning die ik zoek. Niet voor niets dat de huidige eigenaren met vier opgroeiende kinderen hier al ruim 25 jaar met heel veel plezier wonen. In het kort: gewoon een heerlijk (t)huis.\nWIJK EN LIGGING VAN DE WONING\nRivierenwijk is een aantrekkelijke woonwijk met voornamelijk jaren dertig woningen. Op loopafstand zijn diverse winkels, supermarkten, basisscholen en kinderopvang en gezellige eet- en drinkgelegenheden gevestigd. Utrecht CS, het oude Stadscentrum, het (nieuwe) Vaartsche Rijn station en het Ledig Erf, zijn wandelend, met de fiets of openbaar vervoer snel te bereiken. De woning is gunstig gelegen aan een brede en groene straat. De wijk beschikt over verschillende speeltuinen, parken en sportveldjes. Ook de diverse uitvalswegen (A-27, A-12 en A-2) zijn makkelijk bereikbaar. De ligging van de woning is zeer centraal. Bovendien ben je met de trein in een half uurtje in het centrum van Amsterdam of op Schiphol.\nIndeling begane grond:\nEntree/hal voorzien van trapopgang naar de eerste verdieping, een praktische trapkast en toilet met fontein. Sfeervolle, lichte en uitgebouwde woonkamer (ca. 33 m²) met erker, mooie houten vloer, gezellige open haard, fraaie lichtstraat, grote raampartijen en openslaande deuren (over de gehele breedte van de woonkamer) naar de tuin. Aangrenzend is de ruim opgezette open keuken in hoekopstelling voorzien van apparatuur o.a. een groot fornuis met brede oven, vaatwasmachine, afzuigkap, koel/vries combinatie een mooi groot raam boven de gootsteen met uitzicht op de nieuw aangelegde tuin. De keuken is ideaal vanwege de prettige indeling, de vele opbergmogelijkheden en werkruimte.\nTuin:\nZeer fraai aangelegde en gunstig op de zon gelegen (zuidoost) achtertuin van ca. 37 m² met daarop een nieuwgebouwde vrijstaande berging van ca. 6 m² over de gehele breedte van de tuin en voorzien van elektra. De tuin is voorzien van sfeerverlichting en is gemakkelijk bereikbaar d.m.v. een achterom via een afgesloten poort.\n1e Verdieping:\nOverloop met trapopgang naar de tweede verdieping en toegang tot alle vertrekken. Nette, in 2017 vernieuwde, badkamer van ca. 4 m2 met dubbele wastafel, douche/ligbad combinatie en 2e toilet. De slaapkamer aan de achterzijde is 11 m2 en heeft een inbouwkast. De slaapkamers aan de voorzijde zijn respectievelijk 10 m2 en voorzien van inbouwkast en 4 m2. Laatstgenoemde wordt momenteel gebruikt als werkkamer, maar kan ook dienstdoen als inloopkast of babykamer.\n2e Verdieping:\nDe slaapkamer aan de voorzijde (ca. 11 m2) met dakkapel biedt ruimte voor een rustige werkplek. Hier bevindt zich ook de cv-opstelling, wasmachine en drogeropstelling. Door de grote dakopbouw aan de achterzijde, is hier een verrassend ruime slaapkamer ontstaan van circa 12 m², welke is voorzien ingebouwde kastruimte. Een heerlijke plek om je terug te trekken!\n3e verdieping:\nRuime bergzolder van ca. 8 m², bereikbaar d.m.v. een losse trap. Deze ruimte is ideaal voor opslag van spullen die je niet dagelijks nodig hebt.\nBijzonderheden:\nBouwjaar ca. 1934, woonoppervlakte ca. 120 m², inhoud ca. 401 m³.\nPerceel eigen grond 105 m² (geen erfpacht, geen extra kosten).\nVerwarming d.m.v. CV Combiketel (Intergas HRE februari 2025).                                                                                  Ruim voldoende parkeergelegenheid op de openbare weg (2 parkeervergunningen mogelijk), laadpaalstations nabij.\nCentraal gelegen, nabij het centrum op minder dan tien minuten fietsen van het Centraal Station.\nWoning is nagenoeg geheel voorzien van dubbel glas (m.u.v. de voordeur).\nEnergielabel C geldig t/m 15 april 2035.\nDe woning is voorzien van gevelisolatie (2023), vloerisolatie (2023) en dakisolatie (2017). Uitbouw begane grond is gerealiseerd in 2017, badkamer in 2017, dakkapel voor in 2016, dakkapel (opbouw) achter in 2017. Tuin en schuur geheel vernieuwd in 2019.\nAlle sportfaciliteiten zoals tennis, voetbal, basketbal, hockey, fitness en zwembad Den Hommel zijn op fietsafstand.\nSnelle verbindingen naar Amsterdam en Schiphol (binnen 30 minuten).\nOplevering:                                                                                                                                                                       In overleg.\nKenmerken\nOverdracht\nVraagprijs\n€ 600.000 k.k.\nStatus\nBeschikbaar\nAanvaarding\nIn overleg\nBouw\nSoort woonhuis\nEengezinswoning, Tussenwoning\nBouwjaar\n1934\nSoort bouw\nBestaande bouw\nSoort dak\nZadeldak bedekt met pannen\nKadastrale gegevens\n-, gemeente Catharijne, sectie D, nummer 7239 , perceeloppervlakte: 105 m2\nOppervlakte en inhoud\nWoonoppervlakte\n120 m²\nExterne bergruimte\n6 m²\nPerceeloppervlakte\n105 m²\nInhoud\n401 m³\nIndeling\nAantal kamers\n6 kamers (waarvan 5 slaapkamers)\nAantal badkamers\n1 badkamer en 1 apart toilet\nBadkamer voorzieningen\nLigbad, douche, toilet\nVoorzieningen\nNatuurlijke ventilatie\nEnergie\nIsolatie\nDakisolatie, Muurisolatie, Vloerisolatie, Dubbel glas, HR-glas\nVerwarming\nCv-ketel\nWarm water\nCv-ketel\nCv-ketel\nIntergas HRE uit 2025, Eigendom\nEnergielabel\nEnergieklasse\nC\nBuitenruimte\nLigging\nIn woonwijk\nTuin\nAchtertuin\nAchtertuin\n37 m² (7,35m diep en 5m breed)\nLigging tuin\nGelegen op het oosten, zuiden, zuidoosten\nBergruimte\nSchuur/berging\nVrijstaand hout\nVoorzieningen\nVoorzien van elektra\nParkeergelegenheid\nSoort parkeergelegenheid\nBetaald parkeren, Parkeervergunningen\nAankoophulp inschakelen\nWat is dit huis waard? Wat moet ik bieden? Kies voor onze aankoophulp en koop zorgeloos jouw nieuwe woning.\nMeer informatie\nBreng een bod uit\nVerkopend makelaar\nWillems & Steinvoort Makelaars\n030-2880600\ninfo@willems-steinvoort.nl\nVraag bezichtiging aan\nContact\nAlgemene voorwaarden\nPrivacy verklaring\nVeelgestelde vragen\nContact",
+    "nearest_station": {
+      "station_name": "Utrecht Centraal",
+      "station_addr": "Netherlands",
+      "walking_time": "36 min",
+      "walking_distance": "2,6 km",
+      "to_science_park": {
+        "duration": "1 uur 11 min.",
+        "distance": "40,3 km",
+        "start_address": "Rijnlaan 234, 3522 BZ Utrecht, Nederland",
+        "end_address": "Science Park 904, 1098 XH Amsterdam, Nederland",
+        "summary": "",
+        "mode": "transit"
+      },
+      "to_flux": {
+        "duration": "1 uur 38 min.",
+        "distance": "84,4 km",
+        "start_address": "Rijnlaan 234, 3522 BZ Utrecht, Nederland",
+        "end_address": "De Groene Loper 19, 5612 AP Eindhoven, Nederland",
+        "summary": "",
+        "mode": "transit"
+      }
+    },
+    "details_sections": {
+      "Overdracht": {
+        "Vraagprijs": "€ 600.000 k.k.",
+        "Status": "Beschikbaar",
+        "Aanvaarding": "In overleg"
+      },
+      "Bouw": {
+        "Soort woonhuis": "Eengezinswoning, Tussenwoning",
+        "Bouwjaar": "1934",
+        "Soort bouw": "Bestaande bouw",
+        "Soort dak": "Zadeldak bedekt met pannen",
+        "Kadastrale gegevens": "-, gemeente Catharijne, sectie D, nummer 7239 , perceeloppervlakte: 105 m2"
+      },
+      "Oppervlakte en inhoud": {
+        "Woonoppervlakte": "120 m²",
+        "Externe bergruimte": "6 m²",
+        "Perceeloppervlakte": "105 m²",
+        "Inhoud": "401 m³"
+      },
+      "Indeling": {
+        "Aantal kamers": "6 kamers (waarvan 5 slaapkamers)",
+        "Aantal badkamers": "1 badkamer en 1 apart toilet",
+        "Badkamer voorzieningen": "Ligbad, douche, toilet",
+        "Voorzieningen": "Natuurlijke ventilatie"
+      },
+      "Energie": {
+        "Isolatie": "Dakisolatie, Muurisolatie, Vloerisolatie, Dubbel glas, HR-glas",
+        "Verwarming": "Cv-ketel",
+        "Warm water": "Cv-ketel",
+        "Cv-ketel": "Intergas HRE uit 2025, Eigendom"
+      },
+      "Energielabel": {
+        "Energieklasse": "C"
+      },
+      "Buitenruimte": {
+        "Ligging": "In woonwijk",
+        "Tuin": "Achtertuin",
+        "Achtertuin": "37 m² (7,35m diep en 5m breed)",
+        "Ligging tuin": "Gelegen op het oosten, zuiden, zuidoosten"
+      },
+      "Bergruimte": {
+        "Schuur/berging": "Vrijstaand hout",
+        "Voorzieningen": "Voorzien van elektra"
+      },
+      "Parkeergelegenheid": {
+        "Soort parkeergelegenheid": "Betaald parkeren, Parkeervergunningen"
+      }
+    },
+    "agent_info": {
+      "name": "Willems & Steinvoort Makelaars",
+      "phone": "030-2880600",
+      "email": "info@willems-steinvoort.nl"
+    },
+    "important_info": {
+      "Woonoppervlakte": "120 m²",
+      "Inhoud": "401 m³",
+      "Bouwjaar": "1934",
+      "Aantal kamers": "6 kamers (waarvan 5 slaapkamers)",
+      "Aantal badkamers": "1 badkamer en 1 apart toilet",
+      "Aantal slaapkamers": "5",
+      "Energielabel": "C"
+    },
+    "woz_info": null,
+    "immigration_info": "<table style='width:100%;border-collapse:collapse;'><tr><td>Postcodegebied3522in de gemeenteUtrecht:</td></tr><tr><td>Totaal aantal inwoners:</td><td>8605</td></tr><tr><td>Totaal allochtonen:</td><td>2300</td><td>26.7 %</td></tr><tr><td>Westerse allochtonen:</td><td>815</td><td>9.5 %</td></tr><tr><td>Niet-westerse allochtonen:</td><td>1485</td><td>17.3 %</td></tr></table>",
+    "huispedia_url": "https://huispedia.nl/utrecht/3522bz/rijnlaan/234",
+    "filename": "house_20250610_075155.html"
+  },
+  {
     "title": "Beukstraat 63",
     "address": "Beukstraat 63, 3581XE Utrecht",
     "price": "€ 500.000 k.k.",
