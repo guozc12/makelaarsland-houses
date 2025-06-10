@@ -1,5 +1,166 @@
 [
   {
+    "title": "Moderatostraat 28",
+    "address": "Moderatostraat 28, 1312TA Almere",
+    "price": "€ 525.000 k.k.",
+    "size_rooms": "129 m² • 223 m² • 5 kamers",
+    "agent": "",
+    "images": [
+      "https://media.nvm.nl/e76100c3-b1da-41e0-a0e3-7ac29cf65c95",
+      "https://media.nvm.nl/198354a7-d897-4f3a-93fa-9143065d3454",
+      "https://media.nvm.nl/f60ae5ff-71ad-46f3-89c7-ee485fad6782",
+      "https://media.nvm.nl/a08d781b-81b2-4ef8-b4da-9ac4b11a5f1f",
+      "https://media.nvm.nl/c6ca7556-2af6-43c1-85bf-6da7f7f578f4",
+      "https://media.nvm.nl/f8d68d06-3451-4113-b01d-a0a3c2609f68",
+      "https://media.nvm.nl/582663fc-cc13-41ae-a06c-9fba4f5bbba4",
+      "https://media.nvm.nl/7403799a-30bf-41e6-8157-d8a130887da1",
+      "https://media.nvm.nl/8814e213-19ca-4faa-999f-b8f45f4a8b10",
+      "https://media.nvm.nl/2e2a090a-b330-43fd-b48f-927f7517837d",
+      "https://media.nvm.nl/3f28e272-e21c-4729-a920-8c72bba523e1",
+      "https://media.nvm.nl/be12761a-4987-4987-97cc-083c08898a0a",
+      "https://media.nvm.nl/146710ac-9c0e-4862-a0dc-df00be3462c6",
+      "https://media.nvm.nl/022c9757-a4f9-47a4-94e0-31cdc12d8808",
+      "https://media.nvm.nl/01fba10f-1f0e-4606-8893-ed64feceba58",
+      "https://media.nvm.nl/5eb40f51-d963-4ac2-8062-fb9b69fbc1ad",
+      "https://media.nvm.nl/6b6d6196-b7f6-4df1-9f7a-b45aa48414c3",
+      "https://media.nvm.nl/d40ee9b9-1582-4ae8-83c7-e8b5b7fc6457",
+      "https://media.nvm.nl/973ba24c-1af0-47c2-963c-aa9e24305a41",
+      "https://media.nvm.nl/048838f9-9c81-4ca4-b63e-b1e9108ea73e",
+      "https://media.nvm.nl/86fb3af4-c4ff-4366-ba59-f0a5a99f6bf8",
+      "https://media.nvm.nl/69223403-f555-42c2-9789-17185af840e9",
+      "https://media.nvm.nl/bd8cec7c-d5ae-478e-b779-e2950e29c92c",
+      "https://media.nvm.nl/b2141398-a834-4be9-849e-9c59dd986cd7",
+      "https://media.nvm.nl/6fe381f3-2fd1-42be-9327-49fc12cc3064",
+      "https://media.nvm.nl/88e51b9f-6b6c-4155-953a-fe35f0e16988",
+      "https://media.nvm.nl/f9edd36c-c9ae-4785-bcfb-69b215056bdc",
+      "https://media.nvm.nl/915db032-9e7b-4842-a4e0-dc1a543a2501",
+      "https://media.nvm.nl/36ec644d-4e42-4553-a49d-d7e0dee1b932",
+      "https://media.nvm.nl/677911ff-5848-4527-b795-c9849f3c7a08",
+      "https://media.nvm.nl/44425abd-877c-4a8a-a2fd-651ae8de802b",
+      "https://media.nvm.nl/e8134b63-6a41-4e83-8ece-8640e4c2f9ea",
+      "https://media.nvm.nl/35624354-30ef-4013-8888-2cd6c2ed4ab2",
+      "https://media.nvm.nl/d2ff0841-b968-4730-84c6-7bb3f20e33a1",
+      "https://media.nvm.nl/6ee2b37c-c2c8-4dbd-9d58-2403b5d2bfd6",
+      "https://media.nvm.nl/eb834b25-efbb-48ea-8a4e-57fd928dfec8",
+      "https://media.nvm.nl/f0c7b3b7-f66e-4d18-8fff-e63a0ee21c5e",
+      "https://media.nvm.nl/b4401d03-8a2d-4f7a-97a2-945cce1bcbb8",
+      "https://media.nvm.nl/d27e3a41-3900-406c-aa9f-d5a4006cd5df",
+      "https://media.nvm.nl/509f8ee1-4510-4b2a-a0ab-6acda399995d",
+      "https://media.nvm.nl/64865097-d9e6-4458-b864-06aa1752d822",
+      "https://media.nvm.nl/654d25a3-52a1-4e10-97e6-ceae2aacb5b4",
+      "https://media.nvm.nl/77f1de7f-6fbc-4f20-a988-1931853b1f97",
+      "https://media.nvm.nl/290b77c8-1d17-42ae-9cd4-384e24fe2009",
+      "https://media.nvm.nl/7a45c154-6d17-4c19-904e-df51b543495e",
+      "https://media.nvm.nl/9a4b8da7-060c-467d-9f26-fb0418cf5cd7",
+      "https://media.nvm.nl/f1bb8b0b-0c60-4c09-9f68-d5a5b6c2c9ab",
+      "https://media.nvm.nl/5ac77212-2dec-46f4-837e-59bbf3394027",
+      "https://media.nvm.nl/e1a90e9b-0376-4638-be52-9f85df538769",
+      "https://media.nvm.nl/b1266916-543f-43e7-a43e-9c10f0fb58e8",
+      "https://media.nvm.nl/436b2b10-16f3-484b-ac1a-1517670a9a5a",
+      "https://media.nvm.nl/8b85f3b6-944b-470c-b5db-9963bfb44e68"
+    ],
+    "url": "https://mijn.makelaarsland.nl/zoekopdracht/woningdetails/3774444",
+    "details": "Mijn huis\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nWoningaanbod\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nModeratostraat 28\n1312 TA Almere\n€ 525.000 k.k.\nBewaren\nBekijk alle\n52\nfoto's\nOmschrijving\n** Let op! Deze woning wordt aangeboden middels een bieden vanaf prijs. **\nWelkom in de Muziekwijk, een kindvriendelijke en rustige wijk met veel groen! In een rustige straat, zonder doorgaand verkeer, staat deze verrassend ruime en speels ingedeelde woning met een garage, drie slaapkamers en een extra werkkamer/hobbyruimte. De zeer ruime achtertuin is een plaatje en parkeren kan op eigen terrein. Voor de thuiswerker is er een goede optie om de inpandige garage te verbouwen tot een lichte werkkamer, eventueel met een eigen entree. En het uitzicht aan de voorzijde? Met lekker veel groen is het hier geweldig wonen!\nMet groen voor de deur en een park met speelgelegenheid om de hoek staat dit huis op een uitstekende plek. Kinderopvang, een basisschool en de altijd gezellige Intratuin zijn op loopafstand. Aan de overzijde van de Hogering loop of fiets je zo het buitengebied in richting het bos en de Oostvaardersdijk.\nIndeling:\nBegane grond:\nAan de voorzijde, naast de oprit met carport, is de overdekte entree van deze speels ingedeelde woning. In de ruime hal zijn de meterkast, trapopgang en de vernieuwde toiletruimte met fonteintje. Voor de kapstok en een schoenenrek is er genoeg plek onder de trap.\nWat een ruimte en wat een sfeer heeft de tuingerichte woonkamer, met een vide en prachtig uitzicht naar de tuin. Droom je van een grote hoekbank? In deze woonkamer is meer dan genoeg plek! Bij de trapopgang, de tweede op de begane grond, is een fijne muziekplek en de eettafel is aan de kant van de keuken.\nIn de keuken ligt, net als in de hal, een lichte tegelvloer. De ruime U-opstelling, in hoogglans grijs en met een prachtig zwart aanrechtblad, is aan de voorzijde. Het merendeel van de apparatuur is ingebouwd: een keramische kookplaat, afzuigkap, oven en een vaatwasser. En het uitzicht… om in te lijsten!\nVoor de fietsen, scooter en andere spullen is er een inpandige garage/berging van circa 14.2 m2, met een kantelpoort naar de carport en oprit. Het is mogelijk om, net als de buren en andere woningen in de buurt, de garage te verbouwen tot een extra kamer.\nEerste verdieping:\nEr zijn twee trappen van de begane grond naar de eerste verdieping. Kies je voor de trap in de woonkamer, dan bereik je een superleuke ruimte die als werkkamer, hobbyruimte of speelkamer gebruikt kan worden. Of krijgen de kinderen hun eigen chillplek, met een lekkere bank om te gamen?\nVia de trap in de hal loop je naar de overloop, waaraan twee slaapkamers en de badkamer grenzen. De slaapkamer aan de voorzijde heeft prachtig uitzicht naar het groen, en de andere slaapkamer heeft een balkon.\nDe moderne badkamer is ingedeeld met een ligbad/douchecombinatie, een wandcloset, hoge kast en een wastafelmeubel. Donkere tegels zijn gecombineerd met stijlvol sanitair en het grote raam zorgt voor veel lichtinval.\nTweede verdieping:\nOp deze verdieping zijn een ruime slaapkamer en twee bergingen, waarvan een met de opstelling van de wasapparatuur. Deze slaapkamer, te herkennen aan de groene kleur op de muren, heeft een speels schuin dak met grote ramen aan de voorzijde.\nTuin:\nVanuit de woonkamer loop je de brede, mooi aangelegde achtertuin met veel privacy. De ligging op het noordoosten biedt zowel zon als schaduw, wat je op de foto’s goed kunt zien. Er zijn meerdere terrassen en lekker veel groen, een vijver met beplanting, kleurrijke rozen en een fraaie tuinkamer met berging. Ook in de voortuin zie je veel groen, wat overigens weinig onderhoud nodig heeft.\nTevens staat er een groot tuinhuis dit voorzien is van 7cm houtenwanden en dubbelglas, ook de vloer is geïsoleerd. Welke door de huidige bewoners gebruikt wordt als hobby- kantoorruimte.\nOmgeving:\nNiet alleen het bos, de basisschool en kinderopvang zijn in de nabijheid. Met de fiets ben je zo bij de supermarkt en uiteraard stopt de bus in de wijk, die je richting het centrum en het treinstation brengt. De afstand tot de snelweg A6 is nog geen 5 kilometer en na iets meer dan 20 kilometer rij je op de Ring A10 Amsterdam!\nParkeren:\nEr is parkeergelegenheid voor een auto op eigen terrein en langs de openbare weg zijn parkeerplaatsen, voor bewoners en bezoek.\nBijzonderheden:\n- Woonoppervlakte ca. 129 m²\n- Riante woonkamer met vide\n- Dak-, gevel- en vloerisolatie\n- Stadsverwarming\n- Drie ruime slaapkamers en een werkkamer/hobbyruimte\n- Inpandige garage (mogelijk werkkamer). Hiervoor dient de benodigde vergunning nog aangevraagd te worden\n- Royale, mooi aangelegde tuin met veel groen\n- Energielabel A\nDe op deze website getoonde vrijblijvende informatie is door ons (met zorg) samengesteld op basis van gegevens van de verkoper (en/of derden). Wij staan niet in voor de juistheid of volledigheid daarvan. Wij adviseren je om contact met ons op te nemen bij interesse in een van onze woningen of je door een eigen deskundige te laten bijstaan.\nWij zijn niet verantwoordelijk voor de inhoud van de websites waarnaar wordt verwezen.\nKenmerken\nOverdracht\nVraagprijs\n€ 525.000 k.k.\nStatus\nBeschikbaar\nAanvaarding\nIn overleg\nBouw\nSoort woonhuis\nEengezinswoning, Tussenwoning\nBouwjaar\n1994\nSoort bouw\nBestaande bouw\nSoort dak\nLessenaarsdak bedekt met pannen, bitumineuze dakbedekking\nKadastrale gegevens\nVolle eigendom, gemeente Almere, sectie Q, nummer 3052 , perceeloppervlakte: 223 m2\nBijzonderheden\nGedeeltelijk gestoffeerd\nOppervlakte en inhoud\nWoonoppervlakte\n129 m²\nOverige inpandige ruimte\n15 m²\nGebouwgebonden buitenruimte\n6 m²\nExterne bergruimte\n13 m²\nPerceeloppervlakte\n223 m²\nInhoud\n514 m³\nIndeling\nAantal kamers\n5 kamers (waarvan 3 slaapkamers)\nAantal badkamers\n1 badkamer en 1 apart toilet\nBadkamer voorzieningen\nLigbad, douche, toilet\nVoorzieningen\nMechanische ventilatie, Glasvezel kabel, Natuurlijke ventilatie\nEnergie\nIsolatie\nVolledig geïsoleerd\nVerwarming\nStadsverwarming\nWarm water\nStadsverwarming\nEnergielabel\nEnergieklasse\nA\nBuitenruimte\nLigging\nAan rustige weg, In woonwijk\nTuin\nAchtertuin, Voortuin\nAchtertuin\n79 m² (12,79m diep en 7,56m breed)\nLigging tuin\nGelegen op het noorden, oosten, noordoosten\nBalkon/dakterras\nBalkon aanwezig\nBergruimte\nSchuur/berging\nVrijstaand hout\nVoorzieningen\nVoorzien van elektra\nIsolatie\nVloerisolatie, Dubbel glas\nGarage\nSoort garage\nAangebouwd steen\nCapaciteit\n1 auto\nVoorzieningen\nElektra\nIsolatie\nVolledig geïsoleerd\nParkeergelegenheid\nSoort parkeergelegenheid\nParkeergarage, Op eigen terrein\nAankoophulp inschakelen\nWat is dit huis waard? Wat moet ik bieden? Kies voor onze aankoophulp en koop zorgeloos jouw nieuwe woning.\nMeer informatie\nBreng een bod uit\nVerkopend makelaar\nVan de Steege Makelaarsgroep\n036-5482070\nalmere@vandesteege.nl\nVraag bezichtiging aan\nContact\nAlgemene voorwaarden\nPrivacy verklaring\nVeelgestelde vragen\nContact",
+    "nearest_station": {
+      "station_name": "Muziekwijk",
+      "station_addr": "Netherlands",
+      "walking_time": "15 min",
+      "walking_distance": "1,1 km",
+      "to_science_park": {
+        "duration": "1 uur 0 min.",
+        "distance": "24,9 km",
+        "start_address": "Moderatostraat 28, 1312 TA Almere, Nederland",
+        "end_address": "Science Park 904, 1098 XH Amsterdam, Nederland",
+        "summary": "",
+        "mode": "transit"
+      },
+      "to_flux": {
+        "duration": "2 uur 17 min.",
+        "distance": "127 km",
+        "start_address": "Moderatostraat 28, 1312 TA Almere, Nederland",
+        "end_address": "De Groene Loper 19, 5612 AP Eindhoven, Nederland",
+        "summary": "",
+        "mode": "transit"
+      }
+    },
+    "details_sections": {
+      "Overdracht": {
+        "Vraagprijs": "€ 525.000 k.k.",
+        "Status": "Beschikbaar",
+        "Aanvaarding": "In overleg"
+      },
+      "Bouw": {
+        "Soort woonhuis": "Eengezinswoning, Tussenwoning",
+        "Bouwjaar": "1994",
+        "Soort bouw": "Bestaande bouw",
+        "Soort dak": "Lessenaarsdak bedekt met pannen, bitumineuze dakbedekking",
+        "Kadastrale gegevens": "Volle eigendom, gemeente Almere, sectie Q, nummer 3052 , perceeloppervlakte: 223 m2",
+        "Bijzonderheden": "Gedeeltelijk gestoffeerd"
+      },
+      "Oppervlakte en inhoud": {
+        "Woonoppervlakte": "129 m²",
+        "Overige inpandige ruimte": "15 m²",
+        "Gebouwgebonden buitenruimte": "6 m²",
+        "Externe bergruimte": "13 m²",
+        "Perceeloppervlakte": "223 m²",
+        "Inhoud": "514 m³"
+      },
+      "Indeling": {
+        "Aantal kamers": "5 kamers (waarvan 3 slaapkamers)",
+        "Aantal badkamers": "1 badkamer en 1 apart toilet",
+        "Badkamer voorzieningen": "Ligbad, douche, toilet",
+        "Voorzieningen": "Mechanische ventilatie, Glasvezel kabel, Natuurlijke ventilatie"
+      },
+      "Energie": {
+        "Isolatie": "Volledig geïsoleerd",
+        "Verwarming": "Stadsverwarming",
+        "Warm water": "Stadsverwarming"
+      },
+      "Energielabel": {
+        "Energieklasse": "A"
+      },
+      "Buitenruimte": {
+        "Ligging": "Aan rustige weg, In woonwijk",
+        "Tuin": "Achtertuin, Voortuin",
+        "Achtertuin": "79 m² (12,79m diep en 7,56m breed)",
+        "Ligging tuin": "Gelegen op het noorden, oosten, noordoosten",
+        "Balkon/dakterras": "Balkon aanwezig"
+      },
+      "Bergruimte": {
+        "Schuur/berging": "Vrijstaand hout",
+        "Voorzieningen": "Voorzien van elektra",
+        "Isolatie": "Vloerisolatie, Dubbel glas"
+      },
+      "Garage": {
+        "Soort garage": "Aangebouwd steen",
+        "Capaciteit": "1 auto",
+        "Voorzieningen": "Elektra",
+        "Isolatie": "Volledig geïsoleerd"
+      },
+      "Parkeergelegenheid": {
+        "Soort parkeergelegenheid": "Parkeergarage, Op eigen terrein"
+      }
+    },
+    "agent_info": {
+      "name": "Van de Steege Makelaarsgroep",
+      "phone": "036-5482070",
+      "email": "almere@vandesteege.nl"
+    },
+    "important_info": {
+      "Woonoppervlakte": "129 m²",
+      "Inhoud": "514 m³",
+      "Bouwjaar": "1994",
+      "Aantal kamers": "5 kamers (waarvan 3 slaapkamers)",
+      "Aantal badkamers": "1 badkamer en 1 apart toilet",
+      "Aantal slaapkamers": "3",
+      "Energielabel": "A"
+    },
+    "woz_info": null,
+    "immigration_info": "<table style='width:100%;border-collapse:collapse;'><tr><td>Postcodegebied1312in de gemeenteAlmere:</td></tr><tr><td>Totaal aantal inwoners:</td><td>7550</td></tr><tr><td>Totaal allochtonen:</td><td>2465</td><td>32.6 %</td></tr><tr><td>Westerse allochtonen:</td><td>730</td><td>9.7 %</td></tr><tr><td>Niet-westerse allochtonen:</td><td>1735</td><td>23.0 %</td></tr></table>",
+    "huispedia_url": "https://huispedia.nl/almere/1312ta/moderatostraat/28",
+    "filename": "house_20250610_125038.html"
+  },
+  {
     "title": "Nijeveldsingel 50",
     "address": "Nijeveldsingel 50, 3525CW Utrecht",
     "price": "€ 400.000 k.k.",
