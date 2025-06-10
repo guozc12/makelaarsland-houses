@@ -1,5 +1,156 @@
 [
   {
+    "title": "Looydijk 93",
+    "address": "Looydijk 93, 3732VD De Bilt",
+    "price": "€ 495.000 k.k.",
+    "size_rooms": "93 m² • 109 m² • 5 kamers",
+    "agent": "",
+    "images": [
+      "https://media.nvm.nl/6fc3da4f-e357-4b65-ad18-e7ea111e9190",
+      "https://media.nvm.nl/7380a263-bc43-4240-afd9-cb6d600d817a",
+      "https://media.nvm.nl/43957e0f-be47-474b-9435-8eff9e49f409",
+      "https://media.nvm.nl/0ca3a12d-2673-4b32-8856-e4962de3945b",
+      "https://media.nvm.nl/a2761388-9abf-4d26-892e-7f7f47c9ab07",
+      "https://media.nvm.nl/dae251c8-2250-416e-89bd-381eb8addc6d",
+      "https://media.nvm.nl/5c42df59-b00d-4ce2-a0e0-0b57557f120a",
+      "https://media.nvm.nl/6cdf4816-2d64-4713-a724-5955f015a5c4",
+      "https://media.nvm.nl/d3b90ced-438c-43ab-9f9c-0d0f6b3cc618",
+      "https://media.nvm.nl/04144172-e151-4ab3-96b2-50067eb2489f",
+      "https://media.nvm.nl/967923a8-e287-4283-beb2-6383df14ae80",
+      "https://media.nvm.nl/8cb436e6-3fa1-4a2a-a42a-3b74aa65ef1e",
+      "https://media.nvm.nl/ec5fb9ac-00cc-4679-9012-16e56f015592",
+      "https://media.nvm.nl/cfa0c7ba-c8b2-48e7-a73c-56de2afc2293",
+      "https://media.nvm.nl/86576362-1a03-4461-a98f-a5e1acc9e206",
+      "https://media.nvm.nl/9050aaf3-9713-499d-8ec8-ce51f3d70870",
+      "https://media.nvm.nl/cdd4c1db-4748-4dd0-a16c-20ef914a51fb",
+      "https://media.nvm.nl/27c7dd10-df20-47a4-a88b-6b028c958bb5",
+      "https://media.nvm.nl/59d951f3-133f-4c0b-8a4a-9ab448ddc434",
+      "https://media.nvm.nl/982b1f49-84c9-4957-8160-1862ab5b7b24",
+      "https://media.nvm.nl/69c1a585-e846-4afe-8d5c-a311dacd992b",
+      "https://media.nvm.nl/15c21ffc-52e1-4898-b305-7e3b53e35eaf",
+      "https://media.nvm.nl/1a86d2da-c286-40f4-95ef-566f004227a2",
+      "https://media.nvm.nl/4d580f91-4d62-41ef-bf38-f808e18f3c9b",
+      "https://media.nvm.nl/dfb4ebe1-be72-44f2-aad5-2ca028108d56",
+      "https://media.nvm.nl/d924218b-2dc0-4fb5-ae64-214f6af50861",
+      "https://media.nvm.nl/065be1be-f561-4a9a-aa75-542ef13078d7",
+      "https://media.nvm.nl/533926c1-ee25-47f9-bbb5-685ac60f699d",
+      "https://media.nvm.nl/7c5969ef-2065-4570-b00f-788e1212e8c3",
+      "https://media.nvm.nl/962d3f7c-7f63-42ea-bcf5-7d3ac26cf7aa",
+      "https://media.nvm.nl/fbbf680a-1807-4967-9821-88fc47cf6f79",
+      "https://media.nvm.nl/dd870aba-dd43-4779-a687-8897e2d89ccf",
+      "https://media.nvm.nl/227dcd4d-ceb0-469c-96cd-46e498b225a9",
+      "https://media.nvm.nl/f4946464-709d-444b-a3b3-84b7b98cef6a",
+      "https://media.nvm.nl/446ee8ea-7794-44cc-9cf9-b30d08f14b83",
+      "https://media.nvm.nl/3b2c5f04-957a-4dca-a2e6-01b943343876",
+      "https://media.nvm.nl/6d8943e8-ebbc-44c9-b05f-5abce7b86c76",
+      "https://media.nvm.nl/17532430-6af1-4967-8476-a55c939bc457",
+      "https://media.nvm.nl/95f9a67f-d969-41f7-90c5-045fee6e3809",
+      "https://media.nvm.nl/0aa4e4ea-cb9d-4ede-844c-3ffaed009c7f",
+      "https://media.nvm.nl/2368cf09-0ace-4997-b1e7-dc24b8863ac5",
+      "https://media.nvm.nl/b81e4c1d-264d-41fc-b958-ea48f24f464d",
+      "https://media.nvm.nl/53b0b545-bfd9-4112-b9ce-7736a957436f",
+      "https://media.nvm.nl/15e0ec35-8f85-41da-a1fb-78cfe910d7d9",
+      "https://media.nvm.nl/e3a81ed4-517c-4d36-9930-122ec4e90345",
+      "https://media.nvm.nl/f96f5710-691e-42cd-99f4-72b24e0ca84a",
+      "https://media.nvm.nl/431e5db6-268c-486c-a4e2-6a2ac363f6b5",
+      "https://media.nvm.nl/ac351373-d59a-49ae-a86c-b2925451ed95",
+      "https://media.nvm.nl/709768d5-9d43-4e43-839d-d8a7acf7dc5b",
+      "https://media.nvm.nl/3e0f16da-62ad-4d3d-b640-5f9231977cef",
+      "https://media.nvm.nl/06822e5b-d50d-438e-a974-bebbfea4d209",
+      "https://media.nvm.nl/0c85d227-65e6-44e8-bb20-c56990362f4b"
+    ],
+    "url": "https://mijn.makelaarsland.nl/zoekopdracht/woningdetails/3775274",
+    "details": "Mijn huis\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nWoningaanbod\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nLooydijk 93\n3732 VD De Bilt\n€ 495.000 k.k.\nBewaren\nBekijk alle\n52\nfoto's\nOmschrijving\nGelegen in een van de meest begeerde plekjes van De Bilt, de Looydijk, tussen het Van Boetzelaerpark, het bos Houdringe en winkelstraat Hessenweg, ligt deze karakteristieke tussenwoning met vier slaapkamers en een zonnige achtertuin op het zuiden met achterom.\nLigging:\nNiet voor niets is de Looydijk een geliefde straat in De Bilt. Het heeft een goede centrale ligging ten opzichte van zowel basis- en middelbare scholen, het centrum van De Bilt (Hessenweg) en uitvalswegen A27 en A28. Sportverenigingen zoals hockeyclub Voordaan, voetbalclub FC De Bilt en Tennisvereniging FAK. Door de parking aan de achterkant zijn er contacten met de buurt en wordt 1-2 x per jaar een buurtfeest georganiseerd op de parking.\nHet centrum van de stad Utrecht en De Uithof met o.a. het Science Park, UMC en Universiteit Utrecht, bevinden zich allen op 3-5 km fietsafstand. Nabij zijn snelle busverbindingen met station Utrecht/ met de bus en ben je in max 12 minuten op Utrecht CS. In de nabije omgeving bevinden zich uitgestrekte wandelbossen.\nINDELING\nBegane grond:\nEntree via voordeur met nog de koperen trekbel, hal met meterkast en garderobe. Via de hal bereikt u de woonkamer.\nDe living is ingedeeld in een zitgedeelte aan de voorzijde, met erker, en een eethoek aan de achterzijde met openslaande deuren en zicht op de fraaie tuin. Vanuit de erker heeft u mooi zicht op de gehele Looydijk.\nEen moderne stijlvolle gietijzeren Varna houtkachel in het midden van de living zorgt, samen met de eikenhouten vloer voor een knusse sfeer. Onder de trap in de woonkamer is een praktische opbergruimte.\nNaast de trap op de begane grond is de betegelde badkamer met een inloopdouche en toilet, een moderne radiator en voorzien van vloerverwarming.\nAchter de eethoek bevindt zich de open keuken welke is voorzien van een ingebouwde vaatwasser, losse koel/vriescombinatie, magnetron en een 5-pits gasfornuis. Aan de rechterkant is een grote buffetkast met volop ruimte.\nAchter de keuken ligt de bijkeuken. Hier is de wasmachine/drogeraansluiting en de CV-opstelling in een afgesloten kast. Via de bijkeuken is de tuin eveneens bereikbaar.\nVia een trap in de woonkamer is de eerste verdieping bereikbaar.\n1e verdieping:\nOverloop met veel kastruimte en toegang tot een viertal in grote variërende slaapkamers en een ruime tweede toiletruimte met wastafelmeubel en een grote spiegel.\nAan de voorzijde twee slaapkamers elk met een strak afgewerkte dakkapel. De goot is recent vernieuwd. Aan de achterzijde bevinden zich eveneens twee slaapkamers, waarvan één grotere slaapkamer voor een tweepersoonsbed. Deze heeft één scheidingswand gebouwd als grote (kleding-) kast. Aan de raampartij bevindt zich een kleinere weggewerkte kast met enkele plankjes.\nDe vloer op de gehele eerste verdieping is bekleed met gelakt eikenhout parket.\nVliering:\nVia de overloop is de vliering bereikbaar met vlizotrap die (lekker) veel bergruimte biedt. Luchtisolatie is aangebracht middels twee luchtpijpen en de zijwanden zijn netjes afgewerkt.\nTuin:\nDe knusse en beschutte achtertuin op het zuiden met diverse zitjes om een stoel neer te zetten. De zon schijnt er vrijwel de gehele dag en men kan genieten van natuurlijk groen met vogelbadje en fonteintje. Het stadstuintje is vogel-vriendelijk ingericht.; In het voorjaar ruikt de roos en bloeit de kamperfoelie; in de zomer groeien de appels aan de appelboom en ontwikkelen zich de lei-peren. Langs de regenpijp groeit de hop. Achterin de tuin staat een moderne begroeide stenen schuur met een apart dubbelwandig compartiment voorzien van planken. Er is volop ruimte voor stalling van een motor of bakfiets met een handige achteruitgang naar de vrije parkeerplaats. Aan de achterkant is voldoende ruimte voor de milieu-bakken en eventuele houtopslag.\nKortom, een fijn karakteristiek huis in een heerlijke omgeving op een zeer goede en geliefde locatie in De Bilt.\nBijzonderheden:\n-\tEnergielabel D\n-       Buitenschilderwerk 2024\n-\tCentraal doch rustig gelegen\n-\tNaar eigen wensen te moderniseren\nKenmerken\nOverdracht\nVraagprijs\n€ 495.000 k.k.\nStatus\nBeschikbaar\nAanvaarding\nIn overleg\nBouw\nSoort woonhuis\nEengezinswoning, Tussenwoning\nBouwjaar\n1914\nSoort bouw\nBestaande bouw\nSoort dak\nSamengesteld dak bedekt met pannen\nKadastrale gegevens\nVolle eigendom, gemeente De Bilt, sectie D, nummer 7119 , perceeloppervlakte: 109 m2\nOppervlakte en inhoud\nWoonoppervlakte\n93 m²\nExterne bergruimte\n10 m²\nPerceeloppervlakte\n109 m²\nInhoud\n332 m³\nIndeling\nAantal kamers\n5 kamers (waarvan 4 slaapkamers)\nAantal badkamers\n2 badkamers\nBadkamer voorzieningen\nDouche, 2 toiletten\nVoorzieningen\nTV kabel, Rookkanaal, Glasvezel kabel, Natuurlijke ventilatie\nEnergie\nIsolatie\nDubbel glas, HR-glas\nVerwarming\nCv-ketel\nWarm water\nCv-ketel\nCv-ketel\nIntergas HRE 28/24 A (CW4) uit 2007, Eigendom\nEnergielabel\nEnergieklasse\nD\nBuitenruimte\nLigging\nAan rustige weg, In woonwijk, In bosrijke omgeving\nTuin\nAchtertuin\nAchtertuin\n45 m² (9m diep en 5m breed)\nLigging tuin\nGelegen op het zuiden, westen, zuidwesten\nBergruimte\nSchuur/berging\nVrijstaand steen\nVoorzieningen\nVoorzien van elektra\nParkeergelegenheid\nSoort parkeergelegenheid\nOpenbaar parkeren\nAankoophulp inschakelen\nWat is dit huis waard? Wat moet ik bieden? Kies voor onze aankoophulp en koop zorgeloos jouw nieuwe woning.\nMeer informatie\nBreng een bod uit\nVerkopend makelaar\nBurgersdijk Makelaars Den Dolder\n030-2291379\ndendolder@burgersdijk.com\nVraag bezichtiging aan\nContact\nAlgemene voorwaarden\nPrivacy verklaring\nVeelgestelde vragen\nContact",
+    "nearest_station": {
+      "station_name": "Bilthoven",
+      "station_addr": "Netherlands",
+      "walking_time": "54 min",
+      "walking_distance": "4,0 km",
+      "to_science_park": {
+        "duration": "1 uur 23 min.",
+        "distance": "47,2 km",
+        "start_address": "Looydijk 93, 3732 VD De Bilt, Nederland",
+        "end_address": "Science Park 904, 1098 XH Amsterdam, Nederland",
+        "summary": "",
+        "mode": "transit"
+      },
+      "to_flux": {
+        "duration": "1 uur 51 min.",
+        "distance": "91,4 km",
+        "start_address": "Looydijk 93, 3732 VD De Bilt, Nederland",
+        "end_address": "De Groene Loper 19, 5612 AP Eindhoven, Nederland",
+        "summary": "",
+        "mode": "transit"
+      }
+    },
+    "details_sections": {
+      "Overdracht": {
+        "Vraagprijs": "€ 495.000 k.k.",
+        "Status": "Beschikbaar",
+        "Aanvaarding": "In overleg"
+      },
+      "Bouw": {
+        "Soort woonhuis": "Eengezinswoning, Tussenwoning",
+        "Bouwjaar": "1914",
+        "Soort bouw": "Bestaande bouw",
+        "Soort dak": "Samengesteld dak bedekt met pannen",
+        "Kadastrale gegevens": "Volle eigendom, gemeente De Bilt, sectie D, nummer 7119 , perceeloppervlakte: 109 m2"
+      },
+      "Oppervlakte en inhoud": {
+        "Woonoppervlakte": "93 m²",
+        "Externe bergruimte": "10 m²",
+        "Perceeloppervlakte": "109 m²",
+        "Inhoud": "332 m³"
+      },
+      "Indeling": {
+        "Aantal kamers": "5 kamers (waarvan 4 slaapkamers)",
+        "Aantal badkamers": "2 badkamers",
+        "Badkamer voorzieningen": "Douche, 2 toiletten",
+        "Voorzieningen": "TV kabel, Rookkanaal, Glasvezel kabel, Natuurlijke ventilatie"
+      },
+      "Energie": {
+        "Isolatie": "Dubbel glas, HR-glas",
+        "Verwarming": "Cv-ketel",
+        "Warm water": "Cv-ketel",
+        "Cv-ketel": "Intergas HRE 28/24 A (CW4) uit 2007, Eigendom"
+      },
+      "Energielabel": {
+        "Energieklasse": "D"
+      },
+      "Buitenruimte": {
+        "Ligging": "Aan rustige weg, In woonwijk, In bosrijke omgeving",
+        "Tuin": "Achtertuin",
+        "Achtertuin": "45 m² (9m diep en 5m breed)",
+        "Ligging tuin": "Gelegen op het zuiden, westen, zuidwesten"
+      },
+      "Bergruimte": {
+        "Schuur/berging": "Vrijstaand steen",
+        "Voorzieningen": "Voorzien van elektra"
+      },
+      "Parkeergelegenheid": {
+        "Soort parkeergelegenheid": "Openbaar parkeren"
+      }
+    },
+    "agent_info": {
+      "name": "Burgersdijk Makelaars Den Dolder",
+      "phone": "030-2291379",
+      "email": "dendolder@burgersdijk.com"
+    },
+    "important_info": {
+      "Woonoppervlakte": "93 m²",
+      "Inhoud": "332 m³",
+      "Bouwjaar": "1914",
+      "Aantal kamers": "5 kamers (waarvan 4 slaapkamers)",
+      "Aantal badkamers": "2 badkamers",
+      "Aantal slaapkamers": "4",
+      "Energielabel": "D"
+    },
+    "woz_info": null,
+    "immigration_info": "<table style='width:100%;border-collapse:collapse;'><tr><td>Postcodegebied3732in de gemeenteDe Bilt:</td></tr><tr><td>Totaal aantal inwoners:</td><td>4505</td></tr><tr><td>Totaal allochtonen:</td><td>700</td><td>15.5 %</td></tr><tr><td>Westerse allochtonen:</td><td>425</td><td>9.4 %</td></tr><tr><td>Niet-westerse allochtonen:</td><td>275</td><td>6.1 %</td></tr></table>",
+    "huispedia_url": "https://huispedia.nl/de bilt/3732vd/looydijk/93",
+    "filename": "house_20250610_173112.html"
+  },
+  {
     "title": "Bremstraat 94",
     "address": "Bremstraat 94, 3551TG Utrecht",
     "price": "€ 450.000 k.k.",
