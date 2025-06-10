@@ -1,5 +1,160 @@
 [
   {
+    "title": "Bernadottelaan 204",
+    "address": "Bernadottelaan 204, 3527GB Utrecht",
+    "price": "€ 500.000 k.k.",
+    "size_rooms": "110 m² • 321 m² • 5 kamers",
+    "agent": "",
+    "images": [
+      "https://media.nvm.nl/d06f5cbd-fc97-452b-b756-277756618db3",
+      "https://media.nvm.nl/61dcda31-0daf-4fe2-9dd1-0d254cf88a68",
+      "https://media.nvm.nl/ae4f0b19-3780-4678-bccd-58b99de2aa50",
+      "https://media.nvm.nl/71e0d8b2-908d-4ff7-89bc-9961449463d0",
+      "https://media.nvm.nl/0ba8f25b-ef70-4503-9fd0-3a4a23bb6bcf",
+      "https://media.nvm.nl/b197f958-7b26-4c3c-9903-816bfe05b356",
+      "https://media.nvm.nl/e7064bc2-6014-4ef9-9217-624e649074c0",
+      "https://media.nvm.nl/8471bda3-1d91-4794-9d51-3a50c76e4ee3",
+      "https://media.nvm.nl/708bc683-348f-442a-8020-91e668211609",
+      "https://media.nvm.nl/1668228a-364c-4ca0-83a7-b2d3b114e6cc",
+      "https://media.nvm.nl/9389c3d2-e95d-4009-8a81-c9ac2293cd14",
+      "https://media.nvm.nl/ac7c1680-2d3a-453e-9838-4457903df2a6",
+      "https://media.nvm.nl/b3b5687c-de37-461c-86e5-c1c6afedd73d",
+      "https://media.nvm.nl/697497f2-5391-485f-b0e7-7de90efe6756",
+      "https://media.nvm.nl/f153901e-fcbd-4f91-ae3e-efe01ad03ff2",
+      "https://media.nvm.nl/a4142a27-975b-43a0-b94a-0a831ddb0b1f",
+      "https://media.nvm.nl/5e33f3cc-adce-4d1a-9eda-1f5124531e70",
+      "https://media.nvm.nl/e473625a-8af2-448e-9618-7c5ce9455aa9",
+      "https://media.nvm.nl/1f47e078-77f6-45a0-bbcf-e727fe9bec50",
+      "https://media.nvm.nl/a0c205fc-26e0-4586-a0f2-f0098838a696",
+      "https://media.nvm.nl/41beae26-d48a-4148-997d-f41ac7a0b857",
+      "https://media.nvm.nl/a26c8443-e8c0-4432-8cd0-73571bd0c612",
+      "https://media.nvm.nl/d59adaaa-11a0-4157-b0aa-d4266722f01c",
+      "https://media.nvm.nl/daa03b02-e7d7-41cb-bf06-bbab09513245",
+      "https://media.nvm.nl/3f5016b3-b13e-4ae8-824b-38e8e9fd1ea6",
+      "https://media.nvm.nl/f418feb3-1857-47a0-b804-860c7fb63f63",
+      "https://media.nvm.nl/14c2729d-6c0d-48e0-9c04-3796c27d4c27",
+      "https://media.nvm.nl/c367815c-7e97-4dc5-adbe-63e33d2ec9a1",
+      "https://media.nvm.nl/9d2fc455-ce7a-49a9-91b2-80e8f9c23ea7",
+      "https://media.nvm.nl/6a96dc80-2c6f-4b7f-9ab5-0ad5cc83ed65",
+      "https://media.nvm.nl/1df95798-c46a-4dc2-a752-5be69b4ed2fb",
+      "https://media.nvm.nl/8f989627-6acd-47af-a087-8ebe8e448775",
+      "https://media.nvm.nl/fdb90352-7721-4916-828e-02d892906db7",
+      "https://media.nvm.nl/34410f9e-03f4-4a28-b951-bda2e7a5c7e0",
+      "https://media.nvm.nl/a09c74de-6a06-4183-a2a6-435b18d35815",
+      "https://media.nvm.nl/cc42d0ca-f4ea-45cb-bd29-403e4f9da25c",
+      "https://media.nvm.nl/a8ec28da-9214-4b9a-a4ca-3bb197be1716",
+      "https://media.nvm.nl/cbd86b65-5aad-4cbe-b7f1-df8c64756e0a",
+      "https://media.nvm.nl/7a78511e-78ca-46f3-b165-612a4de30270",
+      "https://media.nvm.nl/3354d7c1-0689-4882-826e-83ab9363697b",
+      "https://media.nvm.nl/fe43ed61-ba9e-4ede-bcc6-c1e093812d54",
+      "https://media.nvm.nl/e5364291-031c-4d05-b079-47fa2f043788",
+      "https://media.nvm.nl/123f5958-a7d4-416d-81b3-e729561cce37",
+      "https://media.nvm.nl/b0151154-1527-49ac-8815-3225aafa3a0e",
+      "https://media.nvm.nl/65816ddb-f02d-4246-af7f-b4c6be91b99c",
+      "https://media.nvm.nl/8a419783-1b48-4c83-8bc6-dc51f7461981",
+      "https://media.nvm.nl/8166d0d1-718a-4903-ab49-ac93526f5795",
+      "https://media.nvm.nl/f6338d14-5887-457d-bf53-e32cc62be81f",
+      "https://media.nvm.nl/99fcf8d2-4dab-44c7-894b-3e153230b9e0",
+      "https://media.nvm.nl/cae96dfc-6c08-4b7c-97aa-f89fea32e68c",
+      "https://media.nvm.nl/5294f684-e9a7-44d1-9443-33abcb2fab95",
+      "https://media.nvm.nl/3b839340-be21-425d-8336-d54cac8288ef",
+      "https://media.nvm.nl/ffa27ca6-32e8-4809-9d12-eae5d19489ad",
+      "https://media.nvm.nl/51ab670a-ef35-4147-9478-46178c5347ab",
+      "https://media.nvm.nl/61914f72-7a84-4a85-bc68-c829db7887d4",
+      "https://media.nvm.nl/0acd32d2-8571-45fa-aae2-8f278c07b1d0",
+      "https://media.nvm.nl/19dbc928-05a4-4306-afcb-fa674f4a479c",
+      "https://media.nvm.nl/e1dd3bb5-2dba-4855-8c9c-1debcc95e4cc"
+    ],
+    "url": "https://mijn.makelaarsland.nl/zoekopdracht/woningdetails/3774642",
+    "details": "Mijn huis\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nWoningaanbod\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nBernadottelaan 204\n3527 GB Utrecht\n€ 500.000 k.k.\nBewaren\nBekijk alle\n58\nfoto's\nOmschrijving\n*** FOR ENGLISH SEE BELOW ***\nLichte en zeer duurzame gezinswoning met vier slaapkamers en een zonnige tuin!\nWelkom aan de Bernadottelaan 204 – een instapklare en verrassend ruime tussenwoning in het rustige en groene Kanaleneiland-Noord. Deze woning is in 2021 volledig vernieuwd en gemoderniseerd, met oog voor comfort, duurzaamheid én stijl. Met een gebruiksoppervlakte van maar liefst ca. 110 m², een fijne zonnige voor- én achtertuin, vier slaapkamers én een energielabel A+ is dit een heerlijke plek voor wie zorgeloos wil wonen op een centrale locatie in Utrecht.\nDeze gasvrije woning is van alle gemakken voorzien: luxe, open keuken en moderne badkamer met strakke afwerking en een zonnige tuin. Tel daar de moderne warmtepomp, maar liefst 14 zonnepanelen én volledige isolatie bij op, en je hebt een compleet én toekomstbestendig thuis.\nLoop je mee door de woning?\nBEGANE GROND\nVia de voortuin kom je binnen in een lichte hal met toilet, trapopgang en een ruime trapkast/meterkast met nieuwe elektra.\nDe doorzonwoonkamer met open keuken is het hart van de woning: veel licht dankzij grote ramen aan beide zijden, strak afgewerkt én met dubbele toegang tot de diepe achtertuin. De prachtige open keuken uit 2021 is modern uitgevoerd met hoogwaardige inbouwapparatuur (o.a. Bora en AEG).\nEERSTE VERDIEPING\nOp de eerste verdieping vind je vier slaapkamers van goed formaat. De hoofdslaapkamer ligt aan de achterzijde en de tweede slaapkamer bevindt zich aan de voorzijde. Er zijn nog twee slaapkamers — perfect als kinderkamer, werkkamer of logeerruimte. De badkamer (2022) is modern & strak en voorzien van een inloopdouche, tweede toilet, dubbele wastafel en een designradiator. Grenzend aan de overloop is een aparte ruimte met wasmachineaansluiting.\nTUIN\nDe onderhoudsvriendelijke achtertuin is nieuw aangelegd in 2022 met gazon en zowel betegeld als houten terras en is ruim 9 meter diep. De tuin is gelegen op het zuidoosten en biedt gedurende de hele dag volop zon en privacy door de groene beschutting.\nBERGING\nVia de achtertuin of via de steeg is de aangrenzende ruime stenen berging met groene sedum dakbedekking — ideaal voor fietsen, gereedschap en bergruimte.\nOMGEVING\nDe woning ligt in een kindvriendelijke en groene straat centraal in de wijk Kanaleneiland-Noord. Om de hoek vind je het winkelcentrum Nova en park Transwijk. In de directe omgeving zijn meerdere basisscholen, speeltuinen en uitstekende OV-verbindingen. Tevens bereik je binnen enkele minuten de A2/A12 en is het centrum van Utrecht op 10 minuten fietsafstand.\nIndeling van de woning\nBegane grond: voortuin, entree/hal met meterkast, toilet, trapopgang en trapkast, ruime woonkamer met open keuken aan de achterzijde, dubbele toegang tot de achtertuin met tevens een stenen berging bereikbaar via achterom.\nEerste verdieping: overloop, vier slaapkamers, badkamer met inloopdouche, wastafelmeubel en toilet; en aparte ruimte met wasmachine aansluiting.\nEen perfect onderhouden, duurzame woning op een centrale plek in Utrecht. Kom je snel kijken?\nBijzonderheden:\n- Woning is volledig vernieuwd en gemoderniseerd in 2021\n- Energielabel: A+\n- Gasvrije woning middels warmtepomp en LT-radiatoren\n- 14 zonnepanelen, volledige isolatie en kunststof kozijnen met HR++ glas\n- Luxe keuken met hoogwaardige apparatuur en moderne badkamer (beide 2022)\n- Diepe tuin op het zuiden (2022) met stenen berging bereikbaar via achterom\n- Oplevering in overleg\nWij gebruiken de NVM- koopovereenkomst. Hierin kunnen extra clausules worden toegevoegd zoals: de ouderdomsclausule, de niet- zelfbewoningsclausule en/of de asbestclausule. De tekst hiervan kunt u bij ons opvragen.\nAankoopmakelaar inschakelen:\nUw NVM-aankoopmakelaar komt op voor uw belang en bespaart u tijd, geld en zorgen. Adressen van collega NVM-aankoopmakelaars in Utrecht vindt u op Funda.\n*** ENGLISH VERSION ***\nBright and Highly Sustainable Family Home with Four Bedrooms and a Sunny Garden!\nWelcome to Bernadottelaan 204 – a move-in-ready and surprisingly spacious terraced home in the quiet and green Kanaleneiland-Noord area. This home was completely renovated and modernized in 2021, with a focus on comfort, sustainability, and style. With a living area of approximately 110 m², a sunny front and back garden, four bedrooms, and an A+ energy label, this is a wonderful place for those looking to live worry-free in a central location in Utrecht.\nThis gas-free home is fully equipped with all modern comforts: a luxurious open kitchen, a sleek modern bathroom, and a sunny garden. Add to that a modern heat pump, no less than 14 solar panels, and full insulation, and you’ve got a complete and future-proof home.\nLet’s take a tour of the property:\nGROUND FLOOR\nThrough the front garden, you enter a bright hallway with a toilet, staircase, and a spacious closet/meter cupboard with updated electrical systems.\nThe open-plan living room with kitchen is the heart of the home: lots of natural light thanks to large windows on both sides, sleek finishes, and double access to the deep backyard. The stunning open kitchen (2021) is modern and equipped with high-end built-in appliances (including Bora and AEG).\nFIRST FLOOR\nOn the first floor, you’ll find four generously sized bedrooms. The primary bedroom is located at the rear, and the second bedroom is at the front. There are two additional bedrooms—perfect as a children’s room, office, or guest room. The bathroom (2022) is sleek and modern, with a walk-in shower, second toilet, double sink, and designer radiator. Off the landing is a separate laundry area with washer connection.\nGARDEN\nThe low-maintenance backyard was newly landscaped in 2022, featuring a lawn, paved area, and wooden terrace. It is over 9 meters deep and faces southeast, offering plenty of sun and privacy throughout the day thanks to lush greenery.\nSTORAGE\nAccessible from the backyard or the alley, the adjoining spacious stone storage shed features a green sedum roof — perfect for bikes, tools, and extra storage.\nSURROUNDINGS\nThis home is located on a child-friendly and green street, centrally situated in the Kanaleneiland-Noord district. Just around the corner you’ll find the Nova shopping center and Transwijk park. Several primary schools, playgrounds, and excellent public transport connections are nearby. You can reach the A2/A12 highways within minutes, and Utrecht city center is just a 10-minute bike ride away.\nLayout of the Home\nGround floor: front garden, entrance/hallway with meter cupboard, toilet, staircase and storage cupboard, spacious living room with open kitchen at the rear, double access to the backyard with a stone storage shed accessible via a rear alley.\nFirst floor: landing, four bedrooms, bathroom with walk-in shower, washbasin unit and toilet; and a separate space with washing machine connection.\nA perfectly maintained, sustainable home in a central location in Utrecht. Will you come and see it soon?\nHighlights:\n- Fully renovated and modernized in 2021\n- Energy label: A+\n- Gas-free home with heat pump and low-temperature radiators\n- 14 solar panels, fully insulated, and plastic window frames with HR++ glazing\n- Luxurious kitchen with high-quality appliances and modern bathroom (both 2022)\n- Deep south-facing garden (2022) with stone shed accessible from the rear\n- Delivery in consultation\nWe use the NVM purchase agreement. Additional clauses can be added here, such as: the old age clause, the non-self-occupancy clause and/or the asbestos clause. You can request the text of this from us.\nEnable purchase broker:\nYour NVM purchase broker stands up for your interests and saves you time, money and worries.\nYou can find addresses of fellow NVM purchase brokers in Utrecht on Funda.\nKenmerken\nOverdracht\nVraagprijs\n€ 500.000 k.k.\nStatus\nBeschikbaar\nAanvaarding\nIn overleg\nBouw\nSoort woonhuis\nEengezinswoning, Tussenwoning\nBouwjaar\n1959\nSoort bouw\nBestaande bouw\nSoort dak\nPlat dak bedekt met bitumineuze dakbedekking\nKadastrale gegevens\nVolle eigendom, gemeente Utrecht, sectie S, nummer 2891 , perceeloppervlakte: 150 m2Volle eigendom, gemeente Utrecht, sectie S, nummer 2889 , perceeloppervlakte: 10 m2-, gemeente Utrecht, sectie S, nummer 2641 1, perceeloppervlakte: 161 m2\nOppervlakte en inhoud\nWoonoppervlakte\n110 m²\nExterne bergruimte\n9 m²\nPerceeloppervlakte\n321 m²\nInhoud\n365 m³\nIndeling\nAantal kamers\n5 kamers (waarvan 4 slaapkamers)\nAantal badkamers\n1 badkamer en 1 apart toilet\nBadkamer voorzieningen\nDouche, toilet\nVoorzieningen\nMechanische ventilatie, Glasvezel kabel, Zonnepanelen\nEnergie\nIsolatie\nDakisolatie, Muurisolatie, Vloerisolatie, Volledig geïsoleerd, HR-glas\nVerwarming\nWarmtepomp\nWarm water\nCv-ketel\nEnergielabel\nEnergieklasse\nA+\nBuitenruimte\nLigging\nIn woonwijk\nTuin\nAchtertuin, Voortuin\nAchtertuin\n57 m² (9,1m diep en 6,28m breed)\nLigging tuin\nGelegen op het oosten, zuiden, zuidoosten\nBergruimte\nSchuur/berging\nVrijstaand hout\nParkeergelegenheid\nSoort parkeergelegenheid\nOpenbaar parkeren\nAankoophulp inschakelen\nWat is dit huis waard? Wat moet ik bieden? Kies voor onze aankoophulp en koop zorgeloos jouw nieuwe woning.\nMeer informatie\nBreng een bod uit\nVerkopend makelaar\nRosenberg & van Leusden Makelaars B.V.\n030-2100401\ninfo@rvlmakelaars.nl\nVraag bezichtiging aan\nContact\nAlgemene voorwaarden\nPrivacy verklaring\nVeelgestelde vragen\nContact",
+    "nearest_station": {
+      "station_name": "Utrecht Centraal",
+      "station_addr": "Netherlands",
+      "walking_time": "34 min",
+      "walking_distance": "2,5 km",
+      "to_science_park": {
+        "duration": "1 uur 13 min.",
+        "distance": "41,1 km",
+        "start_address": "Bernadottelaan 204, 3527 GB Utrecht, Nederland",
+        "end_address": "Science Park 904, 1098 XH Amsterdam, Nederland",
+        "summary": "",
+        "mode": "transit"
+      },
+      "to_flux": {
+        "duration": "1 uur 30 min.",
+        "distance": "84,8 km",
+        "start_address": "Bernadottelaan 204, 3527 GB Utrecht, Nederland",
+        "end_address": "De Groene Loper 19, 5612 AP Eindhoven, Nederland",
+        "summary": "",
+        "mode": "transit"
+      }
+    },
+    "details_sections": {
+      "Overdracht": {
+        "Vraagprijs": "€ 500.000 k.k.",
+        "Status": "Beschikbaar",
+        "Aanvaarding": "In overleg"
+      },
+      "Bouw": {
+        "Soort woonhuis": "Eengezinswoning, Tussenwoning",
+        "Bouwjaar": "1959",
+        "Soort bouw": "Bestaande bouw",
+        "Soort dak": "Plat dak bedekt met bitumineuze dakbedekking",
+        "Kadastrale gegevens": "Volle eigendom, gemeente Utrecht, sectie S, nummer 2891 , perceeloppervlakte: 150 m2Volle eigendom, gemeente Utrecht, sectie S, nummer 2889 , perceeloppervlakte: 10 m2-, gemeente Utrecht, sectie S, nummer 2641 1, perceeloppervlakte: 161 m2"
+      },
+      "Oppervlakte en inhoud": {
+        "Woonoppervlakte": "110 m²",
+        "Externe bergruimte": "9 m²",
+        "Perceeloppervlakte": "321 m²",
+        "Inhoud": "365 m³"
+      },
+      "Indeling": {
+        "Aantal kamers": "5 kamers (waarvan 4 slaapkamers)",
+        "Aantal badkamers": "1 badkamer en 1 apart toilet",
+        "Badkamer voorzieningen": "Douche, toilet",
+        "Voorzieningen": "Mechanische ventilatie, Glasvezel kabel, Zonnepanelen"
+      },
+      "Energie": {
+        "Isolatie": "Dakisolatie, Muurisolatie, Vloerisolatie, Volledig geïsoleerd, HR-glas",
+        "Verwarming": "Warmtepomp",
+        "Warm water": "Cv-ketel"
+      },
+      "Energielabel": {
+        "Energieklasse": "A+"
+      },
+      "Buitenruimte": {
+        "Ligging": "In woonwijk",
+        "Tuin": "Achtertuin, Voortuin",
+        "Achtertuin": "57 m² (9,1m diep en 6,28m breed)",
+        "Ligging tuin": "Gelegen op het oosten, zuiden, zuidoosten"
+      },
+      "Bergruimte": {
+        "Schuur/berging": "Vrijstaand hout"
+      },
+      "Parkeergelegenheid": {
+        "Soort parkeergelegenheid": "Openbaar parkeren"
+      }
+    },
+    "agent_info": {
+      "name": "Rosenberg & van Leusden Makelaars B.V.",
+      "phone": "030-2100401",
+      "email": "info@rvlmakelaars.nl"
+    },
+    "important_info": {
+      "Woonoppervlakte": "110 m²",
+      "Inhoud": "365 m³",
+      "Bouwjaar": "1959",
+      "Aantal kamers": "5 kamers (waarvan 4 slaapkamers)",
+      "Aantal badkamers": "1 badkamer en 1 apart toilet",
+      "Aantal slaapkamers": "4",
+      "Energielabel": "A+"
+    },
+    "woz_info": "<ul class='woz-data'><li>WOZ 2024: € 414.000 (9,2%)</li><li>WOZ 2023: € 456.000 (50,5%)</li><li>WOZ 2022: € 303.000 (50,0%)</li><li>WOZ 2021: € 202.000 (9,0%)</li><li>WOZ 2020: € 222.000 (10,5%)</li><li>WOZ 2019: € 201.000 (8,7%)</li><li>WOZ 2018: € 185.000 (12,8%)</li></ul>",
+    "immigration_info": "<table style='width:100%;border-collapse:collapse;'><tr><td>Postcodegebied3527in de gemeenteUtrecht:</td></tr><tr><td>Totaal aantal inwoners:</td><td>12080</td></tr><tr><td>Totaal allochtonen:</td><td>8000</td><td>66.2 %</td></tr><tr><td>Westerse allochtonen:</td><td>835</td><td>6.9 %</td></tr><tr><td>Niet-westerse allochtonen:</td><td>7165</td><td>59.3 %</td></tr></table>",
+    "huispedia_url": "https://huispedia.nl/utrecht/3527gb/bernadottelaan/204",
+    "filename": "house_20250610_142649.html"
+  },
+  {
     "title": "A.B.C.-straat 6",
     "address": "A.B.C.-straat 6, 3512PX Utrecht",
     "price": "€ 375.000 k.k.",
