@@ -1,5 +1,331 @@
 [
   {
+    "title": "Prof. Aalbersestraat 2",
+    "address": "Prof. Aalbersestraat 2, 3438AV Nieuwegein",
+    "price": "€ 489.000 k.k.",
+    "size_rooms": "80 m² • 134 m² • 4 kamers",
+    "agent": "",
+    "images": [
+      "https://media.nvm.nl/337865e8-b007-4759-955f-00bf754af003",
+      "https://media.nvm.nl/abb7f2b4-2f10-4bb0-aca4-cb61a848ebf2",
+      "https://media.nvm.nl/440e10e4-e645-4ed7-b0aa-2ab0b1b64fb8",
+      "https://media.nvm.nl/79eec816-2002-4529-badd-5f142ba8b1bc",
+      "https://media.nvm.nl/d082f996-06ca-47d8-a909-2a1565792d16",
+      "https://media.nvm.nl/81ecfb62-97bb-495c-88c3-cb68638565a5",
+      "https://media.nvm.nl/9063d574-2485-44ed-95f5-1d497ee77b6c",
+      "https://media.nvm.nl/6c9fcb8e-025a-4806-8a6b-3472e9605331",
+      "https://media.nvm.nl/ef747469-1064-41fe-990d-a6171a3867c3",
+      "https://media.nvm.nl/54c35a33-b8ae-4d33-9fec-1afca9dd1239",
+      "https://media.nvm.nl/a960e212-53c7-4e8a-986b-150beba89cee",
+      "https://media.nvm.nl/dd476917-3c84-49ed-a2c8-a7869e121cfb",
+      "https://media.nvm.nl/ee8ee850-660a-4ab5-b6c2-70be7a2a4eaa",
+      "https://media.nvm.nl/88d2634e-8dbf-4c03-94a6-56b1977deb29",
+      "https://media.nvm.nl/d6e89f4a-081a-4e08-9cea-0b46edae3459",
+      "https://media.nvm.nl/385bd19a-c5c5-43a9-ae73-07fac554be52",
+      "https://media.nvm.nl/16321a8f-2158-4a24-bc1b-84c5ff1ffc09",
+      "https://media.nvm.nl/840945b1-30e9-462d-8a8a-87c5631583e4",
+      "https://media.nvm.nl/41bb827e-504c-401b-90a0-5281224fa1c5",
+      "https://media.nvm.nl/a3ff531a-1671-402e-82a6-50057962449c",
+      "https://media.nvm.nl/99bed8d3-a6e6-45e5-a40b-c5a71954f303",
+      "https://media.nvm.nl/2093c9fa-ad9c-49a5-9b3a-b8cd84a146bc",
+      "https://media.nvm.nl/b6db184e-1081-4bcb-ad78-71a0670c3771",
+      "https://media.nvm.nl/ae2a2693-d889-4dcb-b563-443850aab672",
+      "https://media.nvm.nl/08ac738a-979d-4606-938d-f2b1ea78d213",
+      "https://media.nvm.nl/878518d5-c56f-4ff5-bb0c-495bdb88d8bc",
+      "https://media.nvm.nl/0dd77c94-aed4-4576-8979-7fd44586916a",
+      "https://media.nvm.nl/688a492b-278e-406c-b93c-620f478b8e15",
+      "https://media.nvm.nl/3ff158e5-8400-400d-9059-aee9855406c7",
+      "https://media.nvm.nl/213b514c-6fae-414a-9a1c-0007d7a5af11",
+      "https://media.nvm.nl/d7c36e3e-ed81-4e2e-bb81-23338672e9de",
+      "https://media.nvm.nl/de1ed1e9-3a8c-49d3-8cfc-2bd43f530098",
+      "https://media.nvm.nl/204763b6-144d-47d1-b3ee-d28cc479cf4b",
+      "https://media.nvm.nl/834d50eb-a352-4695-a334-b4be8bd4048e",
+      "https://media.nvm.nl/d841c792-9130-4120-9ff2-da07c90a133f",
+      "https://media.nvm.nl/8dd76cac-ebfe-491d-9b10-902bfa6ad197",
+      "https://media.nvm.nl/d2e05e5e-2d2e-41fb-ac66-c881db4dd28f",
+      "https://media.nvm.nl/2ae464b9-28ca-46ea-821a-6788b2776345",
+      "https://media.nvm.nl/ed9beeaf-1326-4ece-bbf7-f083ff1e9a0c",
+      "https://media.nvm.nl/d7cd34e9-5013-4c19-90e5-cb9dd7c482d1",
+      "https://media.nvm.nl/f180c228-a6e4-41fd-b1bb-703ba04c3f04",
+      "https://media.nvm.nl/f2d636c0-d321-48ea-86f5-ffa8eada9167",
+      "https://media.nvm.nl/718381ec-245e-4ec5-87e9-ad81d5b02b5e",
+      "https://media.nvm.nl/b20d8ee4-d747-440f-80a8-880138ae24dc",
+      "https://media.nvm.nl/21790271-e81f-4d6c-9967-39278e89c27f",
+      "https://media.nvm.nl/2a3f97e0-dd7f-4c2c-a91d-35a24d821b06",
+      "https://media.nvm.nl/ed2ba535-b22c-4221-b884-958d014631d3",
+      "https://media.nvm.nl/36aee61a-0e91-4dd9-a030-661671a42d3c",
+      "https://media.nvm.nl/29984b33-bf5a-4eab-b27f-9f0aa3b7541e",
+      "https://media.nvm.nl/1c125598-06c7-431e-b185-47d4dca6d2b9",
+      "https://media.nvm.nl/c5a8679b-6ae9-4670-bf58-33f38cf7a7e9",
+      "https://media.nvm.nl/aa92ab28-c807-4635-8993-fbd299fafab0",
+      "https://media.nvm.nl/94fd2748-1cd1-476e-9af6-21715c6b9694",
+      "https://media.nvm.nl/2cea7b03-f083-4992-ad1a-3d84cf56ea24",
+      "https://media.nvm.nl/ac3d0f04-adf9-4ce3-83f0-83917b8030ab",
+      "https://media.nvm.nl/b1155109-7829-4ada-97aa-89ddbed65e12",
+      "https://media.nvm.nl/7ace64c5-864b-4f72-8028-8efb5eb06f1b",
+      "https://media.nvm.nl/6019ef9d-0583-4671-bdef-984f964cb5b8",
+      "https://media.nvm.nl/a2010c91-af63-4172-9f1b-45f0ca766ef0",
+      "https://media.nvm.nl/a470150a-d565-476f-be85-8ef8b1513510",
+      "https://media.nvm.nl/b21b569b-6f7f-4023-b025-d2370c89f302",
+      "https://media.nvm.nl/11a4c697-563e-4bfb-9df3-e0d3d8d19058",
+      "https://media.nvm.nl/7f567953-a6d3-4cf0-9929-9648eeaccd0e"
+    ],
+    "url": "https://mijn.makelaarsland.nl/zoekopdracht/woningdetails/3774174",
+    "details": "Mijn huis\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nWoningaanbod\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nProf. Aalbersestraat 2\n3438 AV Nieuwegein\n€ 489.000 k.k.\nBewaren\nBekijk alle\n63\nfoto's\nOmschrijving\nBijzonder charmante hoekwoning met voor- en achtertuin en met een garage!!\nEn dat op nog geen 50 meter afstand van Utrecht..\nDit unieke plekje ligt aan de ventweg tegenover de woonboten die liggen aan de Utrechtsestraatweg. Dit deel valt onder Oud-Jutphaas, Huis de Geer.\nDe voordeur is echter aan de Professor Aalbersestraat, een prachtige plek.\nAan de woning hoef je eigenlijk niets te doen. Alles is, voor zover wij weten, al gedaan.\nDubbel glas is aangebracht evenals zonnepanelen. Ook is er een prachtige vloer gelegd die past bij de woning. Zonnige voor- en achtertuin en aan het einde van de achtertuin tref je de garage aan. Beetje hobbyist zal daar blij van worden.\nDe woonkamer is verdeeld in een woonkeuken met allesbrander (is volgens mij ook echt de plek waar je het meeste zal zitten) en aan de voorzijde de T.V.-hoek met bankopstelling. De keuken is pas een paar jaar oud (2020) en is voorzien van diverse inbouwapparatuur en is strak en modern.\nDe 1e verdieping is handig ingericht met 3 kamers, waarvan de voorste kamer het grootste is. Ook tref je hier de moderne badkamer aan met een ligbad en een separate douche. Natuurlijk is er ook een modern wastafelmeubel en een 2e toilet.\nWat erg prettig is, is dat er veel kastruimte is gerealiseerd op deze verdieping. Erg fijn!\nDe woning dateert overigens uit begin 1906.\nDit stukje van Nieuwegein is werkelijk uniek. Letterlijk om de hoek loop je zo een park in.\nLos daarvan kan je ook prima wandelen langs de sluis en het water.\nVoor de dagelijkse boodschappen zijn diverse winkelcentra in de omgeving en wil je naar City-Plaza, dan pak je gewoon even de fiets (nog geen 7 minuten fietsen). Op zaterdag is daar overigens ook de markt te vinden.\nVanaf deze plek is er openbaar vervoer, maar je kan ook met de auto overal eenvoudig naar toe. De beweegbare afsluiting in de weg, daar kan je als bewoner een sleutel voor krijgen. Scheelt je behoorlijk in tijd als je naar de snelweg moet.\nNieuwsgierig geworden?\nBel voor een afspraak 030-2529370. We laten het je graag zien!\nIndeling\nBegane grond\nVoortuin. Entree. Meterkast. Trapopgang.\nWoonkeuken aan de achterzijde. Woonkamer/T.V.-kamer aan de voorzijde.\nModerne half open keuken met inbouwapparatuur. Toilet.\nZonnige achtertuin op het zuidwesten.\nToegang tot de garage via een loopdeur. Via  openslaande deuren kan je vanuit de straat je fiets of auto plaatsen. De tuin is fraai aangelegd en heeft natuurlijk ook een achterom.\n1e Verdieping\nOverloop met veel kastruimte. Luxe badkamer met dakkapel, ligbad, separaat een douche, wastafelmeubel en 2e toilet en met dakkapel. Ruime slaapkamer aan de voorzijde. 2 slaap/werkkamers aan de achterzijde waarvan 1 met dakkapel.\nBijzonderheden\n- Bouwjaar circa 1906\n- Volledig dubbel glas\n- 6 zonnepanelen\n- Energielabel D\n- Nieuwe moderne keuken 2020\n- Zeer centrale ligging t.o.v. winkels en restaurantjes\n- Op 50m afstand van Utrecht\n- Sleutel van de step in de weg is verkrijgbaar bij de gemeente Nieuwegein\nToelichting NEN2580\nDe meetinstructie is gebaseerd op de NEN2580. De meetinstructie is bedoeld om een meer eenduidige manier van meten toe te passen voor het geven van een indicatie van de gebruiksoppervlakte. De meetinstructie sluit verschillen in meetuitkomsten niet volledig uit, door bijvoorbeeld interpretatieverschillen, afrondingen of beperkingen bij het uitvoeren van de meting.\nInteresse in deze woning? Neem je eigen NVM aankoopmakelaar mee.\nKenmerken\nOverdracht\nVraagprijs\n€ 489.000 k.k.\nStatus\nBeschikbaar\nAanvaarding\nIn overleg\nBouw\nSoort woonhuis\nEengezinswoning, Hoekwoning\nBouwjaar\n1906\nSoort bouw\nBestaande bouw\nSoort dak\nZadeldak bedekt met pannen\nKadastrale gegevens\nVolle eigendom, gemeente Juthaas, sectie G, nummer 765 , perceeloppervlakte: 134 m2\nOppervlakte en inhoud\nWoonoppervlakte\n80 m²\nExterne bergruimte\n10 m²\nPerceeloppervlakte\n134 m²\nInhoud\n329 m³\nIndeling\nAantal kamers\n4 kamers (waarvan 3 slaapkamers)\nAantal badkamers\n1 badkamer en 1 apart toilet\nBadkamer voorzieningen\nLigbad, douche, toilet\nVoorzieningen\nGlasvezel kabel, Zonnepanelen, Natuurlijke ventilatie\nEnergie\nIsolatie\nDakisolatie, Dubbel glas\nVerwarming\nCv-ketel\nWarm water\nCv-ketel\nCv-ketel\nIntergas Kombi Kompact HR uit 2018, Huur\nEnergielabel\nEnergieklasse\nD\nBuitenruimte\nLigging\nAan water, Aan park, Aan rustige weg, In woonwijk\nTuin\nAchtertuin, Voortuin\nAchtertuin\n31 m² (7,08m diep en 4,38m breed)\nLigging tuin\nGelegen op het zuiden, westen, zuidwesten\nGarage\nSoort garage\nVrijstaand steen\nCapaciteit\n1 auto\nVoorzieningen\nElektra\nParkeergelegenheid\nSoort parkeergelegenheid\nOpenbaar parkeren\nAankoophulp inschakelen\nWat is dit huis waard? Wat moet ik bieden? Kies voor onze aankoophulp en koop zorgeloos jouw nieuwe woning.\nMeer informatie\nBreng een bod uit\nVerkopend makelaar\nPaul Thijssen Makelaars & Taxateurs o.g.\n030-2529370\ninfo@thijssenmakelaars.nl\nVraag bezichtiging aan\nContact\nAlgemene voorwaarden\nPrivacy verklaring\nVeelgestelde vragen\nContact",
+    "nearest_station": {
+      "station_name": "Utrecht Centraal",
+      "station_addr": "Netherlands",
+      "walking_time": "1 uur 11 min.",
+      "walking_distance": "5,2 km",
+      "to_science_park": {
+        "duration": "1 uur 7 min.",
+        "distance": "43,2 km",
+        "start_address": "Professor Aalbersestraat 2, 3438 AV Nieuwegein, Nederland",
+        "end_address": "Science Park 904, 1098 XH Amsterdam, Nederland",
+        "summary": "",
+        "mode": "transit"
+      },
+      "to_flux": {
+        "duration": "1 uur 34 min.",
+        "distance": "87,3 km",
+        "start_address": "Professor Aalbersestraat 2, 3438 AV Nieuwegein, Nederland",
+        "end_address": "De Groene Loper 19, 5612 AP Eindhoven, Nederland",
+        "summary": "",
+        "mode": "transit"
+      }
+    },
+    "details_sections": {
+      "Overdracht": {
+        "Vraagprijs": "€ 489.000 k.k.",
+        "Status": "Beschikbaar",
+        "Aanvaarding": "In overleg"
+      },
+      "Bouw": {
+        "Soort woonhuis": "Eengezinswoning, Hoekwoning",
+        "Bouwjaar": "1906",
+        "Soort bouw": "Bestaande bouw",
+        "Soort dak": "Zadeldak bedekt met pannen",
+        "Kadastrale gegevens": "Volle eigendom, gemeente Juthaas, sectie G, nummer 765 , perceeloppervlakte: 134 m2"
+      },
+      "Oppervlakte en inhoud": {
+        "Woonoppervlakte": "80 m²",
+        "Externe bergruimte": "10 m²",
+        "Perceeloppervlakte": "134 m²",
+        "Inhoud": "329 m³"
+      },
+      "Indeling": {
+        "Aantal kamers": "4 kamers (waarvan 3 slaapkamers)",
+        "Aantal badkamers": "1 badkamer en 1 apart toilet",
+        "Badkamer voorzieningen": "Ligbad, douche, toilet",
+        "Voorzieningen": "Glasvezel kabel, Zonnepanelen, Natuurlijke ventilatie"
+      },
+      "Energie": {
+        "Isolatie": "Dakisolatie, Dubbel glas",
+        "Verwarming": "Cv-ketel",
+        "Warm water": "Cv-ketel",
+        "Cv-ketel": "Intergas Kombi Kompact HR uit 2018, Huur"
+      },
+      "Energielabel": {
+        "Energieklasse": "D"
+      },
+      "Buitenruimte": {
+        "Ligging": "Aan water, Aan park, Aan rustige weg, In woonwijk",
+        "Tuin": "Achtertuin, Voortuin",
+        "Achtertuin": "31 m² (7,08m diep en 4,38m breed)",
+        "Ligging tuin": "Gelegen op het zuiden, westen, zuidwesten"
+      },
+      "Garage": {
+        "Soort garage": "Vrijstaand steen",
+        "Capaciteit": "1 auto",
+        "Voorzieningen": "Elektra"
+      },
+      "Parkeergelegenheid": {
+        "Soort parkeergelegenheid": "Openbaar parkeren"
+      }
+    },
+    "agent_info": {
+      "name": "Paul Thijssen Makelaars & Taxateurs o.g.",
+      "phone": "030-2529370",
+      "email": "info@thijssenmakelaars.nl"
+    },
+    "important_info": {
+      "Woonoppervlakte": "80 m²",
+      "Inhoud": "329 m³",
+      "Bouwjaar": "1906",
+      "Aantal kamers": "4 kamers (waarvan 3 slaapkamers)",
+      "Aantal badkamers": "1 badkamer en 1 apart toilet",
+      "Aantal slaapkamers": "3",
+      "Energielabel": "D"
+    },
+    "woz_info": null,
+    "immigration_info": "<table style='width:100%;border-collapse:collapse;'><tr><td>Postcodegebied3438in de gemeenteNieuwegein:</td></tr><tr><td>Totaal aantal inwoners:</td><td>9435</td></tr><tr><td>Totaal allochtonen:</td><td>2075</td><td>22.0 %</td></tr><tr><td>Westerse allochtonen:</td><td>880</td><td>9.3 %</td></tr><tr><td>Niet-westerse allochtonen:</td><td>1195</td><td>12.7 %</td></tr></table>",
+    "huispedia_url": "https://huispedia.nl/nieuwegein/3438av/prof.-aalbersestraat/2",
+    "filename": "house_20250610_081053.html"
+  },
+  {
+    "title": "Prof. Aalbersestraat 2",
+    "address": "Prof. Aalbersestraat 2, 3438AV Nieuwegein",
+    "price": "€ 489.000 k.k.",
+    "size_rooms": "80 m² • 134 m² • 4 kamers",
+    "agent": "",
+    "images": [
+      "https://media.nvm.nl/337865e8-b007-4759-955f-00bf754af003",
+      "https://media.nvm.nl/abb7f2b4-2f10-4bb0-aca4-cb61a848ebf2",
+      "https://media.nvm.nl/440e10e4-e645-4ed7-b0aa-2ab0b1b64fb8",
+      "https://media.nvm.nl/79eec816-2002-4529-badd-5f142ba8b1bc",
+      "https://media.nvm.nl/d082f996-06ca-47d8-a909-2a1565792d16",
+      "https://media.nvm.nl/81ecfb62-97bb-495c-88c3-cb68638565a5",
+      "https://media.nvm.nl/9063d574-2485-44ed-95f5-1d497ee77b6c",
+      "https://media.nvm.nl/6c9fcb8e-025a-4806-8a6b-3472e9605331",
+      "https://media.nvm.nl/ef747469-1064-41fe-990d-a6171a3867c3",
+      "https://media.nvm.nl/54c35a33-b8ae-4d33-9fec-1afca9dd1239",
+      "https://media.nvm.nl/a960e212-53c7-4e8a-986b-150beba89cee",
+      "https://media.nvm.nl/dd476917-3c84-49ed-a2c8-a7869e121cfb",
+      "https://media.nvm.nl/ee8ee850-660a-4ab5-b6c2-70be7a2a4eaa",
+      "https://media.nvm.nl/88d2634e-8dbf-4c03-94a6-56b1977deb29",
+      "https://media.nvm.nl/d6e89f4a-081a-4e08-9cea-0b46edae3459",
+      "https://media.nvm.nl/385bd19a-c5c5-43a9-ae73-07fac554be52",
+      "https://media.nvm.nl/16321a8f-2158-4a24-bc1b-84c5ff1ffc09",
+      "https://media.nvm.nl/840945b1-30e9-462d-8a8a-87c5631583e4",
+      "https://media.nvm.nl/41bb827e-504c-401b-90a0-5281224fa1c5",
+      "https://media.nvm.nl/a3ff531a-1671-402e-82a6-50057962449c",
+      "https://media.nvm.nl/99bed8d3-a6e6-45e5-a40b-c5a71954f303",
+      "https://media.nvm.nl/2093c9fa-ad9c-49a5-9b3a-b8cd84a146bc",
+      "https://media.nvm.nl/b6db184e-1081-4bcb-ad78-71a0670c3771",
+      "https://media.nvm.nl/ae2a2693-d889-4dcb-b563-443850aab672",
+      "https://media.nvm.nl/08ac738a-979d-4606-938d-f2b1ea78d213",
+      "https://media.nvm.nl/878518d5-c56f-4ff5-bb0c-495bdb88d8bc",
+      "https://media.nvm.nl/0dd77c94-aed4-4576-8979-7fd44586916a",
+      "https://media.nvm.nl/688a492b-278e-406c-b93c-620f478b8e15",
+      "https://media.nvm.nl/3ff158e5-8400-400d-9059-aee9855406c7",
+      "https://media.nvm.nl/213b514c-6fae-414a-9a1c-0007d7a5af11",
+      "https://media.nvm.nl/d7c36e3e-ed81-4e2e-bb81-23338672e9de",
+      "https://media.nvm.nl/de1ed1e9-3a8c-49d3-8cfc-2bd43f530098",
+      "https://media.nvm.nl/204763b6-144d-47d1-b3ee-d28cc479cf4b",
+      "https://media.nvm.nl/834d50eb-a352-4695-a334-b4be8bd4048e",
+      "https://media.nvm.nl/d841c792-9130-4120-9ff2-da07c90a133f",
+      "https://media.nvm.nl/8dd76cac-ebfe-491d-9b10-902bfa6ad197",
+      "https://media.nvm.nl/d2e05e5e-2d2e-41fb-ac66-c881db4dd28f",
+      "https://media.nvm.nl/2ae464b9-28ca-46ea-821a-6788b2776345",
+      "https://media.nvm.nl/ed9beeaf-1326-4ece-bbf7-f083ff1e9a0c",
+      "https://media.nvm.nl/d7cd34e9-5013-4c19-90e5-cb9dd7c482d1",
+      "https://media.nvm.nl/f180c228-a6e4-41fd-b1bb-703ba04c3f04",
+      "https://media.nvm.nl/f2d636c0-d321-48ea-86f5-ffa8eada9167",
+      "https://media.nvm.nl/718381ec-245e-4ec5-87e9-ad81d5b02b5e",
+      "https://media.nvm.nl/b20d8ee4-d747-440f-80a8-880138ae24dc",
+      "https://media.nvm.nl/21790271-e81f-4d6c-9967-39278e89c27f",
+      "https://media.nvm.nl/2a3f97e0-dd7f-4c2c-a91d-35a24d821b06",
+      "https://media.nvm.nl/ed2ba535-b22c-4221-b884-958d014631d3",
+      "https://media.nvm.nl/36aee61a-0e91-4dd9-a030-661671a42d3c",
+      "https://media.nvm.nl/29984b33-bf5a-4eab-b27f-9f0aa3b7541e",
+      "https://media.nvm.nl/1c125598-06c7-431e-b185-47d4dca6d2b9",
+      "https://media.nvm.nl/c5a8679b-6ae9-4670-bf58-33f38cf7a7e9",
+      "https://media.nvm.nl/aa92ab28-c807-4635-8993-fbd299fafab0",
+      "https://media.nvm.nl/94fd2748-1cd1-476e-9af6-21715c6b9694",
+      "https://media.nvm.nl/2cea7b03-f083-4992-ad1a-3d84cf56ea24",
+      "https://media.nvm.nl/ac3d0f04-adf9-4ce3-83f0-83917b8030ab",
+      "https://media.nvm.nl/b1155109-7829-4ada-97aa-89ddbed65e12",
+      "https://media.nvm.nl/7ace64c5-864b-4f72-8028-8efb5eb06f1b",
+      "https://media.nvm.nl/6019ef9d-0583-4671-bdef-984f964cb5b8",
+      "https://media.nvm.nl/a2010c91-af63-4172-9f1b-45f0ca766ef0",
+      "https://media.nvm.nl/a470150a-d565-476f-be85-8ef8b1513510",
+      "https://media.nvm.nl/b21b569b-6f7f-4023-b025-d2370c89f302",
+      "https://media.nvm.nl/11a4c697-563e-4bfb-9df3-e0d3d8d19058",
+      "https://media.nvm.nl/7f567953-a6d3-4cf0-9929-9648eeaccd0e"
+    ],
+    "url": "https://mijn.makelaarsland.nl/zoekopdracht/woningdetails/3774174",
+    "details": "Mijn huis\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nWoningaanbod\nAankoopdossiers\nWoningaanbod\nZoekopdrachten\nFavorieten\nProf. Aalbersestraat 2\n3438 AV Nieuwegein\n€ 489.000 k.k.\nBewaren\nBekijk alle\n63\nfoto's\nOmschrijving\nBijzonder charmante hoekwoning met voor- en achtertuin en met een garage!!\nEn dat op nog geen 50 meter afstand van Utrecht..\nDit unieke plekje ligt aan de ventweg tegenover de woonboten die liggen aan de Utrechtsestraatweg. Dit deel valt onder Oud-Jutphaas, Huis de Geer.\nDe voordeur is echter aan de Professor Aalbersestraat, een prachtige plek.\nAan de woning hoef je eigenlijk niets te doen. Alles is, voor zover wij weten, al gedaan.\nDubbel glas is aangebracht evenals zonnepanelen. Ook is er een prachtige vloer gelegd die past bij de woning. Zonnige voor- en achtertuin en aan het einde van de achtertuin tref je de garage aan. Beetje hobbyist zal daar blij van worden.\nDe woonkamer is verdeeld in een woonkeuken met allesbrander (is volgens mij ook echt de plek waar je het meeste zal zitten) en aan de voorzijde de T.V.-hoek met bankopstelling. De keuken is pas een paar jaar oud (2020) en is voorzien van diverse inbouwapparatuur en is strak en modern.\nDe 1e verdieping is handig ingericht met 3 kamers, waarvan de voorste kamer het grootste is. Ook tref je hier de moderne badkamer aan met een ligbad en een separate douche. Natuurlijk is er ook een modern wastafelmeubel en een 2e toilet.\nWat erg prettig is, is dat er veel kastruimte is gerealiseerd op deze verdieping. Erg fijn!\nDe woning dateert overigens uit begin 1906.\nDit stukje van Nieuwegein is werkelijk uniek. Letterlijk om de hoek loop je zo een park in.\nLos daarvan kan je ook prima wandelen langs de sluis en het water.\nVoor de dagelijkse boodschappen zijn diverse winkelcentra in de omgeving en wil je naar City-Plaza, dan pak je gewoon even de fiets (nog geen 7 minuten fietsen). Op zaterdag is daar overigens ook de markt te vinden.\nVanaf deze plek is er openbaar vervoer, maar je kan ook met de auto overal eenvoudig naar toe. De beweegbare afsluiting in de weg, daar kan je als bewoner een sleutel voor krijgen. Scheelt je behoorlijk in tijd als je naar de snelweg moet.\nNieuwsgierig geworden?\nBel voor een afspraak 030-2529370. We laten het je graag zien!\nIndeling\nBegane grond\nVoortuin. Entree. Meterkast. Trapopgang.\nWoonkeuken aan de achterzijde. Woonkamer/T.V.-kamer aan de voorzijde.\nModerne half open keuken met inbouwapparatuur. Toilet.\nZonnige achtertuin op het zuidwesten.\nToegang tot de garage via een loopdeur. Via  openslaande deuren kan je vanuit de straat je fiets of auto plaatsen. De tuin is fraai aangelegd en heeft natuurlijk ook een achterom.\n1e Verdieping\nOverloop met veel kastruimte. Luxe badkamer met dakkapel, ligbad, separaat een douche, wastafelmeubel en 2e toilet en met dakkapel. Ruime slaapkamer aan de voorzijde. 2 slaap/werkkamers aan de achterzijde waarvan 1 met dakkapel.\nBijzonderheden\n- Bouwjaar circa 1906\n- Volledig dubbel glas\n- 6 zonnepanelen\n- Energielabel D\n- Nieuwe moderne keuken 2020\n- Zeer centrale ligging t.o.v. winkels en restaurantjes\n- Op 50m afstand van Utrecht\n- Sleutel van de step in de weg is verkrijgbaar bij de gemeente Nieuwegein\nToelichting NEN2580\nDe meetinstructie is gebaseerd op de NEN2580. De meetinstructie is bedoeld om een meer eenduidige manier van meten toe te passen voor het geven van een indicatie van de gebruiksoppervlakte. De meetinstructie sluit verschillen in meetuitkomsten niet volledig uit, door bijvoorbeeld interpretatieverschillen, afrondingen of beperkingen bij het uitvoeren van de meting.\nInteresse in deze woning? Neem je eigen NVM aankoopmakelaar mee.\nKenmerken\nOverdracht\nVraagprijs\n€ 489.000 k.k.\nStatus\nBeschikbaar\nAanvaarding\nIn overleg\nBouw\nSoort woonhuis\nEengezinswoning, Hoekwoning\nBouwjaar\n1906\nSoort bouw\nBestaande bouw\nSoort dak\nZadeldak bedekt met pannen\nKadastrale gegevens\nVolle eigendom, gemeente Juthaas, sectie G, nummer 765 , perceeloppervlakte: 134 m2\nOppervlakte en inhoud\nWoonoppervlakte\n80 m²\nExterne bergruimte\n10 m²\nPerceeloppervlakte\n134 m²\nInhoud\n329 m³\nIndeling\nAantal kamers\n4 kamers (waarvan 3 slaapkamers)\nAantal badkamers\n1 badkamer en 1 apart toilet\nBadkamer voorzieningen\nLigbad, douche, toilet\nVoorzieningen\nGlasvezel kabel, Zonnepanelen, Natuurlijke ventilatie\nEnergie\nIsolatie\nDakisolatie, Dubbel glas\nVerwarming\nCv-ketel\nWarm water\nCv-ketel\nCv-ketel\nIntergas Kombi Kompact HR uit 2018, Huur\nEnergielabel\nEnergieklasse\nD\nBuitenruimte\nLigging\nAan water, Aan park, Aan rustige weg, In woonwijk\nTuin\nAchtertuin, Voortuin\nAchtertuin\n31 m² (7,08m diep en 4,38m breed)\nLigging tuin\nGelegen op het zuiden, westen, zuidwesten\nGarage\nSoort garage\nVrijstaand steen\nCapaciteit\n1 auto\nVoorzieningen\nElektra\nParkeergelegenheid\nSoort parkeergelegenheid\nOpenbaar parkeren\nAankoophulp inschakelen\nWat is dit huis waard? Wat moet ik bieden? Kies voor onze aankoophulp en koop zorgeloos jouw nieuwe woning.\nMeer informatie\nBreng een bod uit\nVerkopend makelaar\nPaul Thijssen Makelaars & Taxateurs o.g.\n030-2529370\ninfo@thijssenmakelaars.nl\nVraag bezichtiging aan\nContact\nAlgemene voorwaarden\nPrivacy verklaring\nVeelgestelde vragen\nContact",
+    "nearest_station": {
+      "station_name": "Utrecht Centraal",
+      "station_addr": "Netherlands",
+      "walking_time": "1 uur 11 min.",
+      "walking_distance": "5,2 km",
+      "to_science_park": {
+        "duration": "1 uur 7 min.",
+        "distance": "43,2 km",
+        "start_address": "Professor Aalbersestraat 2, 3438 AV Nieuwegein, Nederland",
+        "end_address": "Science Park 904, 1098 XH Amsterdam, Nederland",
+        "summary": "",
+        "mode": "transit"
+      },
+      "to_flux": {
+        "duration": "1 uur 34 min.",
+        "distance": "87,3 km",
+        "start_address": "Professor Aalbersestraat 2, 3438 AV Nieuwegein, Nederland",
+        "end_address": "De Groene Loper 19, 5612 AP Eindhoven, Nederland",
+        "summary": "",
+        "mode": "transit"
+      }
+    },
+    "details_sections": {
+      "Overdracht": {
+        "Vraagprijs": "€ 489.000 k.k.",
+        "Status": "Beschikbaar",
+        "Aanvaarding": "In overleg"
+      },
+      "Bouw": {
+        "Soort woonhuis": "Eengezinswoning, Hoekwoning",
+        "Bouwjaar": "1906",
+        "Soort bouw": "Bestaande bouw",
+        "Soort dak": "Zadeldak bedekt met pannen",
+        "Kadastrale gegevens": "Volle eigendom, gemeente Juthaas, sectie G, nummer 765 , perceeloppervlakte: 134 m2"
+      },
+      "Oppervlakte en inhoud": {
+        "Woonoppervlakte": "80 m²",
+        "Externe bergruimte": "10 m²",
+        "Perceeloppervlakte": "134 m²",
+        "Inhoud": "329 m³"
+      },
+      "Indeling": {
+        "Aantal kamers": "4 kamers (waarvan 3 slaapkamers)",
+        "Aantal badkamers": "1 badkamer en 1 apart toilet",
+        "Badkamer voorzieningen": "Ligbad, douche, toilet",
+        "Voorzieningen": "Glasvezel kabel, Zonnepanelen, Natuurlijke ventilatie"
+      },
+      "Energie": {
+        "Isolatie": "Dakisolatie, Dubbel glas",
+        "Verwarming": "Cv-ketel",
+        "Warm water": "Cv-ketel",
+        "Cv-ketel": "Intergas Kombi Kompact HR uit 2018, Huur"
+      },
+      "Energielabel": {
+        "Energieklasse": "D"
+      },
+      "Buitenruimte": {
+        "Ligging": "Aan water, Aan park, Aan rustige weg, In woonwijk",
+        "Tuin": "Achtertuin, Voortuin",
+        "Achtertuin": "31 m² (7,08m diep en 4,38m breed)",
+        "Ligging tuin": "Gelegen op het zuiden, westen, zuidwesten"
+      },
+      "Garage": {
+        "Soort garage": "Vrijstaand steen",
+        "Capaciteit": "1 auto",
+        "Voorzieningen": "Elektra"
+      },
+      "Parkeergelegenheid": {
+        "Soort parkeergelegenheid": "Openbaar parkeren"
+      }
+    },
+    "agent_info": {
+      "name": "Paul Thijssen Makelaars & Taxateurs o.g.",
+      "phone": "030-2529370",
+      "email": "info@thijssenmakelaars.nl"
+    },
+    "important_info": {
+      "Woonoppervlakte": "80 m²",
+      "Inhoud": "329 m³",
+      "Bouwjaar": "1906",
+      "Aantal kamers": "4 kamers (waarvan 3 slaapkamers)",
+      "Aantal badkamers": "1 badkamer en 1 apart toilet",
+      "Aantal slaapkamers": "3",
+      "Energielabel": "D"
+    },
+    "woz_info": null,
+    "immigration_info": "<table style='width:100%;border-collapse:collapse;'><tr><td>Postcodegebied3438in de gemeenteNieuwegein:</td></tr><tr><td>Totaal aantal inwoners:</td><td>9435</td></tr><tr><td>Totaal allochtonen:</td><td>2075</td><td>22.0 %</td></tr><tr><td>Westerse allochtonen:</td><td>880</td><td>9.3 %</td></tr><tr><td>Niet-westerse allochtonen:</td><td>1195</td><td>12.7 %</td></tr></table>",
+    "huispedia_url": "https://huispedia.nl/nieuwegein/3438av/prof.-aalbersestraat/2",
+    "filename": "house_20250610_081053.html"
+  },
+  {
     "title": "Rijnlaan 234",
     "address": "Rijnlaan 234, 3522BZ Utrecht",
     "price": "€ 600.000 k.k.",
